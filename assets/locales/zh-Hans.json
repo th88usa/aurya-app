@@ -1,0 +1,698 @@
+{
+  "locale": "zh-Hans",
+  "ui": {
+    "Idioma": "语言",
+    "Idioma preferido": "首选语言",
+    "Um espaço para você": "属于你的空间",
+    "Comece por dentro.": "从内心开始。",
+    "Quatro momentos do seu dia. Uma mensagem para ler na tela de bloqueio do iPhone.": "每天四个时刻，在 iPhone 锁定屏幕上阅读一句话。",
+    "Cadastro de demonstração": "演示注册",
+    "Como podemos chamar você? (opcional)": "我们该怎么称呼你？（可选）",
+    "E-mail fictício de teste": "测试用虚构邮箱",
+    "Use dados fictícios. O cadastro é obrigatório para entrar nesta demonstração. Não cria conta real, não envia e-mail e não solicita senha. Os dados desaparecem ao recarregar.": "请使用虚构信息。此演示不会创建真实账户、发送邮件或要求密码。刷新后信息会消失。",
+    "Criar cadastro de demonstração": "进入演示",
+    "01 / Seu idioma": "01 / 你的语言",
+    "Palavras que acolhem.": "温暖相伴的话语。",
+    "Escolha o idioma que deseja usar na versão completa.": "选择你的语言。",
+    "Continuar →": "继续 →",
+    "Voltar": "返回",
+    "02 / Seus momentos": "02 / 你的时刻",
+    "Quatro momentos.": "四个时刻。",
+    "Um ritmo seu.": "你的节奏。",
+    "Ao acordar, indo para o trabalho, meio do dia e antes de dormir.": "醒来时、上班路上、中午和睡前。",
+    "Ao acordar": "醒来时",
+    "Indo para o trabalho": "上班路上",
+    "Meio do dia": "中午",
+    "Antes de dormir": "睡前",
+    "Os valores abaixo são exemplos editáveis, não horários escolhidos por você. Defina os quatro momentos; a mensagem fica até a próxima troca.": "以下时间是可编辑的示例。设置四个时刻，每条消息保留到下一个时刻。",
+    "Revisar tela de bloqueio →": "预览锁定屏幕 →",
+    "Seu caminho de hoje": "今天的方向",
+    "Sua intenção": "你的意愿",
+    "O que você quer cultivar neste momento?": "此刻你想培养什么？",
+    "Prosperidade": "兴盛",
+    "Gratidão": "感恩",
+    "Visualização": "愿景想象",
+    "Riqueza": "财富",
+    "Abundância": "丰盛",
+    "Acolher oportunidades e cultivar confiança.": "迎接机会，培养信心。",
+    "Reconhecer o que sustenta você e apreciar suas conquistas.": "认识支持你的事物，珍惜每一步成长。",
+    "Imaginar o que deseja cultivar e dar sentido aos próximos passos.": "想象你希望培养的生活，让下一步更有意义。",
+    "Reconhecer seu valor e cuidar dos recursos que deseja construir.": "认识自身价值，珍惜你希望积累的资源。",
+    "Cultivar receptividade, generosidade e reconhecimento.": "培养接纳、慷慨与珍惜之心。",
+    "Ao acordar, acolha a intenção. No caminho, fortaleça sua postura. Ao meio-dia, reconheça o que está cultivando. À noite, reflita e descanse.": "醒来时确立意愿，带着它开始一天。中午看见自己的成长，夜晚反思并休息。",
+    "Explorar tarefas diárias →": "查看每日任务 →",
+    "Feito para a tela de bloqueio": "为锁定屏幕设计",
+    "Uma frase.": "一句话。",
+    "O seu momento.": "你的时刻。",
+    "Configure no app. A proposta é ler no widget do iPhone, sem precisar abrir o AURYA.": "在应用中设置，目标是无需打开 AURYA 即可在 iPhone 小组件中阅读。",
+    "SIMULAÇÃO DE TELA DE BLOQUEIO": "锁定屏幕模拟",
+    "Não é um widget instalado. Tamanho, fonte e aparência reais dependem do iPhone e do iOS.": "这不是已安装的小组件，实际外观取决于 iPhone 和 iOS。",
+    "Simular um momento": "预览一个时刻",
+    "Simulação manual • voltar ao relógio local": "手动预览 · 返回本地时间",
+    "Simulação pelo relógio local • sem rotação contínua": "按本地时间预览 · 不连续轮换",
+    "Simulação de tela de bloqueio do iPhone": "iPhone 锁定屏幕预览",
+    "▣   SIMULAÇÃO": "▣   预览",
+    "Prévia ilustrativa · accessoryRectangular": "示意预览 · accessoryRectangular",
+    "Conteúdo oculto pela opção de privacidade.": "内容已根据隐私设置隐藏。",
+    "Mostrar frase nesta simulação de bloqueio": "在锁定屏幕预览中显示消息",
+    "A frase é curta para caber no widget. O texto completo fica abaixo para revisão. O iOS pode ocultar conteúdo por privacidade ou cortar texto; não há garantia de troca no minuto exato.": "完整消息显示在下方。实际小组件可能截断或隐藏文本，iOS 也可能延迟更新。",
+    "Mensagem deste momento · intenção escolhida": "此刻的消息 · 所选意愿",
+    "TEXTO ORIGINAL AURYA • PORTUGUÊS": "AURYA 原创文字",
+    "Aprofundar": "深入理解",
+    "Origem da inspiração": "灵感来源",
+    "Consultar perfil de referência": "查看参考主页",
+    "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.": "AURYA 原创内容，围绕信心、优先事项、珍惜与资源管理。",
+    "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento.": "这不是帖子或拿破仑·希尔的引文；150 篇帖子的研究仍在进行。",
+    "A seleção manual acima não altera seus horários.": "手动选择不会改变你的时间设置。",
+    "A mensagem não muda à meia-noite; permanece até o próximo momento.": "消息不会在午夜更换，而会保留到下一个设定时刻。",
+    "Baixar configuração de exemplo do widget": "下载小组件示例设置",
+    "Exportação JSON para revisão técnica; não instala nada no iPhone. Não inclui nome ou e-mail.": "供检查的 JSON 示例，不会安装内容，也不包含姓名或邮箱。",
+    "FREE · ESPAÇO FUTURO DE ANÚNCIO SOMENTE NO APP": "免费版 · 未来仅在应用内展示广告",
+    "Nenhum anúncio na tela de bloqueio": "锁定屏幕不显示广告",
+    "Bloqueio": "锁定屏幕",
+    "Áudios": "音频",
+    "Tarefas": "任务",
+    "Horários": "时间设置",
+    "Seus quatro momentos": "你的四个时刻",
+    "Ajuste uma vez.": "一次设置。",
+    "Leia no seu dia.": "每天相伴。",
+    "Os horários controlam as transições da mensagem. Não são alarmes nem notificações.": "这些时间控制消息切换，不是闹钟或通知。",
+    "Guardar nesta sessão": "保存到本次会话",
+    "Sair da demonstração": "退出演示",
+    "Apagar dados da demonstração": "清除演示信息",
+    "Jornada · 100 dias": "旅程 · 100 天",
+    "Um passo por dia.": "每天一步。",
+    "Uma prática por dia, com retomadas que aprofundam sua intenção.": "每天练习，通过重温深化你的意愿。",
+    "Progresso da jornada": "旅程进度",
+    "100 dias disponíveis para este tema · as práticas são revisitadas com novos focos.": "本主题共 100 天 · 以新重点重温练习。",
+    "Etapa da jornada": "旅程阶段",
+    "Escolher dia": "选择日期",
+    "Reserve cerca de cinco minutos ou adapte ao seu dia.": "安排约五分钟，也可按当天情况调整。",
+    "Versão breve: faça apenas uma parte ou registre uma ideia, no seu ritmo.": "简短版：按自己的节奏完成一部分，或记下一条想法。",
+    "Adaptar para uma versão breve": "改为简短版",
+    "Voltar à prática completa": "返回完整练习",
+    "Seu registro é opcional…": "记录为可选项…",
+    "Prática original do AURYA · sua intenção em uma experiência diária.": "AURYA 原创练习 · 将意愿融入日常。",
+    "Concluí esta atividade": "我已完成此任务",
+    "Concluída ✓ · desfazer": "已完成 ✓ · 撤销",
+    "Fazer depois": "稍后再做",
+    "Você já reconheceu este passo. Pode rever quando quiser.": "你已确认这一步，可以随时重温。",
+    "Seus registros ficam apenas neste navegador. Uma pausa não apaga suas conquistas.": "记录仅保存在此浏览器中，暂停不会抹去你的进步。",
+    "Registro salvo neste navegador.": "记录已保存到此浏览器。",
+    "Registro mantido apenas nesta sessão; o navegador não permitiu salvar.": "浏览器无法保存，记录仅保留在本次会话。",
+    "Progresso mantido apenas nesta sessão.": "进度仅保留在本次会话。",
+    "Tudo bem. Volte quando fizer sentido para você.": "没关系，准备好时再回来。",
+    "DEMONSTRAÇÃO": "演示",
+    "um instante de presença": "片刻专注",
+    "Identidade provisória • Prévia para revisão • v0.4": "暂定标识 · 审阅预览 · v0.4",
+    "Ouça no seu ritmo.": "按自己的节奏聆听。",
+    "Prosperidade, riqueza e gratidão como temas de intenção.": "以兴盛、财富和感恩为主题。",
+    "Tema dos áudios": "音频主题",
+    "Player de amostras sonoras": "音乐示例播放器",
+    "ACESSO FREE / PREMIUM A DEFINIR": "免费版 / 高级版权限待定",
+    "Frequência de referência": "参考调音频率",
+    "Escolha a melodia": "选择旋律",
+    "Música suave original · piano, melodia e acordes.": "原创舒缓音乐 · 钢琴、旋律与和弦。",
+    "As frequências indicam a afinação de referência. A música contém várias notas.": "频率指调音参考，音乐包含多个音符。",
+    "tempo restante de reprodução": "剩余播放时间",
+    "Reproduzir": "播放",
+    "Pausar": "暂停",
+    "Continuar": "继续",
+    "Encerrar": "结束",
+    "Encerrar após": "结束时间",
+    "Comece com volume confortável. Sem início automático. Ao sair desta área ou ocultar a prévia, a reprodução pausa.": "请使用舒适音量。仅在你操作后播放，离开或隐藏页面时会暂停。",
+    "Escolha o tema da sua intenção e ouça no seu ritmo. O acesso Free/Premium será decidido depois.": "选择主题，按自己的节奏聆听。免费版和高级版权限将稍后确定。",
+    "Pronto para ouvir. Sem reprodução automática.": "已就绪，不会自动播放。",
+    "Preparando áudio…": "正在准备音频…",
+    "Reproduzindo amostra em repetição.": "正在循环播放示例。",
+    "Áudio encerrado.": "音频已结束。",
+    "Áudio pausado.": "音频已暂停。",
+    "Áudio pausado ao sair da área.": "离开此区域后音频暂停。",
+    "Áudio pausado ao ocultar a prévia.": "预览隐藏时音频暂停。",
+    "← Voltar à afirmação": "← 返回消息",
+    "Voltar à afirmação": "返回消息",
+    "Aprofundar · leitura opcional": "深入理解 · 可选阅读",
+    "Leitura automática da reflexão": "朗读这段思考",
+    "LEITURA AUTOMÁTICA · PORTUGUÊS": "语音朗读",
+    "Ouvir": "聆听",
+    "Parar": "停止",
+    "Fundo musical suave": "轻柔背景音乐",
+    "Leitura pela voz local do dispositivo. Sem início automático.": "使用设备本地语音，不会自动开始。",
+    "Leitura automática pela voz local do dispositivo. Sem início automático.": "使用设备本地语音，不会自动开始。",
+    "Verificando voz local no idioma escolhido…": "正在查找所选语言的本地语音…",
+    "Voz local neste idioma indisponível. Ative uma voz no dispositivo ou continue lendo.": "此语言的本地语音不可用，请在设备上添加语音或继续阅读。",
+    "Leitura automática concluída.": "朗读已完成。",
+    "Leitura concluída. Música encerrando suavemente…": "朗读完成，音乐正渐渐淡出…",
+    "Preparando…": "正在准备…",
+    "Preparando leitura automática…": "正在准备朗读…",
+    "Leitura pausada.": "朗读已暂停。",
+    "Leitura automática retomada.": "朗读已继续。",
+    "Leitura automática encerrada.": "朗读已停止。",
+    "Fundo musical indisponível; a leitura continua disponível.": "背景音乐不可用，仍可阅读。",
+    "Defina quatro horários válidos e diferentes.": "请设置四个有效且不同的时间。",
+    "Informe um e-mail fictício válido.": "请输入格式有效的虚构邮箱。",
+    "Esta reflexão não está disponível.": "此思考内容不可用。",
+    "Esta reflexão não está disponível. Você pode continuar usando o AURYA.": "此思考内容不可用，你仍可使用 AURYA。",
+    "Quatro horários guardados nesta sessão. Widget real ainda não instalado.": "四个时间已保存到本次会话，实际小组件尚未安装。",
+    "Futuro Premium": "未来高级版",
+    "Seu ritual.": "你的仪式。",
+    "Sua própria voz.": "你自己的声音。",
+    "Um espaço para escutar as palavras que você escolheu, do seu jeito.": "用自己的方式聆听你选择的话语。",
+    "Gravar e reproduzir sua voz": "录制并播放你的声音",
+    "Integração futura. Microfone não utilizado.": "未来功能，不会使用麦克风。",
+    "Experiência sem anúncios": "无广告体验",
+    "Benefício previsto para o Premium.": "计划中的高级版权益。",
+    "Premium indisponível nesta versão. Preços, compras e restauração ainda não configurados. Não há cobranças nem ativação de benefícios.": "高级版尚未开放，价格和购买功能未配置，不会收费或启用权益。",
+    "WidgetKit e App Group têm código nativo preparado, mas ainda não compilado ou instalado. Auth, backend, anúncios, compras e voz continuam como integrações futuras.": "原生小组件已有源代码，但未编译或安装。真实账户、后端、广告、购买和原生语音整合仍待开发。",
+    "TEXTO ORIGINAL AURYA": "AURYA 原创文字",
+    "LEITURA AUTOMÁTICA": "语音朗读",
+    "As mensagens atuais e as tarefas acompanham o idioma escolhido.": "当前的文字与练习使用你选择的语言。",
+    "Não foi possível carregar este idioma. Tente novamente.": "无法加载此语言，请重试。",
+    "SIMULAÇÃO": "模拟",
+    "Simulação de widget retangular": "矩形小组件预览",
+    "Navegação principal": "主导航",
+    "AURYA início": "AURYA 首页",
+    "Conteúdo anterior disponível apenas em português.": "此早期内容仅提供葡萄牙语版本。",
+    "Próxima troca prevista": "下次预定切换",
+    "Voz local no idioma escolhido indisponível. Ative uma voz no dispositivo ou continue lendo.": "此语言的本地语音不可用，请在设备上添加语音或继续阅读。",
+    "Leitura automática indisponível neste navegador. Você pode continuar lendo.": "朗读不可用或已中断。文字仍可阅读。请重试或继续阅读。",
+    "A voz não conseguiu concluir a leitura. O texto continua disponível.": "朗读不可用或已中断。文字仍可阅读。请重试或继续阅读。",
+    "A voz não iniciou neste dispositivo. Continue lendo ou tente novamente.": "朗读不可用或已中断。文字仍可阅读。请重试或继续阅读。",
+    "Não foi possível iniciar a voz. O texto continua disponível.": "朗读不可用或已中断。文字仍可阅读。请重试或继续阅读。",
+    "Pausa indisponível. Leitura encerrada; o texto continua disponível.": "朗读不可用或已中断。文字仍可阅读。请重试或继续阅读。",
+    "Não foi possível retomar. Você pode reiniciar a leitura.": "朗读不可用或已中断。文字仍可阅读。请重试或继续阅读。",
+    "A configuração nativa de exemplo continua em português.": "原生示例配置仍为葡萄牙语。",
+    "Sessão encerrada.": "音频已结束。",
+    "Temporizador concluído. Áudio encerrado.": "计时结束，音频已停止。",
+    "Não foi possível reproduzir. Selecione a amostra novamente e tente iniciar.": "无法播放，请重新选择曲目并重试。"
+  },
+  "messages": {
+    "wake-intention-prosperity-01": {
+      "title": "清晨的心意 · 繁荣",
+      "body": "我带着清晰的心意迎接繁荣，用今天的行动照顾希望成长的生活。",
+      "paragraphs": [
+        "繁荣始于你愿意认真照顾的生活。让心中的目标变得清晰，留意已有的能力与支持，并把期待落实为今天可以做的一步。你可以怀着信心迎接机会，同时耐心培养判断力。每一次学习、付出和坚持，都让愿景与日常生活更加接近。",
+        "开始新的一天前，给自己片刻安静。带着清晰的心意迎接今天，选择一个值得投入的方向。无需一次完成所有事情，让最重要的一步成为今天的起点。",
+        "写下你希望培养的一种繁荣，以及今天可以做的一步。"
+      ]
+    },
+    "commute-intention-prosperity-01": {
+      "title": "路上的信心 · 繁荣",
+      "body": "我相信自己的价值，留意机会，让每一次用心的行动滋养繁荣。",
+      "paragraphs": [
+        "繁荣始于你愿意认真照顾的生活。让心中的目标变得清晰，留意已有的能力与支持，并把期待落实为今天可以做的一步。你可以怀着信心迎接机会，同时耐心培养判断力。每一次学习、付出和坚持，都让愿景与日常生活更加接近。",
+        "在安全停下时，回到自己的心意。让信心体现在耐心、觉察和认真选择中。留意今天可以学习或贡献的机会，把期待化为一个切实可行的行动。",
+        "选择一个值得了解的机会，并花几分钟探索。"
+      ]
+    },
+    "midday-intention-prosperity-01": {
+      "title": "午间的觉察 · 繁荣",
+      "body": "我看见自己正在培养的繁荣，并以清晰与耐心继续前行。",
+      "paragraphs": [
+        "繁荣始于你愿意认真照顾的生活。让心中的目标变得清晰，留意已有的能力与支持，并把期待落实为今天可以做的一步。你可以怀着信心迎接机会，同时耐心培养判断力。每一次学习、付出和坚持，都让愿景与日常生活更加接近。",
+        "在一天的中途稍作停顿，看看自己正在培养什么。承认已有的努力，也允许调整方向。用此刻的觉察，决定接下来如何更用心地行动。",
+        "留意一个能够更用心运用时间的选择。"
+      ]
+    },
+    "sleep-intention-prosperity-01": {
+      "title": "夜晚的安宁 · 繁荣",
+      "body": "我感谢今天的收获，安心休息，让繁荣的愿景陪伴我的明天。",
+      "paragraphs": [
+        "繁荣始于你愿意认真照顾的生活。让心中的目标变得清晰，留意已有的能力与支持，并把期待落实为今天可以做的一步。你可以怀着信心迎接机会，同时耐心培养判断力。每一次学习、付出和坚持，都让愿景与日常生活更加接近。",
+        "结束一天时，轻轻放下尚未完成的事情。感谢自己的付出，记住值得珍惜的一刻。让愿景保持温暖，把明天的行动留给明天，安心休息。",
+        "回顾记录，选择下一阶段想继续的实践。"
+      ]
+    },
+    "wake-intention-gratitude-01": {
+      "title": "清晨的心意 · 感恩",
+      "body": "我怀着感恩醒来，珍惜已有的支持，并敞开心迎接今天的美好。",
+      "paragraphs": [
+        "感恩让你看见已经支撑自己的事物。一份帮助、一次努力或片刻安宁，都值得被认真记住。承认这些美好，并不意味着放弃更好的未来。让感谢成为内心的力量，帮助你珍惜当下，也用更从容的心情走向下一步。",
+        "开始新的一天前，给自己片刻安静。带着清晰的心意迎接今天，选择一个值得投入的方向。无需一次完成所有事情，让最重要的一步成为今天的起点。",
+        "写下今天值得感谢的三件具体小事。"
+      ]
+    },
+    "commute-intention-gratitude-01": {
+      "title": "路上的信心 · 感恩",
+      "body": "我带着感恩前行，珍惜自己的能力，也记住一路给予我的帮助。",
+      "paragraphs": [
+        "感恩让你看见已经支撑自己的事物。一份帮助、一次努力或片刻安宁，都值得被认真记住。承认这些美好，并不意味着放弃更好的未来。让感谢成为内心的力量，帮助你珍惜当下，也用更从容的心情走向下一步。",
+        "在安全停下时，回到自己的心意。让信心体现在耐心、觉察和认真选择中。留意今天可以学习或贡献的机会，把期待化为一个切实可行的行动。",
+        "承认自己的一次努力或自我照顾。"
+      ]
+    },
+    "midday-intention-gratitude-01": {
+      "title": "午间的觉察 · 感恩",
+      "body": "我停下片刻，感谢今天的每一份进步与每一个值得珍惜的细节。",
+      "paragraphs": [
+        "感恩让你看见已经支撑自己的事物。一份帮助、一次努力或片刻安宁，都值得被认真记住。承认这些美好，并不意味着放弃更好的未来。让感谢成为内心的力量，帮助你珍惜当下，也用更从容的心情走向下一步。",
+        "在一天的中途稍作停顿，看看自己正在培养什么。承认已有的努力，也允许调整方向。用此刻的觉察，决定接下来如何更用心地行动。",
+        "留意一个平常的时刻，记下美好的细节。"
+      ]
+    },
+    "sleep-intention-gratitude-01": {
+      "title": "夜晚的安宁 · 感恩",
+      "body": "我以感恩结束今天，承认自己的努力，让心安宁地休息。",
+      "paragraphs": [
+        "感恩让你看见已经支撑自己的事物。一份帮助、一次努力或片刻安宁，都值得被认真记住。承认这些美好，并不意味着放弃更好的未来。让感谢成为内心的力量，帮助你珍惜当下，也用更从容的心情走向下一步。",
+        "结束一天时，轻轻放下尚未完成的事情。感谢自己的付出，记住值得珍惜的一刻。让愿景保持温暖，把明天的行动留给明天，安心休息。",
+        "重读一条感恩记录，补充一个重要细节。"
+      ]
+    },
+    "wake-intention-visualization-01": {
+      "title": "清晨的心意 · 愿景",
+      "body": "我清楚看见向往的繁荣生活，并从今天开始充满信心地创造它。",
+      "paragraphs": [
+        "清晰的愿景能帮助你为行动找到方向。想象你希望过的生活，也想象自己如何学习、选择和面对困难。留意画面背后真正重要的感受与价值，再挑选一个今天可以实践的细节。让想象与行动相互支持，让愿景逐渐成为你每天愿意照顾的方向。",
+        "开始新的一天前，给自己片刻安静。带着清晰的心意迎接今天，选择一个值得投入的方向。无需一次完成所有事情，让最重要的一步成为今天的起点。",
+        "想象向往的生活场景，写下三个重要细节。"
+      ]
+    },
+    "commute-intention-visualization-01": {
+      "title": "路上的信心 · 愿景",
+      "body": "我让愿景指引选择，以专注与行动走向希望建立的生活。",
+      "paragraphs": [
+        "清晰的愿景能帮助你为行动找到方向。想象你希望过的生活，也想象自己如何学习、选择和面对困难。留意画面背后真正重要的感受与价值，再挑选一个今天可以实践的细节。让想象与行动相互支持，让愿景逐渐成为你每天愿意照顾的方向。",
+        "在安全停下时，回到自己的心意。让信心体现在耐心、觉察和认真选择中。留意今天可以学习或贡献的机会，把期待化为一个切实可行的行动。",
+        "想象重要任务的开始，并选择开始时间。"
+      ]
+    },
+    "midday-intention-visualization-01": {
+      "title": "午间的觉察 · 愿景",
+      "body": "我重新看见自己的方向，把心中的愿景落实为此刻的一步。",
+      "paragraphs": [
+        "清晰的愿景能帮助你为行动找到方向。想象你希望过的生活，也想象自己如何学习、选择和面对困难。留意画面背后真正重要的感受与价值，再挑选一个今天可以实践的细节。让想象与行动相互支持，让愿景逐渐成为你每天愿意照顾的方向。",
+        "在一天的中途稍作停顿，看看自己正在培养什么。承认已有的努力，也允许调整方向。用此刻的觉察，决定接下来如何更用心地行动。",
+        "选择一个与未来愿景相连的小行动。"
+      ]
+    },
+    "sleep-intention-visualization-01": {
+      "title": "夜晚的安宁 · 愿景",
+      "body": "我怀着安宁想象美好的明天，感谢今天的努力，然后安心入睡。",
+      "paragraphs": [
+        "清晰的愿景能帮助你为行动找到方向。想象你希望过的生活，也想象自己如何学习、选择和面对困难。留意画面背后真正重要的感受与价值，再挑选一个今天可以实践的细节。让想象与行动相互支持，让愿景逐渐成为你每天愿意照顾的方向。",
+        "结束一天时，轻轻放下尚未完成的事情。感谢自己的付出，记住值得珍惜的一刻。让愿景保持温暖，把明天的行动留给明天，安心休息。",
+        "重新审视愿景，写下下一步心意。"
+      ]
+    },
+    "wake-intention-wealth-01": {
+      "title": "清晨的心意 · 财富",
+      "body": "我带着明确的目标醒来，珍惜自己的能力，培养创造财富的心态。",
+      "paragraphs": [
+        "财富的意义可以是更多选择、安稳与创造的空间。认识自己的能力，也认真对待时间、知识和身边的资源。带着清楚的目的学习与贡献，让今天的选择更贴近你珍视的生活。以耐心和责任感培养财富意识，承认每一次有意义的成长。",
+        "开始新的一天前，给自己片刻安静。带着清晰的心意迎接今天，选择一个值得投入的方向。无需一次完成所有事情，让最重要的一步成为今天的起点。",
+        "写下你希望财富为生活带来的可能。"
+      ]
+    },
+    "commute-intention-wealth-01": {
+      "title": "路上的信心 · 财富",
+      "body": "我以信心运用知识和才能，为财富与生活创造真正的价值。",
+      "paragraphs": [
+        "财富的意义可以是更多选择、安稳与创造的空间。认识自己的能力，也认真对待时间、知识和身边的资源。带着清楚的目的学习与贡献，让今天的选择更贴近你珍视的生活。以耐心和责任感培养财富意识，承认每一次有意义的成长。",
+        "在安全停下时，回到自己的心意。让信心体现在耐心、觉察和认真选择中。留意今天可以学习或贡献的机会，把期待化为一个切实可行的行动。",
+        "花几分钟学习一项有用的技能。"
+      ]
+    },
+    "midday-intention-wealth-01": {
+      "title": "午间的觉察 · 财富",
+      "body": "我认真对待已有的资源，以明智的选择照顾正在成长的财富。",
+      "paragraphs": [
+        "财富的意义可以是更多选择、安稳与创造的空间。认识自己的能力，也认真对待时间、知识和身边的资源。带着清楚的目的学习与贡献，让今天的选择更贴近你珍视的生活。以耐心和责任感培养财富意识，承认每一次有意义的成长。",
+        "在一天的中途稍作停顿，看看自己正在培养什么。承认已有的努力，也允许调整方向。用此刻的觉察，决定接下来如何更用心地行动。",
+        "思考一个关于时间或其他资源的选择。"
+      ]
+    },
+    "sleep-intention-wealth-01": {
+      "title": "夜晚的安宁 · 财富",
+      "body": "我感谢今天创造的价值，安然休息，为明天保留清晰与力量。",
+      "paragraphs": [
+        "财富的意义可以是更多选择、安稳与创造的空间。认识自己的能力，也认真对待时间、知识和身边的资源。带着清楚的目的学习与贡献，让今天的选择更贴近你珍视的生活。以耐心和责任感培养财富意识，承认每一次有意义的成长。",
+        "结束一天时，轻轻放下尚未完成的事情。感谢自己的付出，记住值得珍惜的一刻。让愿景保持温暖，把明天的行动留给明天，安心休息。",
+        "回顾目标，为下一阶段选择可行的承诺。"
+      ]
+    },
+    "wake-intention-abundance-01": {
+      "title": "清晨的心意 · 丰盛",
+      "body": "我向生活的丰盛敞开心，珍惜已经存在的美好与新的可能。",
+      "paragraphs": [
+        "丰盛不仅存在于未来，也存在于当下可以看见和培养的生活之中。留意支持、机会、知识与温暖，允许自己接受帮助，也珍惜可以分享的东西。让开放的心与用心的行动相伴，在日常生活中照顾你希望成长的事物。",
+        "开始新的一天前，给自己片刻安静。带着清晰的心意迎接今天，选择一个值得投入的方向。无需一次完成所有事情，让最重要的一步成为今天的起点。",
+        "写下日常生活中三种丰盛的表现。"
+      ]
+    },
+    "commute-intention-abundance-01": {
+      "title": "路上的信心 · 丰盛",
+      "body": "我看见身边的资源与机会，以开放和用心迎接生活的丰盛。",
+      "paragraphs": [
+        "丰盛不仅存在于未来，也存在于当下可以看见和培养的生活之中。留意支持、机会、知识与温暖，允许自己接受帮助，也珍惜可以分享的东西。让开放的心与用心的行动相伴，在日常生活中照顾你希望成长的事物。",
+        "在安全停下时，回到自己的心意。让信心体现在耐心、觉察和认真选择中。留意今天可以学习或贡献的机会，把期待化为一个切实可行的行动。",
+        "选择分享关注、感谢或知识。"
+      ]
+    },
+    "midday-intention-abundance-01": {
+      "title": "午间的觉察 · 丰盛",
+      "body": "我承认当下的丰盛，并选择继续滋养那些值得成长的事物。",
+      "paragraphs": [
+        "丰盛不仅存在于未来，也存在于当下可以看见和培养的生活之中。留意支持、机会、知识与温暖，允许自己接受帮助，也珍惜可以分享的东西。让开放的心与用心的行动相伴，在日常生活中照顾你希望成长的事物。",
+        "在一天的中途稍作停顿，看看自己正在培养什么。承认已有的努力，也允许调整方向。用此刻的觉察，决定接下来如何更用心地行动。",
+        "按自己的标准承认一次有价值的经历。"
+      ]
+    },
+    "sleep-intention-abundance-01": {
+      "title": "夜晚的安宁 · 丰盛",
+      "body": "我感谢今天给予的一切，带着丰盛与安宁结束这一天。",
+      "paragraphs": [
+        "丰盛不仅存在于未来，也存在于当下可以看见和培养的生活之中。留意支持、机会、知识与温暖，允许自己接受帮助，也珍惜可以分享的东西。让开放的心与用心的行动相伴，在日常生活中照顾你希望成长的事物。",
+        "结束一天时，轻轻放下尚未完成的事情。感谢自己的付出，记住值得珍惜的一刻。让愿景保持温暖，把明天的行动留给明天，安心休息。",
+        "回顾记录，选择继续接受、培养或分享什么。"
+      ]
+    }
+  },
+  "practices": {
+    "prosperity": [
+      [
+        "繁荣 · 明确心意",
+        "写下你希望培养的一种繁荣，以及今天可以做的一步。",
+        "繁荣始于你愿意认真照顾的生活。让心中的目标变得清晰，留意已有的能力与支持，并把期待落实为今天可以做的一步。你可以怀着信心迎接机会，同时耐心培养判断力。每一次学习、付出和坚持，都让愿景与日常生活更加接近。 从日常生活中选择一个具体例子。",
+        "这次实践中，什么对你最重要？"
+      ],
+      [
+        "繁荣 · 看见支持",
+        "列出三项可以支持你的能力或资源。",
+        "繁荣始于你愿意认真照顾的生活。让心中的目标变得清晰，留意已有的能力与支持，并把期待落实为今天可以做的一步。你可以怀着信心迎接机会，同时耐心培养判断力。每一次学习、付出和坚持，都让愿景与日常生活更加接近。 多留意一个真实的细节。",
+        "观察之后，什么变得更清楚了？"
+      ],
+      [
+        "繁荣 · 承认能力",
+        "选择一个值得了解的机会，并花几分钟探索。",
+        "繁荣始于你愿意认真照顾的生活。让心中的目标变得清晰，留意已有的能力与支持，并把期待落实为今天可以做的一步。你可以怀着信心迎接机会，同时耐心培养判断力。每一次学习、付出和坚持，都让愿景与日常生活更加接近。 承认可能性，不必要求完美。",
+        "你想承认自己的哪一点？"
+      ],
+      [
+        "繁荣 · 探索可能",
+        "为一个重要目标完成一小部分。",
+        "繁荣始于你愿意认真照顾的生活。让心中的目标变得清晰，留意已有的能力与支持，并把期待落实为今天可以做的一步。你可以怀着信心迎接机会，同时耐心培养判断力。每一次学习、付出和坚持，都让愿景与日常生活更加接近。 先探索，再选择下一步。",
+        "哪一种可能值得关注？"
+      ],
+      [
+        "繁荣 · 用心行动",
+        "留意一个能够更用心运用时间的选择。",
+        "繁荣始于你愿意认真照顾的生活。让心中的目标变得清晰，留意已有的能力与支持，并把期待落实为今天可以做的一步。你可以怀着信心迎接机会，同时耐心培养判断力。每一次学习、付出和坚持，都让愿景与日常生活更加接近。 把心意落实为力所能及的行动。",
+        "今天你能够迈出哪一小步？"
+      ],
+      [
+        "繁荣 · 珍惜发现",
+        "记录一个让你感到有所成长的行动。",
+        "繁荣始于你愿意认真照顾的生活。让心中的目标变得清晰，留意已有的能力与支持，并把期待落实为今天可以做的一步。你可以怀着信心迎接机会，同时耐心培养判断力。每一次学习、付出和坚持，都让愿景与日常生活更加接近。 珍惜这次经历带来的学习。",
+        "这次体验对你有什么意义？"
+      ],
+      [
+        "繁荣 · 回顾并继续",
+        "回顾记录，选择下一阶段想继续的实践。",
+        "繁荣始于你愿意认真照顾的生活。让心中的目标变得清晰，留意已有的能力与支持，并把期待落实为今天可以做的一步。你可以怀着信心迎接机会，同时耐心培养判断力。每一次学习、付出和坚持，都让愿景与日常生活更加接近。 回顾体验，让下一步更贴近自己的需要。",
+        "你希望带着什么进入下一阶段？"
+      ]
+    ],
+    "gratitude": [
+      [
+        "感恩 · 明确心意",
+        "写下今天值得感谢的三件具体小事。",
+        "感恩让你看见已经支撑自己的事物。一份帮助、一次努力或片刻安宁，都值得被认真记住。承认这些美好，并不意味着放弃更好的未来。让感谢成为内心的力量，帮助你珍惜当下，也用更从容的心情走向下一步。 从日常生活中选择一个具体例子。",
+        "这次实践中，什么对你最重要？"
+      ],
+      [
+        "感恩 · 看见支持",
+        "记住一份帮助，并写下它对你的意义。",
+        "感恩让你看见已经支撑自己的事物。一份帮助、一次努力或片刻安宁，都值得被认真记住。承认这些美好，并不意味着放弃更好的未来。让感谢成为内心的力量，帮助你珍惜当下，也用更从容的心情走向下一步。 多留意一个真实的细节。",
+        "观察之后，什么变得更清楚了？"
+      ],
+      [
+        "感恩 · 承认能力",
+        "承认自己的一次努力或自我照顾。",
+        "感恩让你看见已经支撑自己的事物。一份帮助、一次努力或片刻安宁，都值得被认真记住。承认这些美好，并不意味着放弃更好的未来。让感谢成为内心的力量，帮助你珍惜当下，也用更从容的心情走向下一步。 承认可能性，不必要求完美。",
+        "你想承认自己的哪一点？"
+      ],
+      [
+        "感恩 · 探索可能",
+        "如果愿意，真诚地感谢一位帮助过你的人。",
+        "感恩让你看见已经支撑自己的事物。一份帮助、一次努力或片刻安宁，都值得被认真记住。承认这些美好，并不意味着放弃更好的未来。让感谢成为内心的力量，帮助你珍惜当下，也用更从容的心情走向下一步。 先探索，再选择下一步。",
+        "哪一种可能值得关注？"
+      ],
+      [
+        "感恩 · 用心行动",
+        "留意一个平常的时刻，记下美好的细节。",
+        "感恩让你看见已经支撑自己的事物。一份帮助、一次努力或片刻安宁，都值得被认真记住。承认这些美好，并不意味着放弃更好的未来。让感谢成为内心的力量，帮助你珍惜当下，也用更从容的心情走向下一步。 把心意落实为力所能及的行动。",
+        "今天你能够迈出哪一小步？"
+      ],
+      [
+        "感恩 · 珍惜发现",
+        "写下一项小小的收获以及他人的贡献。",
+        "感恩让你看见已经支撑自己的事物。一份帮助、一次努力或片刻安宁，都值得被认真记住。承认这些美好，并不意味着放弃更好的未来。让感谢成为内心的力量，帮助你珍惜当下，也用更从容的心情走向下一步。 珍惜这次经历带来的学习。",
+        "这次体验对你有什么意义？"
+      ],
+      [
+        "感恩 · 回顾并继续",
+        "重读一条感恩记录，补充一个重要细节。",
+        "感恩让你看见已经支撑自己的事物。一份帮助、一次努力或片刻安宁，都值得被认真记住。承认这些美好，并不意味着放弃更好的未来。让感谢成为内心的力量，帮助你珍惜当下，也用更从容的心情走向下一步。 回顾体验，让下一步更贴近自己的需要。",
+        "你希望带着什么进入下一阶段？"
+      ]
+    ],
+    "visualization": [
+      [
+        "愿景 · 明确心意",
+        "想象向往的生活场景，写下三个重要细节。",
+        "清晰的愿景能帮助你为行动找到方向。想象你希望过的生活，也想象自己如何学习、选择和面对困难。留意画面背后真正重要的感受与价值，再挑选一个今天可以实践的细节。让想象与行动相互支持，让愿景逐渐成为你每天愿意照顾的方向。 从日常生活中选择一个具体例子。",
+        "这次实践中，什么对你最重要？"
+      ],
+      [
+        "愿景 · 看见支持",
+        "想象今天某个情境中你希望如何行动。",
+        "清晰的愿景能帮助你为行动找到方向。想象你希望过的生活，也想象自己如何学习、选择和面对困难。留意画面背后真正重要的感受与价值，再挑选一个今天可以实践的细节。让想象与行动相互支持，让愿景逐渐成为你每天愿意照顾的方向。 多留意一个真实的细节。",
+        "观察之后，什么变得更清楚了？"
+      ],
+      [
+        "愿景 · 承认能力",
+        "想象重要任务的开始，并选择开始时间。",
+        "清晰的愿景能帮助你为行动找到方向。想象你希望过的生活，也想象自己如何学习、选择和面对困难。留意画面背后真正重要的感受与价值，再挑选一个今天可以实践的细节。让想象与行动相互支持，让愿景逐渐成为你每天愿意照顾的方向。 承认可能性，不必要求完美。",
+        "你想承认自己的哪一点？"
+      ],
+      [
+        "愿景 · 探索可能",
+        "想一想可能的困难，以及你能够采取的回应。",
+        "清晰的愿景能帮助你为行动找到方向。想象你希望过的生活，也想象自己如何学习、选择和面对困难。留意画面背后真正重要的感受与价值，再挑选一个今天可以实践的细节。让想象与行动相互支持，让愿景逐渐成为你每天愿意照顾的方向。 先探索，再选择下一步。",
+        "哪一种可能值得关注？"
+      ],
+      [
+        "愿景 · 用心行动",
+        "选择一个与未来愿景相连的小行动。",
+        "清晰的愿景能帮助你为行动找到方向。想象你希望过的生活，也想象自己如何学习、选择和面对困难。留意画面背后真正重要的感受与价值，再挑选一个今天可以实践的细节。让想象与行动相互支持，让愿景逐渐成为你每天愿意照顾的方向。 把心意落实为力所能及的行动。",
+        "今天你能够迈出哪一小步？"
+      ],
+      [
+        "愿景 · 珍惜发现",
+        "比较心中的愿景与这一阶段的实际经历。",
+        "清晰的愿景能帮助你为行动找到方向。想象你希望过的生活，也想象自己如何学习、选择和面对困难。留意画面背后真正重要的感受与价值，再挑选一个今天可以实践的细节。让想象与行动相互支持，让愿景逐渐成为你每天愿意照顾的方向。 珍惜这次经历带来的学习。",
+        "这次体验对你有什么意义？"
+      ],
+      [
+        "愿景 · 回顾并继续",
+        "重新审视愿景，写下下一步心意。",
+        "清晰的愿景能帮助你为行动找到方向。想象你希望过的生活，也想象自己如何学习、选择和面对困难。留意画面背后真正重要的感受与价值，再挑选一个今天可以实践的细节。让想象与行动相互支持，让愿景逐渐成为你每天愿意照顾的方向。 回顾体验，让下一步更贴近自己的需要。",
+        "你希望带着什么进入下一阶段？"
+      ]
+    ],
+    "wealth": [
+      [
+        "财富 · 明确心意",
+        "写下你希望财富为生活带来的可能。",
+        "财富的意义可以是更多选择、安稳与创造的空间。认识自己的能力，也认真对待时间、知识和身边的资源。带着清楚的目的学习与贡献，让今天的选择更贴近你珍视的生活。以耐心和责任感培养财富意识，承认每一次有意义的成长。 从日常生活中选择一个具体例子。",
+        "这次实践中，什么对你最重要？"
+      ],
+      [
+        "财富 · 看见支持",
+        "列出时间、知识、工具或支持中的三项资源。",
+        "财富的意义可以是更多选择、安稳与创造的空间。认识自己的能力，也认真对待时间、知识和身边的资源。带着清楚的目的学习与贡献，让今天的选择更贴近你珍视的生活。以耐心和责任感培养财富意识，承认每一次有意义的成长。 多留意一个真实的细节。",
+        "观察之后，什么变得更清楚了？"
+      ],
+      [
+        "财富 · 承认能力",
+        "花几分钟学习一项有用的技能。",
+        "财富的意义可以是更多选择、安稳与创造的空间。认识自己的能力，也认真对待时间、知识和身边的资源。带着清楚的目的学习与贡献，让今天的选择更贴近你珍视的生活。以耐心和责任感培养财富意识，承认每一次有意义的成长。 承认可能性，不必要求完美。",
+        "你想承认自己的哪一点？"
+      ],
+      [
+        "财富 · 探索可能",
+        "选择在今天的一件事中认真创造价值。",
+        "财富的意义可以是更多选择、安稳与创造的空间。认识自己的能力，也认真对待时间、知识和身边的资源。带着清楚的目的学习与贡献，让今天的选择更贴近你珍视的生活。以耐心和责任感培养财富意识，承认每一次有意义的成长。 先探索，再选择下一步。",
+        "哪一种可能值得关注？"
+      ],
+      [
+        "财富 · 用心行动",
+        "思考一个关于时间或其他资源的选择。",
+        "财富的意义可以是更多选择、安稳与创造的空间。认识自己的能力，也认真对待时间、知识和身边的资源。带着清楚的目的学习与贡献，让今天的选择更贴近你珍视的生活。以耐心和责任感培养财富意识，承认每一次有意义的成长。 把心意落实为力所能及的行动。",
+        "今天你能够迈出哪一小步？"
+      ],
+      [
+        "财富 · 珍惜发现",
+        "承认能力或资源方面的一点进步。",
+        "财富的意义可以是更多选择、安稳与创造的空间。认识自己的能力，也认真对待时间、知识和身边的资源。带着清楚的目的学习与贡献，让今天的选择更贴近你珍视的生活。以耐心和责任感培养财富意识，承认每一次有意义的成长。 珍惜这次经历带来的学习。",
+        "这次体验对你有什么意义？"
+      ],
+      [
+        "财富 · 回顾并继续",
+        "回顾目标，为下一阶段选择可行的承诺。",
+        "财富的意义可以是更多选择、安稳与创造的空间。认识自己的能力，也认真对待时间、知识和身边的资源。带着清楚的目的学习与贡献，让今天的选择更贴近你珍视的生活。以耐心和责任感培养财富意识，承认每一次有意义的成长。 回顾体验，让下一步更贴近自己的需要。",
+        "你希望带着什么进入下一阶段？"
+      ]
+    ],
+    "abundance": [
+      [
+        "丰盛 · 明确心意",
+        "写下日常生活中三种丰盛的表现。",
+        "丰盛不仅存在于未来，也存在于当下可以看见和培养的生活之中。留意支持、机会、知识与温暖，允许自己接受帮助，也珍惜可以分享的东西。让开放的心与用心的行动相伴，在日常生活中照顾你希望成长的事物。 从日常生活中选择一个具体例子。",
+        "这次实践中，什么对你最重要？"
+      ],
+      [
+        "丰盛 · 看见支持",
+        "留意自己可以接受或请求的帮助。",
+        "丰盛不仅存在于未来，也存在于当下可以看见和培养的生活之中。留意支持、机会、知识与温暖，允许自己接受帮助，也珍惜可以分享的东西。让开放的心与用心的行动相伴，在日常生活中照顾你希望成长的事物。 多留意一个真实的细节。",
+        "观察之后，什么变得更清楚了？"
+      ],
+      [
+        "丰盛 · 承认能力",
+        "选择分享关注、感谢或知识。",
+        "丰盛不仅存在于未来，也存在于当下可以看见和培养的生活之中。留意支持、机会、知识与温暖，允许自己接受帮助，也珍惜可以分享的东西。让开放的心与用心的行动相伴，在日常生活中照顾你希望成长的事物。 承认可能性，不必要求完美。",
+        "你想承认自己的哪一点？"
+      ],
+      [
+        "丰盛 · 探索可能",
+        "写下三种可以创造或改善事物的可能。",
+        "丰盛不仅存在于未来，也存在于当下可以看见和培养的生活之中。留意支持、机会、知识与温暖，允许自己接受帮助，也珍惜可以分享的东西。让开放的心与用心的行动相伴，在日常生活中照顾你希望成长的事物。 先探索，再选择下一步。",
+        "哪一种可能值得关注？"
+      ],
+      [
+        "丰盛 · 用心行动",
+        "按自己的标准承认一次有价值的经历。",
+        "丰盛不仅存在于未来，也存在于当下可以看见和培养的生活之中。留意支持、机会、知识与温暖，允许自己接受帮助，也珍惜可以分享的东西。让开放的心与用心的行动相伴，在日常生活中照顾你希望成长的事物。 把心意落实为力所能及的行动。",
+        "今天你能够迈出哪一小步？"
+      ],
+      [
+        "丰盛 · 珍惜发现",
+        "花几分钟照顾一件希望成长的事。",
+        "丰盛不仅存在于未来，也存在于当下可以看见和培养的生活之中。留意支持、机会、知识与温暖，允许自己接受帮助，也珍惜可以分享的东西。让开放的心与用心的行动相伴，在日常生活中照顾你希望成长的事物。 珍惜这次经历带来的学习。",
+        "这次体验对你有什么意义？"
+      ],
+      [
+        "丰盛 · 回顾并继续",
+        "回顾记录，选择继续接受、培养或分享什么。",
+        "丰盛不仅存在于未来，也存在于当下可以看见和培养的生活之中。留意支持、机会、知识与温暖，允许自己接受帮助，也珍惜可以分享的东西。让开放的心与用心的行动相伴，在日常生活中照顾你希望成长的事物。 回顾体验，让下一步更贴近自己的需要。",
+        "你希望带着什么进入下一阶段？"
+      ]
+    ]
+  },
+  "phases": [
+    [
+      "清晰开始",
+      "从符合自己现状的小事开始。"
+    ],
+    [
+      "留意细节",
+      "观察以前没有注意到的地方。"
+    ],
+    [
+      "坚定心意",
+      "把实践与当前重视的目标联系起来。"
+    ],
+    [
+      "尝试新方法",
+      "在不同情境中探索同一个想法。"
+    ],
+    [
+      "接受支持",
+      "留意能够帮助你的人与资源。"
+    ],
+    [
+      "珍惜坚持",
+      "比较之前的记录，承认细小的改变。"
+    ],
+    [
+      "尊重节奏",
+      "简化沉重的部分，保留有帮助的部分。"
+    ],
+    [
+      "拓展可能",
+      "探索新事物，不急于决定。"
+    ],
+    [
+      "用心选择",
+      "留意今天希望体现的价值。"
+    ],
+    [
+      "融入日常",
+      "找到适合重复实践的时间。"
+    ],
+    [
+      "深化意义",
+      "写下实践为何对向往的生活重要。"
+    ],
+    [
+      "承认历程",
+      "回想与练习有关的一项收获。"
+    ],
+    [
+      "准备继续",
+      "选择下一阶段想保留的实践。"
+    ],
+    [
+      "回顾更新",
+      "比较开始与现在，调整心意。"
+    ],
+    [
+      "珍惜并继续",
+      "承认走过的路，选择接下来的照顾。"
+    ]
+  ],
+  "patterns": [
+    [
+      "^(\\d+) de 100 atividades concluídas$",
+      "已完成 $1 / 100 项任务"
+    ],
+    [
+      "^Dias (\\d+)–(\\d+)$",
+      "第 $1–$2 天"
+    ],
+    [
+      "^Dia (\\d+)$",
+      "第 $1 天"
+    ],
+    [
+      "^Horário local: (.+)\\. Horários diferentes; a ordem de troca segue o relógio, inclusive em rotinas noturnas\\.$",
+      "本地时区：$1。各时刻按时间顺序切换，也支持夜间作息。"
+    ],
+    [
+      "^Volume · (\\d+)%$",
+      "音量 · $1%"
+    ],
+    [
+      "^(\\d+) minutos?$",
+      "$1 分钟"
+    ],
+    [
+      "^Texto original AURYA · (\\d+) palavras\\. Acesso Free/Premium a definir\\.$",
+      "AURYA 原创文字 · 本地化版本。免费版与高级版的权限待定。"
+    ],
+    [
+      "^Trilha: (.+)$",
+      "配乐：$1"
+    ],
+    [
+      "^Leitura automática · (.+)$",
+      "朗读 · $1"
+    ]
+  ],
+  "ending": {
+    "title": "承认走过的路，更新心中的方向",
+    "action": "重读一条早期记录和一条近期记录。承认一个变化，并选择想继续的实践。",
+    "prompt": "这百日中你想带走什么，又想继续培养什么？"
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "locale": "en",
+  "ui": {
+    "Idioma": "Language",
+    "Idioma preferido": "Preferred language",
+    "Um espaço para você": "A space for you",
+    "Comece por dentro.": "Start within.",
+    "Quatro momentos do seu dia. Uma mensagem para ler na tela de bloqueio do iPhone.": "Four moments in your day. A message for your iPhone lock screen.",
+    "Cadastro de demonstração": "Demo sign-up",
+    "Como podemos chamar você? (opcional)": "What should we call you? (optional)",
+    "E-mail fictício de teste": "Fictional test email",
+    "Use dados fictícios. O cadastro é obrigatório para entrar nesta demonstração. Não cria conta real, não envia e-mail e não solicita senha. Os dados desaparecem ao recarregar.": "Use fictional details. This demo sign-up creates no real account, sends no email and needs no password. Details disappear on reload.",
+    "Criar cadastro de demonstração": "Enter the demo",
+    "01 / Seu idioma": "01 / Your language",
+    "Palavras que acolhem.": "Words that welcome you.",
+    "Escolha o idioma que deseja usar na versão completa.": "Choose your language.",
+    "Continuar →": "Continue →",
+    "Voltar": "Back",
+    "02 / Seus momentos": "02 / Your moments",
+    "Quatro momentos.": "Four moments.",
+    "Um ritmo seu.": "Your own rhythm.",
+    "Ao acordar, indo para o trabalho, meio do dia e antes de dormir.": "On waking, on your way, at midday and before sleep.",
+    "Ao acordar": "On waking",
+    "Indo para o trabalho": "On your way",
+    "Meio do dia": "Midday",
+    "Antes de dormir": "Before sleep",
+    "Os valores abaixo são exemplos editáveis, não horários escolhidos por você. Defina os quatro momentos; a mensagem fica até a próxima troca.": "These editable times are examples. Set your four moments; each message stays until the next one.",
+    "Revisar tela de bloqueio →": "Preview lock screen →",
+    "Seu caminho de hoje": "Your path today",
+    "Sua intenção": "Your intention",
+    "O que você quer cultivar neste momento?": "What would you like to cultivate now?",
+    "Prosperidade": "Prosperity",
+    "Gratidão": "Gratitude",
+    "Visualização": "Visualization",
+    "Riqueza": "Wealth",
+    "Abundância": "Abundance",
+    "Acolher oportunidades e cultivar confiança.": "Welcome opportunities and cultivate confidence.",
+    "Reconhecer o que sustenta você e apreciar suas conquistas.": "Recognize what supports you and appreciate your progress.",
+    "Imaginar o que deseja cultivar e dar sentido aos próximos passos.": "Imagine what you wish to cultivate and give meaning to your next steps.",
+    "Reconhecer seu valor e cuidar dos recursos que deseja construir.": "Recognize your value and care for the resources you wish to build.",
+    "Cultivar receptividade, generosidade e reconhecimento.": "Cultivate openness, generosity and appreciation.",
+    "Ao acordar, acolha a intenção. No caminho, fortaleça sua postura. Ao meio-dia, reconheça o que está cultivando. À noite, reflita e descanse.": "Welcome your intention on waking. Carry it into your day. Recognize your progress at midday. Reflect and rest at night.",
+    "Explorar tarefas diárias →": "Explore daily tasks →",
+    "Feito para a tela de bloqueio": "Made for your lock screen",
+    "Uma frase.": "One message.",
+    "O seu momento.": "Your moment.",
+    "Configure no app. A proposta é ler no widget do iPhone, sem precisar abrir o AURYA.": "Set it in the app. The goal is to read it in an iPhone widget without opening AURYA.",
+    "SIMULAÇÃO DE TELA DE BLOQUEIO": "LOCK SCREEN SIMULATION",
+    "Não é um widget instalado. Tamanho, fonte e aparência reais dependem do iPhone e do iOS.": "This is not an installed widget. Actual appearance depends on the iPhone and iOS.",
+    "Simular um momento": "Preview a moment",
+    "Simulação manual • voltar ao relógio local": "Manual preview • return to local time",
+    "Simulação pelo relógio local • sem rotação contínua": "Local-time preview • no continuous rotation",
+    "Simulação de tela de bloqueio do iPhone": "iPhone lock screen preview",
+    "▣   SIMULAÇÃO": "▣   PREVIEW",
+    "Prévia ilustrativa · accessoryRectangular": "Illustrative preview · accessoryRectangular",
+    "Conteúdo oculto pela opção de privacidade.": "Content hidden by your privacy choice.",
+    "Mostrar frase nesta simulação de bloqueio": "Show message in this lock screen preview",
+    "A frase é curta para caber no widget. O texto completo fica abaixo para revisão. O iOS pode ocultar conteúdo por privacidade ou cortar texto; não há garantia de troca no minuto exato.": "The full message appears below. A real widget may truncate or hide text, and iOS may delay changes.",
+    "Mensagem deste momento · intenção escolhida": "Message for this moment · chosen intention",
+    "TEXTO ORIGINAL AURYA • PORTUGUÊS": "ORIGINAL AURYA WRITING",
+    "Aprofundar": "Go deeper",
+    "Origem da inspiração": "Source of inspiration",
+    "Consultar perfil de referência": "View reference profile",
+    "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.": "Original AURYA writing on confidence, priorities, appreciation and caring for resources.",
+    "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento.": "This is not a quotation from the post or Napoleon Hill. Review of the 150 posts is ongoing.",
+    "A seleção manual acima não altera seus horários.": "Manual selection does not change your schedule.",
+    "A mensagem não muda à meia-noite; permanece até o próximo momento.": "The message stays through midnight until the next scheduled moment.",
+    "Baixar configuração de exemplo do widget": "Download sample widget settings",
+    "Exportação JSON para revisão técnica; não instala nada no iPhone. Não inclui nome ou e-mail.": "Sample JSON for review; installs nothing and includes no name or email.",
+    "FREE · ESPAÇO FUTURO DE ANÚNCIO SOMENTE NO APP": "FREE · FUTURE AD SPACE INSIDE THE APP ONLY",
+    "Nenhum anúncio na tela de bloqueio": "No ads on the lock screen",
+    "Bloqueio": "Lock screen",
+    "Áudios": "Audio",
+    "Tarefas": "Tasks",
+    "Horários": "Schedule",
+    "Seus quatro momentos": "Your four moments",
+    "Ajuste uma vez.": "Set it once.",
+    "Leia no seu dia.": "Read throughout your day.",
+    "Os horários controlam as transições da mensagem. Não são alarmes nem notificações.": "These times change the message; they are not alarms or notifications.",
+    "Guardar nesta sessão": "Save for this session",
+    "Sair da demonstração": "Leave the demo",
+    "Apagar dados da demonstração": "Clear demo details",
+    "Jornada · 100 dias": "Journey · 100 days",
+    "Um passo por dia.": "One step each day.",
+    "Uma prática por dia, com retomadas que aprofundam sua intenção.": "A daily practice, revisited to deepen your intention.",
+    "Progresso da jornada": "Journey progress",
+    "100 dias disponíveis para este tema · as práticas são revisitadas com novos focos.": "100 days for this theme · practices return with new focuses.",
+    "Etapa da jornada": "Journey stage",
+    "Escolher dia": "Choose a day",
+    "Reserve cerca de cinco minutos ou adapte ao seu dia.": "Set aside about five minutes, or adapt it to your day.",
+    "Versão breve: faça apenas uma parte ou registre uma ideia, no seu ritmo.": "Short version: do one part or record an idea at your pace.",
+    "Adaptar para uma versão breve": "Try a shorter version",
+    "Voltar à prática completa": "Return to the full practice",
+    "Seu registro é opcional…": "Your note is optional…",
+    "Prática original do AURYA · sua intenção em uma experiência diária.": "Original AURYA practice · your intention in daily life.",
+    "Concluí esta atividade": "I completed this activity",
+    "Concluída ✓ · desfazer": "Completed ✓ · undo",
+    "Fazer depois": "Do it later",
+    "Você já reconheceu este passo. Pode rever quando quiser.": "You have marked this step. Revisit it whenever you wish.",
+    "Seus registros ficam apenas neste navegador. Uma pausa não apaga suas conquistas.": "Your notes stay in this browser only. A pause does not erase your progress.",
+    "Registro salvo neste navegador.": "Note saved in this browser.",
+    "Registro mantido apenas nesta sessão; o navegador não permitiu salvar.": "Note kept for this session only; browser storage is unavailable.",
+    "Progresso mantido apenas nesta sessão.": "Progress kept for this session only.",
+    "Tudo bem. Volte quando fizer sentido para você.": "That is fine. Return when it feels right for you.",
+    "DEMONSTRAÇÃO": "DEMO",
+    "um instante de presença": "a moment of presence",
+    "Identidade provisória • Prévia para revisão • v0.4": "Working identity • Review preview • v0.4",
+    "Ouça no seu ritmo.": "Listen at your pace.",
+    "Prosperidade, riqueza e gratidão como temas de intenção.": "Prosperity, wealth and gratitude as themes for reflection.",
+    "Tema dos áudios": "Audio theme",
+    "Player de amostras sonoras": "Music sample player",
+    "ACESSO FREE / PREMIUM A DEFINIR": "FREE / PREMIUM ACCESS TO BE DECIDED",
+    "Frequência de referência": "Reference tuning",
+    "Escolha a melodia": "Choose a melody",
+    "Música suave original · piano, melodia e acordes.": "Original gentle music · piano, melody and chords.",
+    "As frequências indicam a afinação de referência. A música contém várias notas.": "Frequencies describe reference tuning. The music contains many notes.",
+    "tempo restante de reprodução": "playback time remaining",
+    "Reproduzir": "Play",
+    "Pausar": "Pause",
+    "Continuar": "Resume",
+    "Encerrar": "Stop",
+    "Encerrar após": "Stop after",
+    "Comece com volume confortável. Sem início automático. Ao sair desta área ou ocultar a prévia, a reprodução pausa.": "Use a comfortable volume. Playback starts only on request and pauses when you leave or hide this page.",
+    "Escolha o tema da sua intenção e ouça no seu ritmo. O acesso Free/Premium será decidido depois.": "Choose a theme and listen at your pace. Free/Premium access will be decided later.",
+    "Pronto para ouvir. Sem reprodução automática.": "Ready. No autoplay.",
+    "Preparando áudio…": "Loading audio…",
+    "Reproduzindo amostra em repetição.": "Playing sample on repeat.",
+    "Áudio encerrado.": "Audio stopped.",
+    "Áudio pausado.": "Audio paused.",
+    "Áudio pausado ao sair da área.": "Audio paused after leaving this area.",
+    "Áudio pausado ao ocultar a prévia.": "Audio paused when the preview was hidden.",
+    "← Voltar à afirmação": "← Back to the message",
+    "Voltar à afirmação": "Back to the message",
+    "Aprofundar · leitura opcional": "Go deeper · optional reading",
+    "Leitura automática da reflexão": "Read this reflection aloud",
+    "LEITURA AUTOMÁTICA · PORTUGUÊS": "READ ALOUD",
+    "Ouvir": "Listen",
+    "Parar": "Stop",
+    "Fundo musical suave": "Gentle background music",
+    "Leitura pela voz local do dispositivo. Sem início automático.": "Uses a local device voice. No autoplay.",
+    "Leitura automática pela voz local do dispositivo. Sem início automático.": "Uses a local device voice. No autoplay.",
+    "Verificando voz local no idioma escolhido…": "Checking a local voice for this language…",
+    "Voz local neste idioma indisponível. Ative uma voz no dispositivo ou continue lendo.": "No local voice for this language. Add one on your device or keep reading.",
+    "Leitura automática concluída.": "Reading complete.",
+    "Leitura concluída. Música encerrando suavemente…": "Reading complete. Music is fading out…",
+    "Preparando…": "Preparing…",
+    "Preparando leitura automática…": "Preparing read-aloud…",
+    "Leitura pausada.": "Reading paused.",
+    "Leitura automática retomada.": "Reading resumed.",
+    "Leitura automática encerrada.": "Reading stopped.",
+    "Fundo musical indisponível; a leitura continua disponível.": "Background music unavailable; reading is still available.",
+    "Defina quatro horários válidos e diferentes.": "Set four valid, distinct times.",
+    "Informe um e-mail fictício válido.": "Enter a valid fictional email.",
+    "Esta reflexão não está disponível.": "This reflection is unavailable.",
+    "Esta reflexão não está disponível. Você pode continuar usando o AURYA.": "This reflection is unavailable. You can keep using AURYA.",
+    "Quatro horários guardados nesta sessão. Widget real ainda não instalado.": "Four times saved for this session. No real widget is installed yet.",
+    "Futuro Premium": "Future Premium",
+    "Seu ritual.": "Your ritual.",
+    "Sua própria voz.": "Your own voice.",
+    "Um espaço para escutar as palavras que você escolheu, do seu jeito.": "A space to hear your chosen words in your own way.",
+    "Gravar e reproduzir sua voz": "Record and play your voice",
+    "Integração futura. Microfone não utilizado.": "Future feature. Microphone not used.",
+    "Experiência sem anúncios": "Ad-free experience",
+    "Benefício previsto para o Premium.": "Planned Premium benefit.",
+    "Premium indisponível nesta versão. Preços, compras e restauração ainda não configurados. Não há cobranças nem ativação de benefícios.": "Premium is not available. Pricing and purchases are not configured; there are no charges or active benefits.",
+    "WidgetKit e App Group têm código nativo preparado, mas ainda não compilado ou instalado. Auth, backend, anúncios, compras e voz continuam como integrações futuras.": "Native widget sources exist but are not built or installed. Production accounts, backend, ads, purchases and native voice integration remain future work.",
+    "TEXTO ORIGINAL AURYA": "ORIGINAL AURYA TEXT",
+    "LEITURA AUTOMÁTICA": "READ ALOUD",
+    "As mensagens atuais e as tarefas acompanham o idioma escolhido.": "Current messages and tasks use your chosen language.",
+    "Não foi possível carregar este idioma. Tente novamente.": "This language could not load. Please try again.",
+    "SIMULAÇÃO": "SIMULATION",
+    "Simulação de widget retangular": "Rectangular widget preview",
+    "Navegação principal": "Main navigation",
+    "AURYA início": "AURYA home",
+    "Conteúdo anterior disponível apenas em português.": "This earlier content is available only in Portuguese.",
+    "Próxima troca prevista": "Next scheduled change",
+    "Voz local no idioma escolhido indisponível. Ative uma voz no dispositivo ou continue lendo.": "No local voice for this language. Add one on your device or keep reading.",
+    "Leitura automática indisponível neste navegador. Você pode continuar lendo.": "Read-aloud is unavailable or was interrupted. The text remains available. Try again or keep reading.",
+    "A voz não conseguiu concluir a leitura. O texto continua disponível.": "Read-aloud is unavailable or was interrupted. The text remains available. Try again or keep reading.",
+    "A voz não iniciou neste dispositivo. Continue lendo ou tente novamente.": "Read-aloud is unavailable or was interrupted. The text remains available. Try again or keep reading.",
+    "Não foi possível iniciar a voz. O texto continua disponível.": "Read-aloud is unavailable or was interrupted. The text remains available. Try again or keep reading.",
+    "Pausa indisponível. Leitura encerrada; o texto continua disponível.": "Read-aloud is unavailable or was interrupted. The text remains available. Try again or keep reading.",
+    "Não foi possível retomar. Você pode reiniciar a leitura.": "Read-aloud is unavailable or was interrupted. The text remains available. Try again or keep reading.",
+    "A configuração nativa de exemplo continua em português.": "The sample native configuration remains in Portuguese.",
+    "Sessão encerrada.": "Audio stopped.",
+    "Temporizador concluído. Áudio encerrado.": "Timer finished. Audio stopped.",
+    "Não foi possível reproduzir. Selecione a amostra novamente e tente iniciar.": "Playback failed. Select the track again and retry."
+  },
+  "messages": {
+    "wake-intention-prosperity-01": {
+      "title": "Welcome a new day · Prosperity",
+      "body": "I awaken to new possibilities. I welcome prosperity and move forward with confidence.",
+      "paragraphs": [
+        "Give prosperity a meaning that belongs to your life: freedom to choose, care for those you love, or satisfaction in what you create. Notice what already supports you and allow yourself to imagine new possibilities. Choose a step that fits your circumstances and appreciate the attention you give it.",
+        "Before beginning your routine, breathe calmly and welcome your intention. Think about how you would like to feel and act today. Choose one quality to carry into the morning and one small action that expresses it.",
+        "Write what a prosperous life means to you."
+      ]
+    },
+    "commute-intention-prosperity-01": {
+      "title": "Carry your intention · Prosperity",
+      "body": "I bring confidence to my path and turn my abilities into opportunities to prosper.",
+      "paragraphs": [
+        "Give prosperity a meaning that belongs to your life: freedom to choose, care for those you love, or satisfaction in what you create. Notice what already supports you and allow yourself to imagine new possibilities. Choose a step that fits your circumstances and appreciate the attention you give it.",
+        "Carry your intention into the situations you meet today. Notice how listening, learning or contributing could give it expression. If you are travelling, keep your attention on the route and reflect only when safely stopped.",
+        "Choose one ability and a way to practise it today."
+      ]
+    },
+    "midday-intention-prosperity-01": {
+      "title": "Recognize your progress · Prosperity",
+      "body": "My prosperity grows through conscious choices. I recognize progress and strengthen what I want to build.",
+      "paragraphs": [
+        "Give prosperity a meaning that belongs to your life: freedom to choose, care for those you love, or satisfaction in what you create. Notice what already supports you and allow yourself to imagine new possibilities. Choose a step that fits your circumstances and appreciate the attention you give it.",
+        "Pause and notice where your attention has been. Recognize a choice or discovery from the morning. Then select one priority for the coming hours, adapting it if your circumstances have changed.",
+        "Spend a few minutes on a priority connected to prosperity."
+      ]
+    },
+    "sleep-intention-prosperity-01": {
+      "title": "Rest with confidence · Prosperity",
+      "body": "I am grateful for what I built today. I rest with confidence and welcome tomorrow’s possibilities.",
+      "paragraphs": [
+        "Give prosperity a meaning that belongs to your life: freedom to choose, care for those you love, or satisfaction in what you create. Notice what already supports you and allow yourself to imagine new possibilities. Choose a step that fits your circumstances and appreciate the attention you give it.",
+        "Close the day by recognizing a meaningful moment. If something remains unfinished, write down a possible next step for tomorrow. Allow your hopes to have space without needing to solve everything tonight, and welcome rest.",
+        "Reread a note and choose a practice to continue."
+      ]
+    },
+    "wake-intention-gratitude-01": {
+      "title": "Welcome a new day · Gratitude",
+      "body": "I awaken grateful for the life that supports me and open to all the richness I can cultivate.",
+      "paragraphs": [
+        "Let gratitude begin with something concrete: support received, a moment of care, or a small achievement. Give that experience your attention without requiring a perfect feeling. You can appreciate what is here while still wishing for change. Recognize your own effort and the contributions of others.",
+        "Before beginning your routine, breathe calmly and welcome your intention. Think about how you would like to feel and act today. Choose one quality to carry into the morning and one small action that expresses it.",
+        "Name three concrete things you appreciate today."
+      ]
+    },
+    "commute-intention-gratitude-01": {
+      "title": "Carry your intention · Gratitude",
+      "body": "I value what I receive and offer my best. Gratitude accompanies my path to prosperity.",
+      "paragraphs": [
+        "Let gratitude begin with something concrete: support received, a moment of care, or a small achievement. Give that experience your attention without requiring a perfect feeling. You can appreciate what is here while still wishing for change. Recognize your own effort and the contributions of others.",
+        "Carry your intention into the situations you meet today. Notice how listening, learning or contributing could give it expression. If you are travelling, keep your attention on the route and reflect only when safely stopped.",
+        "Record an effort or an act of self-care worth recognizing."
+      ]
+    },
+    "midday-intention-gratitude-01": {
+      "title": "Recognize your progress · Gratitude",
+      "body": "I recognize the abundance already present in my day and receive each small achievement with gratitude.",
+      "paragraphs": [
+        "Let gratitude begin with something concrete: support received, a moment of care, or a small achievement. Give that experience your attention without requiring a perfect feeling. You can appreciate what is here while still wishing for change. Recognize your own effort and the contributions of others.",
+        "Pause and notice where your attention has been. Recognize a choice or discovery from the morning. Then select one priority for the coming hours, adapting it if your circumstances have changed.",
+        "Notice a simple moment and record a detail you enjoyed."
+      ]
+    },
+    "sleep-intention-gratitude-01": {
+      "title": "Rest with confidence · Gratitude",
+      "body": "I close the day recognizing its riches: the love I received, what I learned and what I could build.",
+      "paragraphs": [
+        "Let gratitude begin with something concrete: support received, a moment of care, or a small achievement. Give that experience your attention without requiring a perfect feeling. You can appreciate what is here while still wishing for change. Recognize your own effort and the contributions of others.",
+        "Close the day by recognizing a meaningful moment. If something remains unfinished, write down a possible next step for tomorrow. Allow your hopes to have space without needing to solve everything tonight, and welcome rest.",
+        "Reread a gratitude note and add something meaningful."
+      ]
+    },
+    "wake-intention-visualization-01": {
+      "title": "Welcome a new day · Visualization",
+      "body": "I clearly envision the prosperous life I desire and begin building it today with confidence.",
+      "paragraphs": [
+        "Form a clear image of the life you wish to cultivate. Notice the details that matter to you: how you spend your time, the people around you and the qualities you bring to your choices. Let the image guide a possible action, and allow it to develop as you learn.",
+        "Before beginning your routine, breathe calmly and welcome your intention. Think about how you would like to feel and act today. Choose one quality to carry into the morning and one small action that expresses it.",
+        "Picture a desired scene and describe three meaningful details."
+      ]
+    },
+    "commute-intention-visualization-01": {
+      "title": "Carry your intention · Visualization",
+      "body": "I keep my vision of prosperity alive and recognize steps that can bring me closer to it.",
+      "paragraphs": [
+        "Form a clear image of the life you wish to cultivate. Notice the details that matter to you: how you spend your time, the people around you and the qualities you bring to your choices. Let the image guide a possible action, and allow it to develop as you learn.",
+        "Carry your intention into the situations you meet today. Notice how listening, learning or contributing could give it expression. If you are travelling, keep your attention on the route and reflect only when safely stopped.",
+        "Picture the beginning of an important task and choose when to start."
+      ]
+    },
+    "midday-intention-visualization-01": {
+      "title": "Recognize your progress · Visualization",
+      "body": "My vision of abundance guides my choices. Today I turn one possibility into a concrete step.",
+      "paragraphs": [
+        "Form a clear image of the life you wish to cultivate. Notice the details that matter to you: how you spend your time, the people around you and the qualities you bring to your choices. Let the image guide a possible action, and allow it to develop as you learn.",
+        "Pause and notice where your attention has been. Recognize a choice or discovery from the morning. Then select one priority for the coming hours, adapting it if your circumstances have changed.",
+        "Choose a short action connected to the scene you imagined."
+      ]
+    },
+    "sleep-intention-visualization-01": {
+      "title": "Rest with confidence · Visualization",
+      "body": "I welcome rest with a vision of peace, fulfillment and abundance, trusting my own path.",
+      "paragraphs": [
+        "Form a clear image of the life you wish to cultivate. Notice the details that matter to you: how you spend your time, the people around you and the qualities you bring to your choices. Let the image guide a possible action, and allow it to develop as you learn.",
+        "Close the day by recognizing a meaningful moment. If something remains unfinished, write down a possible next step for tomorrow. Allow your hopes to have space without needing to solve everything tonight, and welcome rest.",
+        "Review your scene and record your next intention."
+      ]
+    },
+    "wake-intention-wealth-01": {
+      "title": "Welcome a new day · Wealth",
+      "body": "I recognize my worth. I develop my abilities and build wealth with courage, consistency and wisdom.",
+      "paragraphs": [
+        "Recognize your abilities and consider what you want wealth to make possible in your life. It may mean autonomy, time or resources to care for your family. Give attention to learning, creating value and caring for what you have. Choose your next step with awareness of your priorities and limits.",
+        "Before beginning your routine, breathe calmly and welcome your intention. Think about how you would like to feel and act today. Choose one quality to carry into the morning and one small action that expresses it.",
+        "Write what you want building wealth to make possible."
+      ]
+    },
+    "commute-intention-wealth-01": {
+      "title": "Carry your intention · Wealth",
+      "body": "I offer my talents with confidence and expand my ability to create value and build wealth.",
+      "paragraphs": [
+        "Recognize your abilities and consider what you want wealth to make possible in your life. It may mean autonomy, time or resources to care for your family. Give attention to learning, creating value and caring for what you have. Choose your next step with awareness of your priorities and limits.",
+        "Carry your intention into the situations you meet today. Notice how listening, learning or contributing could give it expression. If you are travelling, keep your attention on the route and reflect only when safely stopped.",
+        "Spend a few minutes learning or practising a useful skill."
+      ]
+    },
+    "midday-intention-wealth-01": {
+      "title": "Recognize your progress · Wealth",
+      "body": "I honor my resources and achievements. I make choices that support the wealth I wish to build.",
+      "paragraphs": [
+        "Recognize your abilities and consider what you want wealth to make possible in your life. It may mean autonomy, time or resources to care for your family. Give attention to learning, creating value and caring for what you have. Choose your next step with awareness of your priorities and limits.",
+        "Pause and notice where your attention has been. Recognize a choice or discovery from the morning. Then select one priority for the coming hours, adapting it if your circumstances have changed.",
+        "Reflect on one choice about your time or another resource."
+      ]
+    },
+    "sleep-intention-wealth-01": {
+      "title": "Rest with confidence · Wealth",
+      "body": "I appreciate every step in building wealth and rest peacefully, recognizing the value of my effort.",
+      "paragraphs": [
+        "Recognize your abilities and consider what you want wealth to make possible in your life. It may mean autonomy, time or resources to care for your family. Give attention to learning, creating value and caring for what you have. Choose your next step with awareness of your priorities and limits.",
+        "Close the day by recognizing a meaningful moment. If something remains unfinished, write down a possible next step for tomorrow. Allow your hopes to have space without needing to solve everything tonight, and welcome rest.",
+        "Review your intention and choose a realistic commitment for the next stage."
+      ]
+    },
+    "wake-intention-abundance-01": {
+      "title": "Welcome a new day · Abundance",
+      "body": "I awaken open to receive, courageous enough to grow and grateful for the abundance I can cultivate.",
+      "paragraphs": [
+        "Notice the forms of abundance that nourish your life: affection, creativity, knowledge, resources and time. You can welcome support, enjoy what matters and share within your limits. Choose something you wish to cultivate, allowing appreciation for the present to accompany your hopes for the future.",
+        "Before beginning your routine, breathe calmly and welcome your intention. Think about how you would like to feel and act today. Choose one quality to carry into the morning and one small action that expresses it.",
+        "Record three forms of abundance in your everyday life."
+      ]
+    },
+    "commute-intention-abundance-01": {
+      "title": "Carry your intention · Abundance",
+      "body": "I recognize possibilities to grow, receive support with gratitude and share what I can offer.",
+      "paragraphs": [
+        "Notice the forms of abundance that nourish your life: affection, creativity, knowledge, resources and time. You can welcome support, enjoy what matters and share within your limits. Choose something you wish to cultivate, allowing appreciation for the present to accompany your hopes for the future.",
+        "Carry your intention into the situations you meet today. Notice how listening, learning or contributing could give it expression. If you are travelling, keep your attention on the route and reflect only when safely stopped.",
+        "Choose something you can offer: attention, appreciation or knowledge."
+      ]
+    },
+    "midday-intention-abundance-01": {
+      "title": "Recognize your progress · Abundance",
+      "body": "I appreciate present abundance and make room for new achievements with confidence, presence and generosity.",
+      "paragraphs": [
+        "Notice the forms of abundance that nourish your life: affection, creativity, knowledge, resources and time. You can welcome support, enjoy what matters and share within your limits. Choose something you wish to cultivate, allowing appreciation for the present to accompany your hopes for the future.",
+        "Pause and notice where your attention has been. Recognize a choice or discovery from the morning. Then select one priority for the coming hours, adapting it if your circumstances have changed.",
+        "Recognize a valuable experience using your own criteria."
+      ]
+    },
+    "sleep-intention-abundance-01": {
+      "title": "Rest with confidence · Abundance",
+      "body": "I welcome rest with gratitude, recognizing the abundance of this day and what may still flourish.",
+      "paragraphs": [
+        "Notice the forms of abundance that nourish your life: affection, creativity, knowledge, resources and time. You can welcome support, enjoy what matters and share within your limits. Choose something you wish to cultivate, allowing appreciation for the present to accompany your hopes for the future.",
+        "Close the day by recognizing a meaningful moment. If something remains unfinished, write down a possible next step for tomorrow. Allow your hopes to have space without needing to solve everything tonight, and welcome rest.",
+        "Review your notes and choose something to receive, cultivate or share."
+      ]
+    }
+  },
+  "practices": {
+    "prosperity": [
+      [
+        "Prosperity · Give your intention meaning",
+        "Write what a prosperous life means to you.",
+        "Give prosperity a meaning that belongs to your life: freedom to choose, care for those you love, or satisfaction in what you create. Notice what already supports you and allow yourself to imagine new possibilities. Choose a step that fits your circumstances and appreciate the attention you give it. Choose an example close to your daily life.",
+        "What matters most to you in this activity?"
+      ],
+      [
+        "Prosperity · Notice what supports you",
+        "Organize a small space that can support a project.",
+        "Give prosperity a meaning that belongs to your life: freedom to choose, care for those you love, or satisfaction in what you create. Notice what already supports you and allow yourself to imagine new possibilities. Choose a step that fits your circumstances and appreciate the attention you give it. Give a concrete detail a little more attention.",
+        "What became clearer as you noticed it?"
+      ],
+      [
+        "Prosperity · Recognize your abilities",
+        "Choose one ability and a way to practise it today.",
+        "Give prosperity a meaning that belongs to your life: freedom to choose, care for those you love, or satisfaction in what you create. Notice what already supports you and allow yourself to imagine new possibilities. Choose a step that fits your circumstances and appreciate the attention you give it. Recognize what is possible without demanding perfection.",
+        "What do you wish to recognize in yourself?"
+      ],
+      [
+        "Prosperity · Explore a possibility",
+        "Note an opportunity to learn, collaborate or create.",
+        "Give prosperity a meaning that belongs to your life: freedom to choose, care for those you love, or satisfaction in what you create. Notice what already supports you and allow yourself to imagine new possibilities. Choose a step that fits your circumstances and appreciate the attention you give it. Explore before deciding what to do next.",
+        "Which possibility deserves more attention?"
+      ],
+      [
+        "Prosperity · Take a conscious step",
+        "Spend a few minutes on a priority connected to prosperity.",
+        "Give prosperity a meaning that belongs to your life: freedom to choose, care for those you love, or satisfaction in what you create. Notice what already supports you and allow yourself to imagine new possibilities. Choose a step that fits your circumstances and appreciate the attention you give it. Bring your intention into one manageable action.",
+        "What small step was possible today?"
+      ],
+      [
+        "Prosperity · Appreciate a discovery",
+        "Recognize help or an opportunity you recently received.",
+        "Give prosperity a meaning that belongs to your life: freedom to choose, care for those you love, or satisfaction in what you create. Notice what already supports you and allow yourself to imagine new possibilities. Choose a step that fits your circumstances and appreciate the attention you give it. Make room to appreciate what this experience taught you.",
+        "What did this experience mean to you?"
+      ],
+      [
+        "Prosperity · Review and continue",
+        "Reread a note and choose a practice to continue.",
+        "Give prosperity a meaning that belongs to your life: freedom to choose, care for those you love, or satisfaction in what you create. Notice what already supports you and allow yourself to imagine new possibilities. Choose a step that fits your circumstances and appreciate the attention you give it. Review your experience and adjust the next step to your needs.",
+        "What would you like to carry into the next stage?"
+      ]
+    ],
+    "gratitude": [
+      [
+        "Gratitude · Give your intention meaning",
+        "Name three concrete things you appreciate today.",
+        "Let gratitude begin with something concrete: support received, a moment of care, or a small achievement. Give that experience your attention without requiring a perfect feeling. You can appreciate what is here while still wishing for change. Recognize your own effort and the contributions of others. Choose an example close to your daily life.",
+        "What matters most to you in this activity?"
+      ],
+      [
+        "Gratitude · Notice what supports you",
+        "Recall help you received and write what it meant.",
+        "Let gratitude begin with something concrete: support received, a moment of care, or a small achievement. Give that experience your attention without requiring a perfect feeling. You can appreciate what is here while still wishing for change. Recognize your own effort and the contributions of others. Give a concrete detail a little more attention.",
+        "What became clearer as you noticed it?"
+      ],
+      [
+        "Gratitude · Recognize your abilities",
+        "Record an effort or an act of self-care worth recognizing.",
+        "Let gratitude begin with something concrete: support received, a moment of care, or a small achievement. Give that experience your attention without requiring a perfect feeling. You can appreciate what is here while still wishing for change. Recognize your own effort and the contributions of others. Recognize what is possible without demanding perfection.",
+        "What do you wish to recognize in yourself?"
+      ],
+      [
+        "Gratitude · Explore a possibility",
+        "Choose a sincere way to thank someone, if you wish.",
+        "Let gratitude begin with something concrete: support received, a moment of care, or a small achievement. Give that experience your attention without requiring a perfect feeling. You can appreciate what is here while still wishing for change. Recognize your own effort and the contributions of others. Explore before deciding what to do next.",
+        "Which possibility deserves more attention?"
+      ],
+      [
+        "Gratitude · Take a conscious step",
+        "Notice a simple moment and record a detail you enjoyed.",
+        "Let gratitude begin with something concrete: support received, a moment of care, or a small achievement. Give that experience your attention without requiring a perfect feeling. You can appreciate what is here while still wishing for change. Recognize your own effort and the contributions of others. Bring your intention into one manageable action.",
+        "What small step was possible today?"
+      ],
+      [
+        "Gratitude · Appreciate a discovery",
+        "Write about a small achievement and those who contributed.",
+        "Let gratitude begin with something concrete: support received, a moment of care, or a small achievement. Give that experience your attention without requiring a perfect feeling. You can appreciate what is here while still wishing for change. Recognize your own effort and the contributions of others. Make room to appreciate what this experience taught you.",
+        "What did this experience mean to you?"
+      ],
+      [
+        "Gratitude · Review and continue",
+        "Reread a gratitude note and add something meaningful.",
+        "Let gratitude begin with something concrete: support received, a moment of care, or a small achievement. Give that experience your attention without requiring a perfect feeling. You can appreciate what is here while still wishing for change. Recognize your own effort and the contributions of others. Review your experience and adjust the next step to your needs.",
+        "What would you like to carry into the next stage?"
+      ]
+    ],
+    "visualization": [
+      [
+        "Visualization · Give your intention meaning",
+        "Picture a desired scene and describe three meaningful details.",
+        "Form a clear image of the life you wish to cultivate. Notice the details that matter to you: how you spend your time, the people around you and the qualities you bring to your choices. Let the image guide a possible action, and allow it to develop as you learn. Choose an example close to your daily life.",
+        "What matters most to you in this activity?"
+      ],
+      [
+        "Visualization · Notice what supports you",
+        "Imagine how you wish to act in a situation today.",
+        "Form a clear image of the life you wish to cultivate. Notice the details that matter to you: how you spend your time, the people around you and the qualities you bring to your choices. Let the image guide a possible action, and allow it to develop as you learn. Give a concrete detail a little more attention.",
+        "What became clearer as you noticed it?"
+      ],
+      [
+        "Visualization · Recognize your abilities",
+        "Picture the beginning of an important task and choose when to start.",
+        "Form a clear image of the life you wish to cultivate. Notice the details that matter to you: how you spend your time, the people around you and the qualities you bring to your choices. Let the image guide a possible action, and allow it to develop as you learn. Recognize what is possible without demanding perfection.",
+        "What do you wish to recognize in yourself?"
+      ],
+      [
+        "Visualization · Explore a possibility",
+        "Consider a possible obstacle and write a response you could try.",
+        "Form a clear image of the life you wish to cultivate. Notice the details that matter to you: how you spend your time, the people around you and the qualities you bring to your choices. Let the image guide a possible action, and allow it to develop as you learn. Explore before deciding what to do next.",
+        "Which possibility deserves more attention?"
+      ],
+      [
+        "Visualization · Take a conscious step",
+        "Choose a short action connected to the scene you imagined.",
+        "Form a clear image of the life you wish to cultivate. Notice the details that matter to you: how you spend your time, the people around you and the qualities you bring to your choices. Let the image guide a possible action, and allow it to develop as you learn. Bring your intention into one manageable action.",
+        "What small step was possible today?"
+      ],
+      [
+        "Visualization · Appreciate a discovery",
+        "Compare your desired image with a real experience from this stage.",
+        "Form a clear image of the life you wish to cultivate. Notice the details that matter to you: how you spend your time, the people around you and the qualities you bring to your choices. Let the image guide a possible action, and allow it to develop as you learn. Make room to appreciate what this experience taught you.",
+        "What did this experience mean to you?"
+      ],
+      [
+        "Visualization · Review and continue",
+        "Review your scene and record your next intention.",
+        "Form a clear image of the life you wish to cultivate. Notice the details that matter to you: how you spend your time, the people around you and the qualities you bring to your choices. Let the image guide a possible action, and allow it to develop as you learn. Review your experience and adjust the next step to your needs.",
+        "What would you like to carry into the next stage?"
+      ]
+    ],
+    "wealth": [
+      [
+        "Wealth · Give your intention meaning",
+        "Write what you want building wealth to make possible.",
+        "Recognize your abilities and consider what you want wealth to make possible in your life. It may mean autonomy, time or resources to care for your family. Give attention to learning, creating value and caring for what you have. Choose your next step with awareness of your priorities and limits. Choose an example close to your daily life.",
+        "What matters most to you in this activity?"
+      ],
+      [
+        "Wealth · Notice what supports you",
+        "List three resources available to you: time, knowledge, tools or support.",
+        "Recognize your abilities and consider what you want wealth to make possible in your life. It may mean autonomy, time or resources to care for your family. Give attention to learning, creating value and caring for what you have. Choose your next step with awareness of your priorities and limits. Give a concrete detail a little more attention.",
+        "What became clearer as you noticed it?"
+      ],
+      [
+        "Wealth · Recognize your abilities",
+        "Spend a few minutes learning or practising a useful skill.",
+        "Recognize your abilities and consider what you want wealth to make possible in your life. It may mean autonomy, time or resources to care for your family. Give attention to learning, creating value and caring for what you have. Choose your next step with awareness of your priorities and limits. Recognize what is possible without demanding perfection.",
+        "What do you wish to recognize in yourself?"
+      ],
+      [
+        "Wealth · Explore a possibility",
+        "Choose a way to contribute attentively to an activity today.",
+        "Recognize your abilities and consider what you want wealth to make possible in your life. It may mean autonomy, time or resources to care for your family. Give attention to learning, creating value and caring for what you have. Choose your next step with awareness of your priorities and limits. Explore before deciding what to do next.",
+        "Which possibility deserves more attention?"
+      ],
+      [
+        "Wealth · Take a conscious step",
+        "Reflect on one choice about your time or another resource.",
+        "Recognize your abilities and consider what you want wealth to make possible in your life. It may mean autonomy, time or resources to care for your family. Give attention to learning, creating value and caring for what you have. Choose your next step with awareness of your priorities and limits. Bring your intention into one manageable action.",
+        "What small step was possible today?"
+      ],
+      [
+        "Wealth · Appreciate a discovery",
+        "Record progress in the abilities or resources you are cultivating.",
+        "Recognize your abilities and consider what you want wealth to make possible in your life. It may mean autonomy, time or resources to care for your family. Give attention to learning, creating value and caring for what you have. Choose your next step with awareness of your priorities and limits. Make room to appreciate what this experience taught you.",
+        "What did this experience mean to you?"
+      ],
+      [
+        "Wealth · Review and continue",
+        "Review your intention and choose a realistic commitment for the next stage.",
+        "Recognize your abilities and consider what you want wealth to make possible in your life. It may mean autonomy, time or resources to care for your family. Give attention to learning, creating value and caring for what you have. Choose your next step with awareness of your priorities and limits. Review your experience and adjust the next step to your needs.",
+        "What would you like to carry into the next stage?"
+      ]
+    ],
+    "abundance": [
+      [
+        "Abundance · Give your intention meaning",
+        "Record three forms of abundance in your everyday life.",
+        "Notice the forms of abundance that nourish your life: affection, creativity, knowledge, resources and time. You can welcome support, enjoy what matters and share within your limits. Choose something you wish to cultivate, allowing appreciation for the present to accompany your hopes for the future. Choose an example close to your daily life.",
+        "What matters most to you in this activity?"
+      ],
+      [
+        "Abundance · Notice what supports you",
+        "Notice help you could accept or request, if appropriate.",
+        "Notice the forms of abundance that nourish your life: affection, creativity, knowledge, resources and time. You can welcome support, enjoy what matters and share within your limits. Choose something you wish to cultivate, allowing appreciation for the present to accompany your hopes for the future. Give a concrete detail a little more attention.",
+        "What became clearer as you noticed it?"
+      ],
+      [
+        "Abundance · Recognize your abilities",
+        "Choose something you can offer: attention, appreciation or knowledge.",
+        "Notice the forms of abundance that nourish your life: affection, creativity, knowledge, resources and time. You can welcome support, enjoy what matters and share within your limits. Choose something you wish to cultivate, allowing appreciation for the present to accompany your hopes for the future. Recognize what is possible without demanding perfection.",
+        "What do you wish to recognize in yourself?"
+      ],
+      [
+        "Abundance · Explore a possibility",
+        "List three possibilities for something you want to create or improve.",
+        "Notice the forms of abundance that nourish your life: affection, creativity, knowledge, resources and time. You can welcome support, enjoy what matters and share within your limits. Choose something you wish to cultivate, allowing appreciation for the present to accompany your hopes for the future. Explore before deciding what to do next.",
+        "Which possibility deserves more attention?"
+      ],
+      [
+        "Abundance · Take a conscious step",
+        "Recognize a valuable experience using your own criteria.",
+        "Notice the forms of abundance that nourish your life: affection, creativity, knowledge, resources and time. You can welcome support, enjoy what matters and share within your limits. Choose something you wish to cultivate, allowing appreciation for the present to accompany your hopes for the future. Bring your intention into one manageable action.",
+        "What small step was possible today?"
+      ],
+      [
+        "Abundance · Appreciate a discovery",
+        "Spend a few minutes caring for something you wish to grow.",
+        "Notice the forms of abundance that nourish your life: affection, creativity, knowledge, resources and time. You can welcome support, enjoy what matters and share within your limits. Choose something you wish to cultivate, allowing appreciation for the present to accompany your hopes for the future. Make room to appreciate what this experience taught you.",
+        "What did this experience mean to you?"
+      ],
+      [
+        "Abundance · Review and continue",
+        "Review your notes and choose something to receive, cultivate or share.",
+        "Notice the forms of abundance that nourish your life: affection, creativity, knowledge, resources and time. You can welcome support, enjoy what matters and share within your limits. Choose something you wish to cultivate, allowing appreciation for the present to accompany your hopes for the future. Review your experience and adjust the next step to your needs.",
+        "What would you like to carry into the next stage?"
+      ]
+    ]
+  },
+  "phases": [
+    [
+      "Begin with clarity",
+      "Choose a simple example close to your circumstances."
+    ],
+    [
+      "Notice details",
+      "Observe something you had not noticed before."
+    ],
+    [
+      "Strengthen your intention",
+      "Connect this practice to a current priority."
+    ],
+    [
+      "Try another path",
+      "Explore the same idea in a different situation."
+    ],
+    [
+      "Welcome support",
+      "Notice the people and resources that can support this step."
+    ],
+    [
+      "Value consistency",
+      "Compare an earlier note and recognize small changes."
+    ],
+    [
+      "Adjust to your pace",
+      "Simplify what felt heavy and keep what helped."
+    ],
+    [
+      "Explore possibilities",
+      "Consider a new possibility without rushing a decision."
+    ],
+    [
+      "Choose with presence",
+      "Notice the values you want to express today."
+    ],
+    [
+      "Integrate into your routine",
+      "Find a comfortable moment to repeat this practice."
+    ],
+    [
+      "Deepen the meaning",
+      "Record why this practice matters to your desired life."
+    ],
+    [
+      "Recognize the path",
+      "Recall an achievement connected to this activity."
+    ],
+    [
+      "Prepare continuity",
+      "Choose what you wish to keep in the next stage."
+    ],
+    [
+      "Review and renew",
+      "Compare your beginning with the present and adjust your intention."
+    ],
+    [
+      "Celebrate and continue",
+      "Recognize your path and choose a practice to carry forward."
+    ]
+  ],
+  "patterns": [
+    [
+      "^(\\d+) de 100 atividades concluídas$",
+      "Completed $1 of 100 activities"
+    ],
+    [
+      "^Dias (\\d+)–(\\d+)$",
+      "Days $1–$2"
+    ],
+    [
+      "^Dia (\\d+)$",
+      "Day $1"
+    ],
+    [
+      "^Horário local: (.+)\\. Horários diferentes; a ordem de troca segue o relógio, inclusive em rotinas noturnas\\.$",
+      "Local time zone: $1. Each distinct time follows the clock, including overnight schedules."
+    ],
+    [
+      "^Volume · (\\d+)%$",
+      "Volume · $1%"
+    ],
+    [
+      "^(\\d+) minutos?$",
+      "$1 min"
+    ],
+    [
+      "^Texto original AURYA · (\\d+) palavras\\. Acesso Free/Premium a definir\\.$",
+      "Original AURYA writing · localized edition. Free/Premium access to be decided."
+    ],
+    [
+      "^Trilha: (.+)$",
+      "Music: $1"
+    ],
+    [
+      "^Leitura automática · (.+)$",
+      "Reading · $1"
+    ]
+  ],
+  "ending": {
+    "title": "Recognize your path and renew your intention",
+    "action": "Reread an early note and a recent one. Recognize a change and choose one practice from this theme to continue.",
+    "prompt": "What do you take from these hundred days, and what would you like to cultivate next?"
+  }
+}
