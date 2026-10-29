@@ -1,0 +1,13 @@
+{
+  "name": "aurya-preview",
+  "version": "0.4.0",
+  "private": true,
+  "description": "Prévia web AURYA; fontes nativas em desenvolvimento.",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "build": "node tools/prepare-web.mjs",
+    "test": "node --test preview/*.test.mjs"
+  }
+}

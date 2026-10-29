@@ -1,0 +1,17 @@
+workflows:
+  aurya-validation:
+    name: AURYA - Flutter validation (not an installable build)
+    max_build_duration: 30
+    environment:
+      flutter: stable
+    scripts:
+      - name: Check toolchain
+        script: flutter --version
+      - name: Resolve dependencies
+        script: flutter pub get
+      - name: Analyze Flutter
+        script: flutter analyze
+      - name: Flutter unit tests
+        script: flutter test
+    artifacts:
+      - pubspec.lock
