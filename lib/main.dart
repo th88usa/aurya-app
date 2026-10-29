@@ -9,14 +9,16 @@ import 'reflection_screen.dart';
 import 'reflection_links.dart';
 void main()=>runApp(const AuryaApp());
 class AuryaApp extends StatelessWidget {
- const AuryaApp({super.key});
+ const AuryaApp({super.key,this.repository});
+ final ContentRepository? repository;
  @override Widget build(BuildContext context)=>MaterialApp(title:'AURYA • Demo',debugShowCheckedModeBanner:false,
   theme:ThemeData(useMaterial3:true,brightness:Brightness.dark,scaffoldBackgroundColor:const Color(0xFF121C24),
    colorScheme:ColorScheme.fromSeed(seedColor:const Color(0xFFDDC49E),brightness:Brightness.dark),
-   inputDecorationTheme:const InputDecorationTheme(border:OutlineInputBorder())),home:const AuryaShell());
+   inputDecorationTheme:const InputDecorationTheme(border:OutlineInputBorder())),home:AuryaShell(repository:repository));
 }
 class AuryaShell extends StatefulWidget {
- const AuryaShell({super.key});
+ const AuryaShell({super.key,this.repository});
+ final ContentRepository? repository;
  @override State<AuryaShell> createState()=>_AuryaShellState();
 }
 class _AuryaShellState extends State<AuryaShell> with WidgetsBindingObserver {
@@ -34,7 +36,7 @@ class _AuryaShellState extends State<AuryaShell> with WidgetsBindingObserver {
  RitualMoment? preview;
  bool reveal=true,allowWidget=false,busy=false;
  RitualSchedule get schedule=>RitualSchedule(times);
- @override void initState(){super.initState();content=ContentRepository.load();WidgetsBinding.instance.addObserver(this);
+ @override void initState(){super.initState();content=widget.repository==null?ContentRepository.load():Future.value(widget.repository!);WidgetsBinding.instance.addObserver(this);
   linkSubscription=links.uriLinkStream.listen(receiveLink,onError:(Object _){if(mounted)setState(()=>linkError=true);});
  }
  void armBoundary(){
