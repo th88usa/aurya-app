@@ -17,3 +17,5 @@ web-deploy/
 *.key
 .DS_Store
 Thumbs.db
+
+.codemagic-ios/

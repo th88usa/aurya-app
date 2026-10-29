@@ -1,17 +1,77 @@
-workflows:
-  aurya-validation:
-    name: AURYA - Flutter validation (not an installable build)
-    max_build_duration: 30
-    environment:
-      flutter: stable
-    scripts:
-      - name: Check toolchain
-        script: flutter --version
-      - name: Resolve dependencies
-        script: flutter pub get
-      - name: Analyze Flutter
-        script: flutter analyze
-      - name: Flutter unit tests
-        script: flutter test
-    artifacts:
-      - pubspec.lock
+{
+  "workflows": {
+    "aurya-validation": {
+      "name": "AURYA - Flutter validation (not an installable build)",
+      "max_build_duration": 30,
+      "environment": {
+        "flutter": "stable"
+      },
+      "scripts": [
+        {
+          "name": "Check toolchain",
+          "script": "flutter --version"
+        },
+        {
+          "name": "Resolve dependencies",
+          "script": "flutter pub get"
+        },
+        {
+          "name": "Analyze Flutter",
+          "script": "flutter analyze"
+        },
+        {
+          "name": "Flutter unit tests",
+          "script": "flutter test"
+        }
+      ],
+      "artifacts": [
+        "pubspec.lock"
+      ]
+    },
+    "aurya-ios-simulator": {
+      "name": "AURYA - iOS simulator (unsigned, no widget integration)",
+      "max_build_duration": 30,
+      "instance_type": "mac_mini_m2",
+      "environment": {
+        "flutter": "stable",
+        "xcode": "latest",
+        "cocoapods": "default"
+      },
+      "scripts": [
+        {
+          "name": "Inspect build environment",
+          "script": "flutter --version\nxcodebuild -version"
+        },
+        {
+          "name": "Prepare isolated iOS scaffold",
+          "script": "set -euo pipefail\nflutter create --no-pub --platforms=ios --project-name aurya --org app.aurya .codemagic-ios\npython3 tools/prepare-ios-ci.py\n"
+        },
+        {
+          "name": "Resolve dependencies",
+          "script": "cd .codemagic-ios\nflutter pub get"
+        },
+        {
+          "name": "Analyze native sources",
+          "script": "cd .codemagic-ios\nflutter analyze"
+        },
+        {
+          "name": "Run Flutter tests",
+          "script": "cd .codemagic-ios\nflutter test"
+        },
+        {
+          "name": "Build iOS Simulator application",
+          "script": "cd .codemagic-ios\nflutter build ios --simulator --debug"
+        },
+        {
+          "name": "Package simulator application",
+          "script": "cd .codemagic-ios/build/ios/iphonesimulator\nditto -c -k --sequesterRsrc --keepParent Runner.app AURYA-simulator.zip"
+        }
+      ],
+      "artifacts": [
+        ".codemagic-ios/build/ios/iphonesimulator/AURYA-simulator.zip",
+        ".codemagic-ios/pubspec.lock",
+        "/tmp/xcodebuild_logs/*.log"
+      ]
+    }
+  }
+}
