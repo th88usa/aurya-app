@@ -9,6 +9,13 @@ if not (project / 'ios' / 'Runner.xcodeproj').is_dir():
 example_test = project / 'test' / 'widget_test.dart'
 if example_test.exists():
     example_test.unlink()
+# Apply the source project's lint configuration, not the scaffold's missing dependency.
+analysis = project / 'analysis_options.yaml'
+source_analysis = root / 'analysis_options.yaml'
+if source_analysis.exists():
+    shutil.copy2(source_analysis, analysis)
+elif analysis.exists():
+    analysis.unlink()
 for folder in ('lib', 'test', 'assets'):
     shutil.copytree(root / folder, project / folder, dirs_exist_ok=True)
 shutil.copy2(root / 'pubspec.yaml', project / 'pubspec.yaml')
