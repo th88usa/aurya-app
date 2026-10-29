@@ -1,6 +1,8 @@
 import 'package:flutter_test/flutter_test.dart';
+import 'package:flutter/widgets.dart';
 import 'package:aurya/domain.dart';
 import 'package:aurya/main.dart';
+import 'package:aurya/content_repository.dart';
 void main(){
  test('quatro momentos, fronteiras e noite atravessando meia-noite',(){
   final s=RitualSchedule(exampleMinutes);expect(s.valid,isTrue);
@@ -15,6 +17,12 @@ void main(){
   expect(s.valid,isTrue);expect(s.activeAt(DateTime(2026,10,23,3)).moment,RitualMoment.midday);
  });
  testWidgets('cadastro obrigatório de demonstração',(tester) async {
-  await tester.pumpWidget(const AuryaApp());await tester.pumpAndSettle();expect(find.text('Cadastro de demonstração'),findsOneWidget);expect(find.text('Bloqueio'),findsNothing);
+  final repository=await tester.runAsync(ContentRepository.load);
+  expect(repository,isNotNull);
+  await tester.pumpWidget(AuryaApp(repository:repository));
+  await tester.pumpAndSettle();
+  expect(find.text('Cadastro de demonstração'),findsOneWidget);
+  expect(find.text('Bloqueio'),findsNothing);
+  await tester.pumpWidget(const SizedBox.shrink());
  });
 }
