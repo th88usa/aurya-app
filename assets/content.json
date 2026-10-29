@@ -1,0 +1,1980 @@
+{
+  "version": 2,
+  "sourceLocale": "pt-BR",
+  "locales": [
+    {
+      "code": "pt-BR",
+      "label": "Português",
+      "available": true
+    },
+    {
+      "code": "en",
+      "label": "English",
+      "available": false
+    },
+    {
+      "code": "es",
+      "label": "Español",
+      "available": false
+    },
+    {
+      "code": "zh-Hans",
+      "label": "中文",
+      "available": false
+    },
+    {
+      "code": "ja",
+      "label": "日本語",
+      "available": false
+    },
+    {
+      "code": "ru",
+      "label": "Русский",
+      "available": false
+    },
+    {
+      "code": "fr",
+      "label": "Français",
+      "available": false
+    },
+    {
+      "code": "it",
+      "label": "Italiano",
+      "available": false
+    }
+  ],
+  "messages": [
+    {
+      "id": "wake-prosperidade-01",
+      "moment": "wake",
+      "theme": "Uma manhã de gratidão",
+      "translations": {
+        "pt-BR": {
+          "title": "Uma manhã de gratidão",
+          "body": "Eu acordo com gratidão.",
+          "widget": "Eu acordo com gratidão.",
+          "reflection": {
+            "messageId": "wake-prosperidade-01",
+            "title": "Uma manhã de gratidão",
+            "principle": "Uma manhã de gratidão",
+            "paragraphs": [
+              "Ao abrir os olhos, permita que a gratidão seja seu primeiro encontro com este dia. Há algo sustentando sua vida antes mesmo de você começar: um lugar para repousar, uma relação de carinho, uma capacidade que pode desenvolver. Reconhecer esse bem oferece um ponto de partida acolhedor para desejar mais prosperidade.",
+              "Você pode apreciar o que tem e acolher com alegria aquilo que deseja receber. A gratidão pode acompanhar tanto uma pequena conquista quanto um sonho que ainda amadurece. Imagine uma manhã em que você se sente à vontade para desfrutar da própria vida: sua casa, as pessoas que ama, o trabalho que valoriza. Observe quais detalhes dessa imagem já estão presentes e quais gostaria de ampliar com o tempo.",
+              "Antes de se levantar, escolha três coisas concretas pelas quais agradece. Dê alguns instantes a cada lembrança, sem pressa de encontrar palavras perfeitas. Leve esse sentimento para uma intenção de prosperidade que tenha significado para você. Comece o dia apreciando sua história e acolhendo com confiança o que pode florescer."
+            ],
+            "wordCount": 170,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=0aArDSeM6ac&t=2949s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu acordo com gratidão.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=0aArDSeM6ac&t=2949s",
+            "source": "Transcrição pública do vídeo · 49:09",
+            "videoTimestamp": "49:09",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "gratitude"
+    },
+    {
+      "id": "wake-abundancia-01",
+      "moment": "wake",
+      "theme": "A confiança de um novo dia",
+      "translations": {
+        "pt-BR": {
+          "title": "A confiança de um novo dia",
+          "body": "Eu acordo com fé.",
+          "widget": "Eu acordo com fé.",
+          "reflection": {
+            "messageId": "wake-abundancia-01",
+            "title": "A confiança de um novo dia",
+            "principle": "A confiança de um novo dia",
+            "paragraphs": [
+              "A fé pode ser uma maneira acolhedora de encontrar o dia que começa. Você pode abrir espaço para possibilidades boas e reconhecer que seus desejos merecem atenção. Ao acordar com essa disposição, permita-se sentir a confiança de quem deseja crescer, receber e viver com mais tranquilidade.",
+              "Pense em uma conquista que tem valor para você. Talvez represente liberdade para escolher, recursos para cuidar da família ou alegria em compartilhar. Imagine como gostaria de se sentir vivendo essa experiência. Há algo seu nessa imagem: um amor, uma esperança ou um talento que deseja oferecer. A fé pode acompanhar essa ligação pessoal com o que importa e ajudá-lo a conservar o sentido do caminho, inclusive enquanto aprende a percorrê-lo.",
+              "Agora, acolha uma imagem de prosperidade para este dia e deixe que ela desperte confiança. Se sua fé tem uma expressão espiritual, faça uma oração pessoal. Se preferir, permaneça alguns instantes com o sentimento de possibilidade. Leve consigo uma disposição gentil para aprender, encontrar apoio e participar do bem que deseja viver."
+            ],
+            "wordCount": 169,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=0aArDSeM6ac&t=2949s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu acordo com fé.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=0aArDSeM6ac&t=2949s",
+            "source": "Transcrição pública do vídeo · 49:09",
+            "videoTimestamp": "49:09",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "prosperity"
+    },
+    {
+      "id": "wake-capacidade-01",
+      "moment": "wake",
+      "theme": "Reconhecer a própria capacidade",
+      "translations": {
+        "pt-BR": {
+          "title": "Reconhecer a própria capacidade",
+          "body": "Você é capaz.",
+          "widget": "Você é capaz.",
+          "reflection": {
+            "messageId": "wake-capacidade-01",
+            "title": "Reconhecer a própria capacidade",
+            "principle": "Reconhecer a própria capacidade",
+            "paragraphs": [
+              "Existe valor no que você já aprendeu e no que ainda pode desenvolver. Sua capacidade aparece em experiências que fazem parte da sua história: algo que superou, uma pessoa que ajudou, uma habilidade que cultivou. Ao começar o dia, permita que essas lembranças tenham lugar ao lado dos seus desejos de prosperidade.",
+              "Uma vida mais abundante pode se aproximar das qualidades que você oferece. Há quem encontre riqueza na criatividade, na escuta, no cuidado ou na habilidade de reunir pessoas. Pense no que faz com dedicação e no que gosta de aprender. Reconhecer essas capacidades pode tornar mais pessoal o desejo de receber por um trabalho valorizado, criar um projeto ou ampliar as próprias possibilidades. Você pode respeitar o ponto em que está e continuar crescendo.",
+              "Recorde uma situação em que sua presença fez diferença. O que você ofereceu ali? Talvez paciência, conhecimento ou coragem. Aprecie essa qualidade e imagine uma oportunidade de usá-la com alegria hoje. Deixe essa lembrança acompanhar sua manhã como um reconhecimento do valor que já carrega e da prosperidade que deseja cultivar."
+            ],
+            "wordCount": 177,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=0aArDSeM6ac&t=1984s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Você é capaz.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=0aArDSeM6ac&t=1984s",
+            "source": "Transcrição pública do vídeo · 33:04",
+            "videoTimestamp": "33:04",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "prosperity"
+    },
+    {
+      "id": "wake-proposito-01",
+      "moment": "wake",
+      "theme": "Dar espaço à confiança",
+      "translations": {
+        "pt-BR": {
+          "title": "Dar espaço à confiança",
+          "body": "Eu tenho fé.",
+          "widget": "Eu tenho fé.",
+          "reflection": {
+            "messageId": "wake-proposito-01",
+            "title": "Dar espaço à confiança",
+            "principle": "Dar espaço à confiança",
+            "paragraphs": [
+              "Permita que a confiança encontre espaço dentro de você. Há desejos que carregam algo precioso: uma vida tranquila, relações acolhedoras, liberdade e condições de cuidar de quem ama. A fé pode ser a maneira como você conserva esse sentido, mesmo enquanto o caminho ainda está se revelando.",
+              "Ao imaginar uma conquista, observe o que ela significa além da aparência. Uma casa pode representar segurança; um projeto, expressão; uma renda melhor, possibilidades compartilhadas. Quando reconhece esse significado, você se aproxima do sentimento que deseja viver. A fé pode acompanhar essa aproximação com serenidade. Ela pode estar presente em uma oração, em uma lembrança de apoio ou na disposição de reconhecer o bem que já participou da sua história.",
+              "Nesta manhã, escolha uma intenção de prosperidade e acolha o sentimento que ela desperta. Pense em alguém, em uma qualidade ou em uma experiência que fortalece sua confiança. Leve essa presença para o começo do dia. Você pode avançar aprendendo e recebendo apoio, sem precisar conhecer cada detalhe do caminho para desejar vivê-lo com esperança."
+            ],
+            "wordCount": 172,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=ollFRNVvXYc&t=3296s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu tenho fé.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=ollFRNVvXYc&t=3296s",
+            "source": "Transcrição pública do vídeo · 54:56",
+            "videoTimestamp": "54:56",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "prosperity"
+    },
+    {
+      "id": "wake-atencao-01",
+      "moment": "wake",
+      "theme": "Confiança para prosperar",
+      "translations": {
+        "pt-BR": {
+          "title": "Confiança para prosperar",
+          "body": "Eu atraio riqueza com facilidade.",
+          "widget": "Eu atraio riqueza com facilidade.",
+          "reflection": {
+            "messageId": "wake-atencao-01",
+            "title": "Confiança para prosperar",
+            "principle": "Prosperidade como identidade",
+            "paragraphs": [
+              "Permita-se começar este dia com abertura para a riqueza. A prosperidade pode ocupar um lugar acolhedor na sua vida: uma casa tranquila, liberdade para escolher e recursos para cuidar de quem você ama. Ao dizer esta frase, aproxime-se da sensação de receber algo bom. Imagine uma conquista que tem significado para você e perceba a alegria de se reconhecer capaz de vivê-la.",
+              "Facilidade pode ser a serenidade com que você acolhe uma oportunidade, reconhece o próprio valor e permite que suas capacidades encontrem espaço. Há conhecimentos, experiências e qualidades suas que merecem ser valorizados. Você pode aprender a receber um elogio, uma proposta ou o reconhecimento pelo que oferece. Cada uma dessas experiências ajuda a tornar o desejo de prosperar mais próximo, mais pessoal e mais presente nas escolhas que faz.",
+              "Antes de seguir com o dia, visualize uma cena da vida próspera que deseja. Veja o ambiente, as pessoas e o que essa conquista permite sentir. Acolha essa imagem com gratidão. Leve consigo a confiança de que merece receber, crescer e desfrutar do bem que constrói. Comece por reconhecer uma qualidade sua que pode florescer hoje."
+            ],
+            "wordCount": 187,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=vnQ063hu4RU&t=1099s",
+                "coverage": "Frase literal da transcrição e interpretação contextual. 18:19–18:40"
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu atraio riqueza com facilidade.",
+            "translation": "Fala em português, conforme transcrição pública. Não é citação de Napoleon Hill autenticada.",
+            "url": "https://www.youtube.com/watch?v=vnQ063hu4RU&t=1099s",
+            "source": "Vídeo enviado pelo usuário · 18:19–18:40",
+            "videoUrl": "https://www.youtube.com/watch?v=vnQ063hu4RU&t=1099s",
+            "videoTimestamp": "18:19–18:40",
+            "checkedDate": "2026-10-27",
+            "verification": "Leitura de todos os 231 segmentos da transcrição pública disponível, 0:00–31:11. Comentários dos usuários não consultados. Vídeo não assistido integralmente em imagem e áudio."
+          }
+        }
+      },
+      "ambienceTheme": "wealth"
+    },
+    {
+      "id": "wake-dignidade-01",
+      "moment": "wake",
+      "theme": "Receber com dignidade",
+      "translations": {
+        "pt-BR": {
+          "title": "Receber com dignidade",
+          "body": "Eu sou digno de receber.",
+          "widget": "Eu sou digno de receber.",
+          "reflection": {
+            "messageId": "wake-dignidade-01",
+            "title": "Receber com dignidade",
+            "principle": "Receber com dignidade",
+            "paragraphs": [
+              "Você pode acolher coisas boas sem precisar diminuir o próprio valor. Reconhecimento, cuidado, oportunidades e prosperidade podem fazer parte de uma vida que respeita quem você é. Permita-se imaginar como seria receber com tranquilidade, apreciando o bem que chega e a experiência de desfrutá-lo.",
+              "Às vezes, receber começa em gestos pequenos: aceitar um elogio, permitir uma ajuda, apreciar uma conquista. Esses momentos oferecem uma experiência concreta de acolhimento. Pense em algo que deseja para sua vida e no que essa realização permitiria sentir. Talvez seja segurança, alegria ou liberdade para compartilhar. Esse desejo pode ser cuidado com dignidade e carinho, junto ao reconhecimento de suas qualidades e do que oferece nas relações de que participa.",
+              "Antes de seguir com o dia, recorde algo bom que recebeu recentemente. Permita-se apreciá-lo por alguns instantes. Depois, imagine uma possibilidade de prosperidade que gostaria de acolher. Leve consigo uma postura de gratidão e receptividade. Seu caminho pode incluir crescimento, apoio e conquistas que você aprende a receber com alegria."
+            ],
+            "wordCount": 165,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=V7TItw1gjEE&t=1085s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu sou digno de receber.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=V7TItw1gjEE&t=1085s",
+            "source": "Transcrição pública do vídeo · 18:05",
+            "videoTimestamp": "18:05",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "prosperity"
+    },
+    {
+      "id": "commute-confianca-01",
+      "moment": "commute",
+      "theme": "Abertura para receber",
+      "translations": {
+        "pt-BR": {
+          "title": "Abertura para receber",
+          "body": "O dinheiro flui para mim com facilidade.",
+          "widget": "O dinheiro flui para mim com facilidade.",
+          "reflection": {
+            "messageId": "commute-confianca-01",
+            "title": "Abertura para receber",
+            "principle": "Abertura para receber",
+            "paragraphs": [
+              "O dinheiro pode representar tranquilidade, liberdade e a possibilidade de compartilhar coisas boas. Durante seu caminho, permita que essa imagem acompanhe você. Imagine receber com alegria pelo que sabe fazer e usar esse recurso para uma conquista importante. Sinta o alívio de cuidar da própria vida com mais serenidade e a satisfação de oferecer algo que tem valor.",
+              "Uma relação acolhedora com o dinheiro também envolve permitir-se receber. Seu tempo, sua experiência e suas capacidades participam de trocas que podem beneficiar você e outras pessoas. Ao reconhecer esse valor, fica mais natural conversar sobre uma proposta, apresentar uma ideia ou apreciar o resultado de um trabalho. Você pode desejar uma renda melhor com dignidade, cultivar boas relações e acolher possibilidades que estejam alinhadas à vida que quer viver.",
+              "Escolha agora uma imagem de recebimento: um pagamento por um trabalho bem realizado, um projeto valorizado ou uma conta cuidada com tranquilidade. Observe o sentimento que surge. Deixe essa imagem dar um significado pessoal à frase. Leve para os encontros de hoje uma postura de confiança e receptividade, reconhecendo o valor do que oferece e apreciando o que recebe."
+            ],
+            "wordCount": 187,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=vnQ063hu4RU&t=1532s",
+                "coverage": "Frase literal da transcrição e interpretação contextual. 25:23–25:53"
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "O dinheiro flui para mim com facilidade.",
+            "translation": "Fala em português, conforme transcrição pública. Não é citação de Napoleon Hill autenticada.",
+            "url": "https://www.youtube.com/watch?v=vnQ063hu4RU&t=1532s",
+            "source": "Vídeo enviado pelo usuário · 25:23–25:53",
+            "videoUrl": "https://www.youtube.com/watch?v=vnQ063hu4RU&t=1532s",
+            "videoTimestamp": "25:23–25:53",
+            "checkedDate": "2026-10-27",
+            "verification": "Leitura de todos os 231 segmentos da transcrição pública disponível, 0:00–31:11. Comentários dos usuários não consultados. Vídeo não assistido integralmente em imagem e áudio."
+          }
+        }
+      },
+      "ambienceTheme": "wealth"
+    },
+    {
+      "id": "commute-presenca-01",
+      "moment": "commute",
+      "theme": "Encontrar direção no caminho",
+      "translations": {
+        "pt-BR": {
+          "title": "Encontrar direção no caminho",
+          "body": "Você é guiado.",
+          "widget": "Você é guiado.",
+          "reflection": {
+            "messageId": "commute-presenca-01",
+            "title": "Encontrar direção no caminho",
+            "principle": "Encontrar direção no caminho",
+            "paragraphs": [
+              "Durante seu caminho, permita-se procurar uma direção que tenha significado para você. Pode haver orientação em uma conversa, em algo que aprende ou nos valores que escolhe conservar. Se a palavra guiado tem um sentido espiritual na sua vida, acolha também essa experiência de companhia e confiança.",
+              "Imagine uma escolha de prosperidade que respeita o que é importante para você. Talvez envolva uma atividade que valoriza suas capacidades, um projeto em parceria ou mais tranquilidade para a família. Observe quais qualidades gostaria de levar para essa escolha: serenidade, honestidade, abertura. Esse reconhecimento pode ajudá-lo a perceber a direção que deseja dar à própria história, enquanto continua disponível para aprender com pessoas e experiências.",
+              "Agora, escolha uma pergunta para acompanhar seu trajeto: o que significa prosperar de um jeito que combina comigo? Deixe a resposta ganhar forma com calma. Pode ser uma imagem, uma lembrança ou uma possibilidade. Acolha o que surgir com atenção e leve para o dia a disposição de reconhecer caminhos que respeitem seus desejos e seus valores."
+            ],
+            "wordCount": 170,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=0aArDSeM6ac&t=3848s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Você é guiado.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=0aArDSeM6ac&t=3848s",
+            "source": "Transcrição pública do vídeo · 1:04:08",
+            "videoTimestamp": "1:04:08",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "prosperity"
+    },
+    {
+      "id": "commute-intencao-01",
+      "moment": "commute",
+      "theme": "A alegria de acolher",
+      "translations": {
+        "pt-BR": {
+          "title": "A alegria de acolher",
+          "body": "Eu recebo com gratidão.",
+          "widget": "Eu recebo com gratidão.",
+          "reflection": {
+            "messageId": "commute-intencao-01",
+            "title": "A alegria de acolher",
+            "principle": "A alegria de acolher",
+            "paragraphs": [
+              "Receber com gratidão é dar presença ao bem que participa da sua vida. Pode ser um pagamento por um trabalho valorizado, uma oportunidade, uma ajuda ou uma conversa que amplia suas possibilidades. Durante seu caminho, permita que uma dessas experiências desperte um sentimento de apreciação.",
+              "A gratidão pode tornar uma conquista mais vivida. Quando você reconhece o que recebeu, também percebe o que aquilo permite: cuidar, escolher, aprender ou compartilhar. Pense em uma prosperidade que gostaria de desfrutar e no significado que ela tem para você. Há uma ligação entre esse desejo e a vida que aprecia. Permita-se sentir a alegria dessa ligação, acolhendo tanto o que já existe quanto o que deseja ver crescer.",
+              "Escolha uma lembrança de recebimento que lhe faz bem. Observe os detalhes e agradeça de uma maneira pessoal, ainda que apenas em silêncio. Depois, leve para os encontros do dia uma postura de receptividade. Você pode valorizar o que oferece e apreciar o que recebe, participando de trocas que tragam sentido, tranquilidade e alegria para sua vida."
+            ],
+            "wordCount": 172,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=V7TItw1gjEE&t=2673s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu recebo com gratidão.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=V7TItw1gjEE&t=2673s",
+            "source": "Transcrição pública do vídeo · 44:33",
+            "videoTimestamp": "44:33",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "gratitude"
+    },
+    {
+      "id": "commute-decisao-01",
+      "moment": "commute",
+      "theme": "Uma convicção que acolhe",
+      "translations": {
+        "pt-BR": {
+          "title": "Uma convicção que acolhe",
+          "body": "Eu tenho certeza.",
+          "widget": "Eu tenho certeza.",
+          "reflection": {
+            "messageId": "commute-decisao-01",
+            "title": "Uma convicção que acolhe",
+            "principle": "Uma convicção que acolhe",
+            "paragraphs": [
+              "Uma convicção pessoal pode nascer do reconhecimento do que tem valor para você. Talvez exista um desejo de viver com mais paz, receber pelo que faz bem ou oferecer segurança a quem ama. Durante seu caminho, aproxime-se dessa intenção e permita que ela encontre uma expressão clara e acolhedora.",
+              "Você pode ter firmeza no significado do seu desejo e continuar aberto para aprender como realizá-lo. Uma vida próspera pode assumir formas diferentes ao longo da história. Há conquistas que se transformam, oportunidades que surpreendem e relações que ampliam o que imaginava possível. A confiança pode acompanhar essa abertura. Pense no que deseja conservar por dentro: dignidade, generosidade, tranquilidade ou liberdade para escolher.",
+              "Agora, identifique uma coisa importante que quer cultivar em sua vida. Formule essa intenção com palavras que reconhece como suas. Fique alguns instantes com o sentimento que ela desperta e imagine uma cena em que essa qualidade está presente. Leve essa imagem para o dia como uma referência pessoal, permitindo que os caminhos continuem se revelando com a experiência."
+            ],
+            "wordCount": 171,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=ollFRNVvXYc&t=3296s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu tenho certeza.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=ollFRNVvXYc&t=3296s",
+            "source": "Transcrição pública do vídeo · 54:56",
+            "videoTimestamp": "54:56",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "prosperity"
+    },
+    {
+      "id": "commute-plano-01",
+      "moment": "commute",
+      "theme": "Cuidar da própria prosperidade",
+      "translations": {
+        "pt-BR": {
+          "title": "Cuidar da própria prosperidade",
+          "body": "Eu administro com sabedoria.",
+          "widget": "Eu administro com sabedoria.",
+          "reflection": {
+            "messageId": "commute-plano-01",
+            "title": "Cuidar da própria prosperidade",
+            "principle": "Cuidar da própria prosperidade",
+            "paragraphs": [
+              "A prosperidade também pode ser experimentada no cuidado com o que passa pelas suas mãos. Seu tempo, seus recursos e suas capacidades participam da vida que deseja construir. Ao seguir para o trabalho, acolha a imagem de alguém que recebe com gratidão e cuida com carinho daquilo que tem valor.",
+              "Administrar com sabedoria pode significar perceber o propósito de um recurso antes de decidir como utilizá-lo. Há escolhas que trazem tranquilidade, outras que permitem aprender e outras que oferecem alegria compartilhada. Pense no que gostaria que a sua prosperidade sustentasse: uma casa acolhedora, um projeto significativo, experiências com a família. Essa imagem dá um sentido pessoal ao cuidado, aproximando dinheiro e recursos da vida que você deseja desfrutar.",
+              "Escolha agora algo que já tem e que pode apreciar mais: uma habilidade, um bem ou uma oportunidade. Imagine uma maneira de cuidá-lo que combine com seus valores. Deixe esse sentimento acompanhar o seu dia. Receber, apreciar e cuidar podem fazer parte de uma mesma experiência de abundância, vivida com serenidade e respeito pela sua história."
+            ],
+            "wordCount": 174,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=V7TItw1gjEE&t=2673s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu administro com sabedoria.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=V7TItw1gjEE&t=2673s",
+            "source": "Transcrição pública do vídeo · 44:33",
+            "videoTimestamp": "44:33",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "wealth"
+    },
+    {
+      "id": "commute-riqueza-01",
+      "moment": "commute",
+      "theme": "Abundância que alcança outras vidas",
+      "translations": {
+        "pt-BR": {
+          "title": "Abundância que alcança outras vidas",
+          "body": "Eu compartilho com alegria.",
+          "widget": "Eu compartilho com alegria.",
+          "reflection": {
+            "messageId": "commute-riqueza-01",
+            "title": "Abundância que alcança outras vidas",
+            "principle": "Abundância que alcança outras vidas",
+            "paragraphs": [
+              "A prosperidade pode carregar a alegria de oferecer algo bom. Talvez você imagine cuidar de alguém, presentear uma pessoa querida ou participar de uma conquista em conjunto. Durante seu caminho, permita que essa imagem traga um sentido afetivo à riqueza que deseja cultivar.",
+              "Compartilhar também pode acontecer por meio de conhecimentos, presença e experiências. Há algo seu que ganha vida quando encontra outra pessoa: uma habilidade que ensina, uma ideia que inspira ou uma escuta que acolhe. Pense no prazer de participar de trocas em que todos encontram valor. Essa experiência pode dar profundidade ao desejo de ter mais recursos, aproximando a abundância da generosidade e das relações que fazem sua vida significativa.",
+              "Imagine uma cena em que você compartilha algo com alegria e liberdade. Observe quem está presente e o sentimento que circula nesse encontro. Você pode acolher esse desejo como parte da vida próspera que quer viver. Leve para o dia a apreciação do que já pode oferecer e a esperança de ampliar suas possibilidades de cuidar e desfrutar."
+            ],
+            "wordCount": 171,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=V7TItw1gjEE&t=2673s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu compartilho com alegria.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=V7TItw1gjEE&t=2673s",
+            "source": "Transcrição pública do vídeo · 44:33",
+            "videoTimestamp": "44:33",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "wealth"
+    },
+    {
+      "id": "midday-gratidao-01",
+      "moment": "midday",
+      "theme": "Perceber o bem presente",
+      "translations": {
+        "pt-BR": {
+          "title": "Perceber o bem presente",
+          "body": "Eu já recebi.",
+          "widget": "Eu já recebi.",
+          "reflection": {
+            "messageId": "midday-gratidao-01",
+            "title": "Perceber o bem presente",
+            "principle": "Perceber o bem presente",
+            "paragraphs": [
+              "Pare por um instante e reconheça algo bom que já chegou à sua vida. Pode ser uma relação, uma oportunidade, um aprendizado ou uma conquista que um dia pareceu distante. Permita-se sentir a experiência de ter recebido e de poder apreciar o que agora faz parte da sua história.",
+              "Essa afirmação também pode acompanhar uma imagem da prosperidade que deseja viver. Experimente imaginar a tranquilidade de cuidar da própria vida, a alegria de compartilhar ou o conforto de uma casa acolhedora. Observe o sentimento dessa cena e o que ela revela sobre seus desejos. A gratidão pode aproximar você desse significado e, ao mesmo tempo, dar presença ao bem que já existe no momento atual.",
+              "No meio do dia, escolha uma riqueza concreta que recebeu e agradeça por ela com calma. Depois, acolha uma intenção de crescimento que tenha valor pessoal. Deixe as duas experiências conversarem: apreciar e desejar, desfrutar e continuar construindo. Leve para o restante do dia um olhar receptivo, capaz de reconhecer o que já participa da sua abundância."
+            ],
+            "wordCount": 172,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=ollFRNVvXYc&t=402s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu já recebi.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=ollFRNVvXYc&t=402s",
+            "source": "Transcrição pública do vídeo · 6:42",
+            "videoTimestamp": "6:42",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "gratitude"
+    },
+    {
+      "id": "midday-abundancia-01",
+      "moment": "midday",
+      "theme": "Reconhecer as bênçãos do caminho",
+      "translations": {
+        "pt-BR": {
+          "title": "Reconhecer as bênçãos do caminho",
+          "body": "Você é abençoado.",
+          "widget": "Você é abençoado.",
+          "reflection": {
+            "messageId": "midday-abundancia-01",
+            "title": "Reconhecer as bênçãos do caminho",
+            "principle": "Reconhecer as bênçãos do caminho",
+            "paragraphs": [
+              "Permita que esta pausa seja um momento de reconhecimento. Há experiências que podem ser acolhidas como bênçãos: um encontro, um gesto de cuidado, um lugar para descansar ou uma possibilidade que se abriu. Se essa palavra faz parte da sua espiritualidade, dê a ela um significado pessoal e concreto.",
+              "A prosperidade pode incluir a capacidade de perceber o que torna sua vida mais acolhedora. Pense em algo pelo qual sente carinho e no modo como isso participa do seu bem-estar. Uma relação pode trazer companhia; um conhecimento pode ampliar possibilidades; um recurso pode oferecer tranquilidade. Você pode apreciar esses presentes enquanto deseja crescer e receber mais. Há espaço para gratidão e esperança na mesma experiência.",
+              "Agora, recorde uma bênção que esteve presente neste dia. Fique alguns instantes com os detalhes da lembrança e reconheça como ela toca sua vida. Se desejar, expresse seu agradecimento em oração. Volte aos seus encontros e atividades levando a apreciação do que já o acompanha e uma disposição acolhedora para o bem que ainda pode perceber."
+            ],
+            "wordCount": 171,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=0aArDSeM6ac&t=3848s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Você é abençoado.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=0aArDSeM6ac&t=3848s",
+            "source": "Transcrição pública do vídeo · 1:04:08",
+            "videoTimestamp": "1:04:08",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "gratitude"
+    },
+    {
+      "id": "midday-capacidade-01",
+      "moment": "midday",
+      "theme": "Apoio para continuar",
+      "translations": {
+        "pt-BR": {
+          "title": "Apoio para continuar",
+          "body": "Você é sustentado.",
+          "widget": "Você é sustentado.",
+          "reflection": {
+            "messageId": "midday-capacidade-01",
+            "title": "Apoio para continuar",
+            "principle": "Apoio para continuar",
+            "paragraphs": [
+              "Você pode reconhecer os apoios que participam da sua vida. Há pessoas, conhecimentos, recursos e experiências que oferecem sustentação ao seu caminho. No meio do dia, permita uma pausa para perceber uma dessas presenças e acolher o conforto de contar com algo além do esforço do momento.",
+              "Pense na vida próspera que deseja: talvez ela inclua tranquilidade, uma casa acolhedora ou liberdade para escolher. Observe o que já ajuda a sustentar essa possibilidade. Pode ser uma relação de confiança, uma capacidade que desenvolveu ou uma oportunidade de aprender. Se sua espiritualidade oferece uma experiência de companhia, acolha também essa presença. Receber apoio pode fazer parte de uma vida abundante, junto ao que você oferece e compartilha.",
+              "Agora, escolha uma fonte de sustentação que reconhece na própria história. Agradeça por ela e imagine como gostaria de conservá-la com carinho. Você pode continuar seu dia valorizando essas relações e recursos. Leve consigo a disposição de acolher ajuda quando ela fizer sentido e a alegria de perceber que seu caminho inclui encontros, trocas e possibilidades de crescer acompanhado."
+            ],
+            "wordCount": 175,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=0aArDSeM6ac&t=3848s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Você é sustentado.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=0aArDSeM6ac&t=3848s",
+            "source": "Transcrição pública do vídeo · 1:04:08",
+            "videoTimestamp": "1:04:08",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "prosperity"
+    },
+    {
+      "id": "midday-persistencia-01",
+      "moment": "midday",
+      "theme": "Pertencimento e possibilidade",
+      "translations": {
+        "pt-BR": {
+          "title": "Pertencimento e possibilidade",
+          "body": "Eu sou herdeiro.",
+          "widget": "Eu sou herdeiro.",
+          "reflection": {
+            "messageId": "midday-persistencia-01",
+            "title": "Pertencimento e possibilidade",
+            "principle": "Pertencimento e possibilidade",
+            "paragraphs": [
+              "A palavra herdeiro pode evocar pertencimento, acolhimento e a possibilidade de receber. Dentro da linguagem espiritual desta afirmação, ela convida você a se aproximar da vida com dignidade. Permita-se imaginar uma existência em que há espaço para cuidado, prosperidade e alegria compartilhada.",
+              "Pense no que gostaria de receber e no significado que essa conquista teria para você. Talvez seja paz em casa, liberdade para desenvolver um projeto ou condições de cuidar de quem ama. Esse desejo pode ser acolhido com carinho. A experiência de pertencimento pode lembrar que você tem valor nas relações de que participa e que pode abrir espaço para reconhecer o bem disponível. Há riqueza em acolher possibilidades sem se afastar da própria história.",
+              "Nesta pausa do dia, recorde um lugar ou uma pessoa com quem se sente acolhido. Observe como seu corpo e seus pensamentos respondem a essa lembrança. Permita que o sentimento de pertencimento acompanhe a imagem da prosperidade que deseja viver. Leve essa presença para o restante do dia, recebendo com gratidão o que traz cuidado e sentido à sua vida."
+            ],
+            "wordCount": 177,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=ollFRNVvXYc&t=1081s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu sou herdeiro.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=ollFRNVvXYc&t=1081s",
+            "source": "Transcrição pública do vídeo · 18:01",
+            "videoTimestamp": "18:01",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "prosperity"
+    },
+    {
+      "id": "midday-foco-01",
+      "moment": "midday",
+      "theme": "Abundância no presente",
+      "translations": {
+        "pt-BR": {
+          "title": "Abundância no presente",
+          "body": "Eu vivo em abundância agora.",
+          "widget": "Eu vivo em abundância agora.",
+          "reflection": {
+            "messageId": "midday-foco-01",
+            "title": "Abundância no presente",
+            "principle": "Abundância no presente",
+            "paragraphs": [
+              "A abundância pode ser percebida neste instante. Há riquezas que fazem parte do seu caminho: uma pessoa que apoia você, algo que aprendeu, um recurso disponível ou uma possibilidade que começa a aparecer. Faça uma pequena pausa para reconhecer o que sustenta sua vida hoje. Aprecie a experiência concreta de ter algo bom presente, por mais simples que pareça.",
+              "Você pode agradecer pelo que já existe e continuar desejando uma vida mais próspera. A gratidão dá espaço para desfrutar uma conquista enquanto novos desejos amadurecem. Talvez uma refeição represente cuidado; uma conversa, pertencimento; uma habilidade, uma possibilidade de crescimento. Ao perceber essas riquezas, a palavra abundância ganha cores, lembranças e sentimentos que pertencem à sua própria história. Há valor no que você recebe, no que compartilha e no que ainda pode desenvolver.",
+              "Neste momento do dia, escolha três coisas que aprecia. Recorde cada uma com calma e permita-se sentir gratidão. Depois, imagine como gostaria de ampliar essa abundância na sua vida. Pode ser mais tranquilidade, mais recursos ou mais momentos felizes com quem ama. Acolha esse desejo com confiança e volte ao seu dia levando a presença do que já reconheceu."
+            ],
+            "wordCount": 191,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=vnQ063hu4RU&t=1106s",
+                "coverage": "Frase literal da transcrição e interpretação contextual. 18:19–19:28"
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu vivo em abundância agora.",
+            "translation": "Fala em português, conforme transcrição pública. Não é citação de Napoleon Hill autenticada.",
+            "url": "https://www.youtube.com/watch?v=vnQ063hu4RU&t=1106s",
+            "source": "Vídeo enviado pelo usuário · 18:19–19:28",
+            "videoUrl": "https://www.youtube.com/watch?v=vnQ063hu4RU&t=1106s",
+            "videoTimestamp": "18:19–19:28",
+            "checkedDate": "2026-10-27",
+            "verification": "Leitura de todos os 231 segmentos da transcrição pública disponível, 0:00–31:11. Comentários dos usuários não consultados. Vídeo não assistido integralmente em imagem e áudio."
+          }
+        }
+      },
+      "ambienceTheme": "prosperity"
+    },
+    {
+      "id": "midday-reconhecimento-01",
+      "moment": "midday",
+      "theme": "Uma riqueza de afeto",
+      "translations": {
+        "pt-BR": {
+          "title": "Uma riqueza de afeto",
+          "body": "Você é amado.",
+          "widget": "Você é amado.",
+          "reflection": {
+            "messageId": "midday-reconhecimento-01",
+            "title": "Uma riqueza de afeto",
+            "principle": "Uma riqueza de afeto",
+            "paragraphs": [
+              "Há uma riqueza que pode ser reconhecida nas relações de afeto. Um gesto de cuidado, uma lembrança compartilhada ou uma pessoa que se importa podem oferecer presença e acolhimento. Faça uma pausa e permita que uma dessas experiências encontre espaço no seu dia.",
+              "A vida próspera que você deseja pode incluir a tranquilidade de desfrutar dos vínculos que ama. Pense em uma conquista material e no que ela permitiria compartilhar: mais tempo juntos, uma casa confortável ou uma experiência feliz. Quando aproxima o desejo dessas relações, a riqueza ganha um significado que pertence à sua história. Você pode apreciar o carinho que recebe e reconhecer o valor da sua própria presença nos encontros que vive.",
+              "Agora, recorde uma ocasião em que se sentiu cuidado. Fique por alguns instantes com a lembrança e acolha a gratidão que ela desperta. Se desejar, pense em uma maneira simples de expressar carinho a alguém hoje. Leve para o restante do dia a apreciação de que a abundância também pode ser vivida em companhia, em trocas de afeto e em momentos de alegria."
+            ],
+            "wordCount": 178,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=ollFRNVvXYc&t=1939s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Você é amado.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=ollFRNVvXYc&t=1939s",
+            "source": "Transcrição pública do vídeo · 32:19",
+            "videoTimestamp": "32:19",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "gratitude"
+    },
+    {
+      "id": "sleep-descanso-01",
+      "moment": "sleep",
+      "theme": "Confiança no processo",
+      "translations": {
+        "pt-BR": {
+          "title": "Confiança no processo",
+          "body": "Eu confio no processo divino.",
+          "widget": "Eu confio no processo divino.",
+          "reflection": {
+            "messageId": "sleep-descanso-01",
+            "title": "Confiança no processo",
+            "principle": "Confiança no processo",
+            "paragraphs": [
+              "Ao encerrar o dia, permita-se repousar na confiança. Você percorreu mais uma parte do seu caminho, viveu encontros e atravessou experiências que agora podem encontrar descanso. Se a ideia de um processo divino faz sentido para você, acolha a sensação de estar acompanhado por uma presença maior. Deixe essa confiança trazer suavidade para este momento.",
+              "Há desejos que precisam de tempo para ganhar forma. Você pode conservá-los com carinho enquanto aprecia o que já foi vivido. Imagine a vida próspera que deseja como um lugar de paz: sua casa acolhedora, as pessoas que ama e a tranquilidade de desfrutar das próprias conquistas. Permita que essa imagem se aproxime como uma lembrança boa. O sentimento que ela desperta pode acompanhar sua gratidão e tornar o encerramento do dia mais sereno.",
+              "Agora, recorde algo pelo qual deseja agradecer e uma intenção que quer levar para amanhã. Se quiser, expresse isso em uma oração pessoal. Reconheça o valor do caminho que está construindo e acolha o conforto de descansar. Neste instante, você pode soltar o peso do dia, conservar a esperança e se permitir uma pausa em paz."
+            ],
+            "wordCount": 185,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=vnQ063hu4RU&t=131s",
+                "coverage": "Frase literal da transcrição e interpretação contextual. 2:04–2:17; 25:53–26:21"
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu confio no processo divino.",
+            "translation": "Fala em português, conforme transcrição pública. Não é citação de Napoleon Hill autenticada.",
+            "url": "https://www.youtube.com/watch?v=vnQ063hu4RU&t=131s",
+            "source": "Vídeo enviado pelo usuário · 2:04–2:17; 25:53–26:21",
+            "videoUrl": "https://www.youtube.com/watch?v=vnQ063hu4RU&t=131s",
+            "videoTimestamp": "2:04–2:17; 25:53–26:21",
+            "checkedDate": "2026-10-27",
+            "verification": "Leitura de todos os 231 segmentos da transcrição pública disponível, 0:00–31:11. Comentários dos usuários não consultados. Vídeo não assistido integralmente em imagem e áudio."
+          }
+        }
+      },
+      "ambienceTheme": "gratitude"
+    },
+    {
+      "id": "sleep-acolhimento-01",
+      "moment": "sleep",
+      "theme": "Acolher a quietude",
+      "translations": {
+        "pt-BR": {
+          "title": "Acolher a quietude",
+          "body": "Eu recebo a paz.",
+          "widget": "Eu recebo a paz.",
+          "reflection": {
+            "messageId": "sleep-acolhimento-01",
+            "title": "Acolher a quietude",
+            "principle": "Acolher a quietude",
+            "paragraphs": [
+              "Ao encerrar o dia, permita que a paz encontre um lugar em você. Há um momento em que o corpo pode repousar e as experiências podem se acomodar. Acolha o conforto do lugar em que está e dê a si alguns instantes de quietude, sem pressa de preencher o silêncio.",
+              "Imagine uma vida próspera em que há espaço para descansar. Veja sua casa acolhedora, as relações de carinho e a tranquilidade de desfrutar do que constrói. Observe o que essa imagem permite sentir. A paz pode acompanhar a gratidão por algo vivido e a esperança de continuar amanhã. Você pode conservar desejos importantes enquanto oferece cuidado a este momento de repouso, valorizando o bem que já participou do seu caminho.",
+              "Agora, recorde uma experiência boa deste dia, ainda que pequena. Agradeça por ela e permita que a lembrança se aproxime com suavidade. Se desejar, leve para o descanso uma imagem de serenidade que tenha significado pessoal. Deixe o encerramento do dia ganhar esse tom acolhedor: um lugar para apreciar, respirar no próprio ritmo e receber a quietude."
+            ],
+            "wordCount": 177,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=V7TItw1gjEE&t=2294s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu recebo a paz.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=V7TItw1gjEE&t=2294s",
+            "source": "Transcrição pública do vídeo · 38:14",
+            "videoTimestamp": "38:14",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "gratitude"
+    },
+    {
+      "id": "sleep-gratidao-01",
+      "moment": "sleep",
+      "theme": "Um lugar interior de descanso",
+      "translations": {
+        "pt-BR": {
+          "title": "Um lugar interior de descanso",
+          "body": "Aqui dentro mora a paz.",
+          "widget": "Aqui dentro mora a paz.",
+          "reflection": {
+            "messageId": "sleep-gratidao-01",
+            "title": "Um lugar interior de descanso",
+            "principle": "Um lugar interior de descanso",
+            "paragraphs": [
+              "Imagine um lugar acolhedor dentro de você. Pode ser uma lembrança, uma imagem de casa ou a sensação de estar perto de quem ama. Ao encerrar o dia, permita que esse lugar ganhe detalhes: uma luz suave, um gesto de carinho, um ambiente em que se sente à vontade para repousar.",
+              "A paz pode encontrar expressão em experiências simples que você aprecia. Talvez seja o conforto de um travesseiro, uma conversa boa ou uma conquista que trouxe alívio. Pense em como gostaria que a prosperidade participasse dessa tranquilidade. Pode haver um desejo de cuidar melhor da família, de desfrutar mais do próprio tempo ou de viver com recursos que ofereçam liberdade. Acolha o sentimento que acompanha essas imagens e o significado que têm para você.",
+              "Agora, escolha uma lembrança que lhe transmite serenidade. Fique alguns instantes com ela e permita-se apreciar o bem que representa. Se outros pensamentos aparecerem, retorne com gentileza à imagem acolhedora. Leve para o descanso a gratidão por um momento vivido e a esperança de conservar espaços de paz na vida que deseja construir."
+            ],
+            "wordCount": 178,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=ollFRNVvXYc&t=2193s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Aqui dentro mora a paz.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=ollFRNVvXYc&t=2193s",
+            "source": "Transcrição pública do vídeo · 36:33",
+            "videoTimestamp": "36:33",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "gratitude"
+    },
+    {
+      "id": "sleep-aprendizado-01",
+      "moment": "sleep",
+      "theme": "Preparar uma manhã acolhedora",
+      "translations": {
+        "pt-BR": {
+          "title": "Preparar uma manhã acolhedora",
+          "body": "Eu acordo com paz.",
+          "widget": "Eu acordo com paz.",
+          "reflection": {
+            "messageId": "sleep-aprendizado-01",
+            "title": "Preparar uma manhã acolhedora",
+            "principle": "Preparar uma manhã acolhedora",
+            "paragraphs": [
+              "Antes de dormir, permita-se imaginar uma manhã tranquila. Veja a luz chegando ao quarto, o conforto de despertar e alguns instantes para reconhecer o novo dia. Acolha essa imagem como uma intenção carinhosa para o modo como deseja encontrar a própria vida amanhã.",
+              "Pense no que ajuda uma manhã a ter significado para você. Talvez seja apreciar uma bebida quente, lembrar de alguém que ama ou reconhecer uma possibilidade de prosperar. A paz pode acompanhar essa experiência de começo, dando espaço para gratidão e confiança. Há algo acolhedor em imaginar o dia como um lugar onde seus desejos e valores também podem estar presentes. Você pode conservar essa intenção enquanto o corpo recebe o descanso de agora.",
+              "Escolha um pequeno detalhe para levar à imagem de amanhã: um pensamento de gratidão, uma lembrança boa ou um gesto de cuidado. Deixe que ele se aproxime com suavidade. Ao encerrar este dia, permita-se apreciar o que foi vivido e acolher a esperança de continuar. Seu descanso pode ser um momento de carinho pela pessoa que você é e pelo caminho que deseja viver."
+            ],
+            "wordCount": 181,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=0aArDSeM6ac&t=2949s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu acordo com paz.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=0aArDSeM6ac&t=2949s",
+            "source": "Transcrição pública do vídeo · 49:09",
+            "videoTimestamp": "49:09",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "gratitude"
+    },
+    {
+      "id": "sleep-plano-01",
+      "moment": "sleep",
+      "theme": "Permissão para repousar",
+      "translations": {
+        "pt-BR": {
+          "title": "Permissão para repousar",
+          "body": "Eu posso descansar.",
+          "widget": "Eu posso descansar.",
+          "reflection": {
+            "messageId": "sleep-plano-01",
+            "title": "Permissão para repousar",
+            "principle": "Permissão para repousar",
+            "paragraphs": [
+              "Você pode oferecer descanso a si neste momento. O dia teve suas experiências, encontros e movimentos; agora há espaço para uma pausa. Acolha a sensação de estar apoiado e permita que o encerramento aconteça com suavidade, respeitando o ritmo do seu corpo.",
+              "Uma vida próspera também pode incluir tempo para desfrutar e repousar. Pense no significado de ter uma casa acolhedora, relações de carinho e liberdade para viver momentos de tranquilidade. Talvez esses desejos façam parte da riqueza que quer construir. Permita que a imagem de uma vida assim desperte gratidão e cuidado. Você pode apreciar o que já existe e conservar a esperança do que ainda deseja, enquanto oferece presença a este instante.",
+              "Agora, recorde algo que fez ou recebeu e que merece um agradecimento. Fique por alguns instantes com essa lembrança. Se houver uma intenção para amanhã, acolha-a com carinho e deixe que encontre seu próprio lugar. Este momento pode ser dedicado ao conforto de repousar, à alegria de uma experiência boa e à serenidade de encerrar mais uma parte do seu caminho."
+            ],
+            "wordCount": 175,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=V7TItw1gjEE&t=2711s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu posso descansar.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=V7TItw1gjEE&t=2711s",
+            "source": "Transcrição pública do vídeo · 45:11",
+            "videoTimestamp": "45:11",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "gratitude"
+    },
+    {
+      "id": "sleep-abundancia-01",
+      "moment": "sleep",
+      "theme": "Descansar com pertencimento",
+      "translations": {
+        "pt-BR": {
+          "title": "Descansar com pertencimento",
+          "body": "Eu sou filho.",
+          "widget": "Eu sou filho.",
+          "reflection": {
+            "messageId": "sleep-abundancia-01",
+            "title": "Descansar com pertencimento",
+            "principle": "Descansar com pertencimento",
+            "paragraphs": [
+              "Na linguagem espiritual desta afirmação, ser filho evoca uma experiência de acolhimento. Imagine um lugar em que há cuidado, presença e a possibilidade de descansar com confiança. Se essa imagem faz sentido para você, permita que ela acompanhe o encerramento do dia como uma expressão pessoal de pertencimento.",
+              "Pense no que uma vida abundante permite sentir quando é vivida com carinho: uma casa em paz, uma mesa compartilhada, o conforto de estar perto de pessoas queridas. Essas imagens podem dar profundidade ao desejo de prosperar. O bem que você quer receber pode ter uma ligação afetiva com a forma como deseja viver e cuidar. Acolha esse significado e reconheça algo que já participa dessa experiência na sua própria história.",
+              "Agora, recorde uma ocasião em que se sentiu bem recebido. Aprecie o sentimento de estar à vontade e deixe que a lembrança encontre espaço em você. Se desejar, expresse gratidão em uma oração pessoal. Permita que esse momento de quietude conserve o carinho pelo que viveu e a esperança do que deseja cultivar, oferecendo acolhimento ao seu descanso."
+            ],
+            "wordCount": 177,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            },
+            "editorialStatus": "direct-aurya-reflection-video-inspired",
+            "reviewReferences": [
+              {
+                "url": "https://www.youtube.com/watch?v=ollFRNVvXYc&t=1081s",
+                "coverage": "Frase literal; aprofundamento original em linguagem direta."
+              }
+            ]
+          },
+          "citation": {
+            "author": "Narrador do vídeo",
+            "kind": "video-exact-transcript",
+            "original": "Eu sou filho.",
+            "translation": "Fala em português conforme transcrição pública. Não é citação autenticada de Napoleon Hill.",
+            "url": "https://www.youtube.com/watch?v=ollFRNVvXYc&t=1081s",
+            "source": "Transcrição pública do vídeo · 18:01",
+            "videoTimestamp": "18:01",
+            "checkedDate": "2026-10-27",
+            "verification": "Trecho localizado no conteúdo falado. Comentários de usuários não utilizados."
+          }
+        }
+      },
+      "ambienceTheme": "gratitude"
+    },
+    {
+      "id": "wake-intention-prosperity-01",
+      "moment": "wake",
+      "theme": "Prosperidade",
+      "intention": "prosperity",
+      "ambienceTheme": "prosperity",
+      "translations": {
+        "pt-BR": {
+          "title": "Despertar para prosperar",
+          "body": "Eu desperto para novas possibilidades. Acolho a prosperidade e avanço com confiança.",
+          "widget": "Eu desperto para novas possibilidades. Acolho a prosperidade e avanço com confiança.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "wake-intention-prosperity-01",
+            "title": "Despertar para prosperar",
+            "paragraphs": [
+              "Comece este dia reconhecendo que seus desejos merecem espaço. Prosperar pode significar ter mais liberdade para escolher, cuidar de quem ama e oferecer ao mundo aquilo que sabe fazer. Dê forma a esse desejo: imagine uma situação em que você vive com mais tranquilidade e perceba o que torna essa imagem valiosa para você.",
+              "Ao longo da manhã, esteja presente para as possibilidades que surgirem. Uma conversa, uma ideia ou um aprendizado podem merecer sua atenção. Escolha algo que possa fazer hoje e permita que a confiança acompanhe esse primeiro movimento.",
+              "Antes de se levantar, respire com calma e escolha uma atitude para cultivar prosperidade hoje. Leve essa intenção para o seu dia com abertura e confiança."
+            ],
+            "wordCount": 117,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "commute-intention-prosperity-01",
+      "moment": "commute",
+      "theme": "Prosperidade",
+      "intention": "prosperity",
+      "ambienceTheme": "prosperity",
+      "translations": {
+        "pt-BR": {
+          "title": "Presença que abre caminhos",
+          "body": "Levo confiança aos meus caminhos e transformo minhas capacidades em oportunidades de prosperar.",
+          "widget": "Levo confiança aos meus caminhos e transformo minhas capacidades em oportunidades de prosperar.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "commute-intention-prosperity-01",
+            "title": "Presença que abre caminhos",
+            "paragraphs": [
+              "Entre neste momento lembrando que você leva consigo experiências, talentos e possibilidades de aprender. Seu valor também aparece na maneira como escuta, resolve um problema e cuida do que faz. Reconheça uma capacidade sua que pode contribuir para o dia de alguém.",
+              "Imagine-se atravessando este dia com presença e firmeza. Observe quais oportunidades combinam com o que deseja construir e escolha uma atitude que dependa de você. A confiança ganha espaço quando você se permite participar, perguntar e oferecer uma contribuição.",
+              "Se estiver em deslocamento, mantenha a atenção no trajeto. Ao chegar, escolha uma contribuição concreta para colocar em prática."
+            ],
+            "wordCount": 100,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "midday-intention-prosperity-01",
+      "moment": "midday",
+      "theme": "Prosperidade",
+      "intention": "prosperity",
+      "ambienceTheme": "prosperity",
+      "translations": {
+        "pt-BR": {
+          "title": "Sustentar o crescimento",
+          "body": "Minha prosperidade cresce com escolhas conscientes. Reconheço os avanços e fortaleço o que quero construir.",
+          "widget": "Minha prosperidade cresce com escolhas conscientes. Reconheço os avanços e fortaleço o que quero construir.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "midday-intention-prosperity-01",
+            "title": "Sustentar o crescimento",
+            "paragraphs": [
+              "Pare por alguns instantes e perceba onde colocou sua energia até agora. Talvez tenha realizado algo importante, aprendido com um obstáculo ou percebido que precisa mudar de direção. Dê valor a essa percepção: ela pode orientar a próxima parte do dia.",
+              "Retome a imagem de prosperidade que tem sentido para você. Escolha uma prioridade para as próximas horas e ofereça a ela sua atenção. Reconheça também o que já ajudou seu caminho: um recurso disponível, uma parceria ou uma capacidade que está desenvolvendo.",
+              "Pergunte a si mesmo: qual escolha nas próximas horas combina com a vida que desejo cultivar?"
+            ],
+            "wordCount": 99,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "sleep-intention-prosperity-01",
+      "moment": "sleep",
+      "theme": "Prosperidade",
+      "intention": "prosperity",
+      "ambienceTheme": "prosperity",
+      "translations": {
+        "pt-BR": {
+          "title": "Descansar com confiança",
+          "body": "Agradeço o que construí hoje. Descanso com confiança e acolho as possibilidades de amanhã.",
+          "widget": "Agradeço o que construí hoje. Descanso com confiança e acolho as possibilidades de amanhã.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "sleep-intention-prosperity-01",
+            "title": "Descansar com confiança",
+            "paragraphs": [
+              "Encerre este dia reconhecendo aquilo que conseguiu sustentar. Houve escolhas, tentativas e cuidados que talvez tenham passado despercebidos enquanto você seguia sua rotina. Traga um deles à memória e permita-se apreciar seu próprio empenho.",
+              "Se há algo pendente, você pode registrar um próximo passo e deixá-lo para outro momento. Imagine uma continuidade tranquila para seus projetos, com espaço para aprender e ajustar o percurso. Seu descanso também merece cuidado enquanto você constrói a vida que deseja.",
+              "Escolha uma conquista para agradecer e uma intenção simples para amanhã. Depois, permita-se repousar."
+            ],
+            "wordCount": 90,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "wake-intention-gratitude-01",
+      "moment": "wake",
+      "theme": "Gratidão",
+      "intention": "gratitude",
+      "ambienceTheme": "gratitude",
+      "translations": {
+        "pt-BR": {
+          "title": "A riqueza de começar agradecendo",
+          "body": "Desperto com gratidão pela vida que me sustenta e abertura para toda a riqueza que posso cultivar.",
+          "widget": "Desperto com gratidão pela vida que me sustenta e abertura para toda a riqueza que posso cultivar.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "wake-intention-gratitude-01",
+            "title": "A riqueza de começar agradecendo",
+            "paragraphs": [
+              "Ao começar o dia, reconheça algo que já oferece sustentação à sua vida. Pode ser uma pessoa, um lugar, uma possibilidade de aprender ou um cuidado recebido. Dedique atenção a uma lembrança concreta e perceba o que ela desperta em você.",
+              "Você pode desejar novas conquistas enquanto aprecia as que já existem. Leve essa gratidão para seus projetos e para as pessoas que encontrar. Permita que ela apareça em um gesto: cuidar do que tem, agradecer uma ajuda ou oferecer presença a alguém.",
+              "Antes de iniciar sua rotina, nomeie três coisas pelas quais agradece e escolha uma maneira de demonstrar esse sentimento."
+            ],
+            "wordCount": 102,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "commute-intention-gratitude-01",
+      "moment": "commute",
+      "theme": "Gratidão",
+      "intention": "gratitude",
+      "ambienceTheme": "gratitude",
+      "translations": {
+        "pt-BR": {
+          "title": "Gratidão em movimento",
+          "body": "Reconheço o valor do que recebo e ofereço meu melhor. A gratidão acompanha os caminhos da minha prosperidade.",
+          "widget": "Reconheço o valor do que recebo e ofereço meu melhor. A gratidão acompanha os caminhos da minha prosperidade.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "commute-intention-gratitude-01",
+            "title": "Gratidão em movimento",
+            "paragraphs": [
+              "Enquanto se prepara para as atividades do dia, lembre-se de que seu caminho reúne muitas contribuições. Pessoas ensinaram algo a você, ofereceram apoio ou tornaram uma tarefa possível. Reconhecer isso pode dar mais significado ao que você também oferece.",
+              "Leve essa disposição para suas relações. Escute com atenção, reconheça um trabalho bem-feito e valorize as oportunidades de colaboração. A gratidão pode acompanhar sua ambição e ajudar a lembrar para quem e para quê você deseja crescer.",
+              "Quando puder fazer uma pausa com segurança, pense em alguém a quem deseja agradecer com sinceridade."
+            ],
+            "wordCount": 92,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "midday-intention-gratitude-01",
+      "moment": "midday",
+      "theme": "Gratidão",
+      "intention": "gratitude",
+      "ambienceTheme": "gratitude",
+      "translations": {
+        "pt-BR": {
+          "title": "Perceber a abundância presente",
+          "body": "Reconheço a abundância que já existe no meu dia e recebo cada pequena conquista com gratidão.",
+          "widget": "Reconheço a abundância que já existe no meu dia e recebo cada pequena conquista com gratidão.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "midday-intention-gratitude-01",
+            "title": "Perceber a abundância presente",
+            "paragraphs": [
+              "Faça uma pausa para perceber algo bom que aconteceu desde que acordou. Talvez tenha sido um encontro, uma tarefa concluída ou um instante de tranquilidade. Dê a essa experiência alguns segundos de atenção, mesmo que o restante do dia tenha sido exigente.",
+              "Reconhecer o que foi bom permite apreciar a própria caminhada. Você pode continuar buscando mais e, ao mesmo tempo, dar valor ao que já está presente. Observe também como suas escolhas contribuíram para essa experiência e o que deseja repetir nas próximas horas.",
+              "Registre uma conquista e reconheça por que ela teve valor para você. Dê espaço à gratidão por esse momento e leve esse sentimento para as próximas horas."
+            ],
+            "wordCount": 112,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "sleep-intention-gratitude-01",
+      "moment": "sleep",
+      "theme": "Gratidão",
+      "intention": "gratitude",
+      "ambienceTheme": "gratitude",
+      "translations": {
+        "pt-BR": {
+          "title": "Guardar o bem vivido",
+          "body": "Encerro o dia reconhecendo suas riquezas: o amor que recebi, o que aprendi e tudo o que pude construir.",
+          "widget": "Encerro o dia reconhecendo suas riquezas: o amor que recebi, o que aprendi e tudo o que pude construir.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "sleep-intention-gratitude-01",
+            "title": "Guardar o bem vivido",
+            "paragraphs": [
+              "Ao repousar, escolha uma lembrança do dia que deseja guardar. Pode ser um gesto de carinho, uma conversa ou a satisfação de ter tentado algo importante. Permita que essa lembrança ocupe sua atenção por alguns instantes.",
+              "Há dias em que agradecer exige encontrar algo muito pequeno. Acolha o que sentir, sem exigir de si uma emoção perfeita. Você pode reconhecer um bem recebido e ainda assim desejar apoio, mudanças ou descanso. Deixe que a gratidão tenha a forma que é possível hoje.",
+              "Pense em uma experiência que deseja levar consigo e agradeça por ela com suas próprias palavras."
+            ],
+            "wordCount": 98,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "wake-intention-visualization-01",
+      "moment": "wake",
+      "theme": "Visualização",
+      "intention": "visualization",
+      "ambienceTheme": "prosperity",
+      "translations": {
+        "pt-BR": {
+          "title": "Dar forma à vida desejada",
+          "body": "Eu vejo com clareza a vida próspera que desejo e começo hoje a construí-la com confiança.",
+          "widget": "Eu vejo com clareza a vida próspera que desejo e começo hoje a construí-la com confiança.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "wake-intention-visualization-01",
+            "title": "Dar forma à vida desejada",
+            "paragraphs": [
+              "Permita-se formar uma imagem concreta da vida que deseja cultivar. Onde você está? Como vive seu dia? O que representa riqueza para você nessa cena: liberdade, tempo, conforto, generosidade? Escolha detalhes que tenham significado pessoal, em vez de buscar uma imagem que impressione outras pessoas.",
+              "Perceba a atitude que você leva a essa visão. Talvez seja coragem para aprender, serenidade para decidir ou disposição para começar. Traga uma dessas qualidades para esta manhã e escolha uma ação compatível com ela. Sua imagem pode servir de referência enquanto você constrói seu caminho.",
+              "Por alguns instantes, visualize uma cena desejada. Depois, escolha um passo que possa dar hoje para se aproximar dela. Guarde essa intenção e comece o dia com clareza e confiança."
+            ],
+            "wordCount": 121,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "commute-intention-visualization-01",
+      "moment": "commute",
+      "theme": "Visualização",
+      "intention": "visualization",
+      "ambienceTheme": "prosperity",
+      "translations": {
+        "pt-BR": {
+          "title": "Levar a visão ao caminho",
+          "body": "Mantenho viva a visão da minha prosperidade e reconheço os passos que podem aproximar-me dela.",
+          "widget": "Mantenho viva a visão da minha prosperidade e reconheço os passos que podem aproximar-me dela.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "commute-intention-visualization-01",
+            "title": "Levar a visão ao caminho",
+            "paragraphs": [
+              "Leve consigo uma intenção clara para este dia. Imagine como deseja se apresentar nas situações que encontrará: com atenção, confiança e abertura para aprender. Pense em um momento concreto, como uma conversa ou uma tarefa que merece cuidado.",
+              "Considere também o que pode dificultar esse momento e como gostaria de responder. Preparar uma atitude possível dá mais utilidade à sua visão. Escolha uma resposta que respeite seus valores e permita ajustar o percurso quando as circunstâncias mudarem.",
+              "Durante deslocamentos, mantenha a atenção no ambiente. Faça a visualização quando estiver parado em um lugar seguro."
+            ],
+            "wordCount": 94,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "midday-intention-visualization-01",
+      "moment": "midday",
+      "theme": "Visualização",
+      "intention": "visualization",
+      "ambienceTheme": "prosperity",
+      "translations": {
+        "pt-BR": {
+          "title": "Reencontrar sua direção",
+          "body": "Minha visão de abundância orienta minhas escolhas. Hoje, transformo uma possibilidade em um passo concreto.",
+          "widget": "Minha visão de abundância orienta minhas escolhas. Hoje, transformo uma possibilidade em um passo concreto.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "midday-intention-visualization-01",
+            "title": "Reencontrar sua direção",
+            "paragraphs": [
+              "No meio do dia, retome o que deseja cultivar. Veja mentalmente uma situação que represente realização para você e observe o que mais importa nela. Talvez o desejo central seja tranquilidade, autonomia ou a possibilidade de cuidar melhor de alguém.",
+              "Escolha uma parte pequena dessa visão que possa orientar as próximas horas. Se surgir uma dificuldade, simplifique o passo ou procure uma informação que ajude a decidir. Sua visão pode amadurecer à medida que você conhece melhor as próprias necessidades e possibilidades.",
+              "Pergunte: o que posso fazer nesta tarde que tenha relação com o futuro que imagino?"
+            ],
+            "wordCount": 97,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "sleep-intention-visualization-01",
+      "moment": "sleep",
+      "theme": "Visualização",
+      "intention": "visualization",
+      "ambienceTheme": "prosperity",
+      "translations": {
+        "pt-BR": {
+          "title": "Repousar com uma imagem de paz",
+          "body": "Levo para o descanso uma visão de paz, realização e abundância, acolhendo com confiança o meu caminho.",
+          "widget": "Levo para o descanso uma visão de paz, realização e abundância, acolhendo com confiança o meu caminho.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "sleep-intention-visualization-01",
+            "title": "Repousar com uma imagem de paz",
+            "paragraphs": [
+              "Antes de dormir, imagine uma cena tranquila ligada à vida que deseja. Pode ser uma casa acolhedora, uma relação de carinho ou a sensação de ter concluído um trabalho importante. Observe o que torna essa cena significativa e deixe que ela tenha um ritmo calmo.",
+              "Você pode guardar essa imagem sem precisar resolver hoje todos os caminhos até ela. Se uma preocupação surgir, reconheça-a e registre o que precisa retomar amanhã. Volte então àquilo que deseja cultivar, dando espaço ao repouso e ao cuidado com você.",
+              "Escolha um detalhe acolhedor da sua imagem e permaneça com ele por alguns instantes, sem exigir um resultado."
+            ],
+            "wordCount": 104,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "wake-intention-wealth-01",
+      "moment": "wake",
+      "theme": "Riqueza",
+      "intention": "wealth",
+      "ambienceTheme": "wealth",
+      "translations": {
+        "pt-BR": {
+          "title": "Reconhecer seu valor",
+          "body": "Reconheço meu valor. Expando minhas capacidades e construo riqueza com coragem, constância e sabedoria.",
+          "widget": "Reconheço meu valor. Expando minhas capacidades e construo riqueza com coragem, constância e sabedoria.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "wake-intention-wealth-01",
+            "title": "Reconhecer seu valor",
+            "paragraphs": [
+              "Comece este dia reconhecendo uma capacidade que você já possui e outra que deseja desenvolver. Sua experiência, sua curiosidade e seu empenho podem encontrar novas formas de expressão. Dê atenção àquilo que deseja aprender e ao significado que crescer tem para você.",
+              "Defina o que a riqueza representa na vida que quer construir. Pode ser autonomia, recursos para cuidar da família ou liberdade para dedicar tempo ao que importa. Escolha uma atitude para hoje que respeite esse significado e reconheça o valor de começar de onde você está.",
+              "Reconheça o que deseja proporcionar a si e às pessoas que ama ao construir riqueza. Depois, escolha um pequeno compromisso com esse propósito para o dia de hoje."
+            ],
+            "wordCount": 116,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "commute-intention-wealth-01",
+      "moment": "commute",
+      "theme": "Riqueza",
+      "intention": "wealth",
+      "ambienceTheme": "wealth",
+      "translations": {
+        "pt-BR": {
+          "title": "Valor que se transforma em contribuição",
+          "body": "Ofereço meus talentos com confiança e amplio minha capacidade de criar valor e construir riqueza.",
+          "widget": "Ofereço meus talentos com confiança e amplio minha capacidade de criar valor e construir riqueza.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "commute-intention-wealth-01",
+            "title": "Valor que se transforma em contribuição",
+            "paragraphs": [
+              "Ao iniciar suas atividades, reconheça o que você pode oferecer com atenção e qualidade. Uma habilidade, uma ideia ou uma maneira cuidadosa de resolver um problema podem contribuir para algo que importa. Observe onde seu conhecimento encontra uma necessidade real.",
+              "Permita-se aprender com as pessoas e reconhecer o próprio trabalho. Você pode desenvolver uma capacidade, pedir uma orientação ou apresentar uma ideia com clareza. Escolha uma situação em que queira agir com mais presença e dê valor ao esforço que coloca nela.",
+              "Ao chegar ao seu destino, escolha uma habilidade para exercitar com intenção ao longo do dia."
+            ],
+            "wordCount": 98,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "midday-intention-wealth-01",
+      "moment": "midday",
+      "theme": "Riqueza",
+      "intention": "wealth",
+      "ambienceTheme": "wealth",
+      "translations": {
+        "pt-BR": {
+          "title": "Cuidar do que se constrói",
+          "body": "Honro meus recursos e minhas conquistas. Faço escolhas que fortalecem a riqueza que desejo construir.",
+          "widget": "Honro meus recursos e minhas conquistas. Faço escolhas que fortalecem a riqueza que desejo construir.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "midday-intention-wealth-01",
+            "title": "Cuidar do que se constrói",
+            "paragraphs": [
+              "Reserve alguns instantes para observar como está usando seus recursos hoje: tempo, atenção, conhecimento e dinheiro. Reconheça o que tem valor para você e quais escolhas combinam com suas prioridades. Procure compreender sua situação com serenidade.",
+              "Você pode ajustar um compromisso, organizar uma informação ou dedicar atenção a algo que vinha adiando. Escolha uma ação pequena que torne seu caminho mais claro. Construir também envolve perceber limites, aprender e pedir ajuda quando precisar.",
+              "Identifique um recurso que deseja cuidar melhor nesta tarde e uma escolha concreta que expresse esse cuidado."
+            ],
+            "wordCount": 90,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "sleep-intention-wealth-01",
+      "moment": "sleep",
+      "theme": "Riqueza",
+      "intention": "wealth",
+      "ambienceTheme": "wealth",
+      "translations": {
+        "pt-BR": {
+          "title": "Reconhecer a riqueza do percurso",
+          "body": "Agradeço cada avanço na riqueza que construo e descanso em paz, reconhecendo o valor do meu esforço.",
+          "widget": "Agradeço cada avanço na riqueza que construo e descanso em paz, reconhecendo o valor do meu esforço.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "sleep-intention-wealth-01",
+            "title": "Reconhecer a riqueza do percurso",
+            "paragraphs": [
+              "Ao encerrar o dia, reconheça uma escolha que contribuiu para seus objetivos. Talvez tenha aprendido, cuidado de um recurso ou oferecido algo importante no trabalho. Permita-se apreciar esse avanço sem depender de uma grande conquista para dar valor ao seu esforço.",
+              "Relembre o que deseja proporcionar a si e às pessoas que ama. Deixe que esse significado acompanhe sua visão de futuro. Se houver uma pendência, anote um próximo passo possível e ofereça a si mesmo a oportunidade de descansar.",
+              "Diga a si mesmo o que reconhece no seu empenho de hoje e deixe o restante para retomar com mais clareza."
+            ],
+            "wordCount": 101,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "wake-intention-abundance-01",
+      "moment": "wake",
+      "theme": "Abundância",
+      "intention": "abundance",
+      "ambienceTheme": "prosperity",
+      "translations": {
+        "pt-BR": {
+          "title": "Acolher possibilidades",
+          "body": "Desperto com abertura para receber, coragem para crescer e gratidão pela abundância que posso cultivar.",
+          "widget": "Desperto com abertura para receber, coragem para crescer e gratidão pela abundância que posso cultivar.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "wake-intention-abundance-01",
+            "title": "Acolher possibilidades",
+            "paragraphs": [
+              "Ao começar o dia, perceba algo que já nutre sua vida e algo que deseja ampliar. Abundância pode ter a forma de afeto, oportunidades, criatividade, recursos e tempo para viver o que importa. Escolha o significado que faz sentido para você agora.",
+              "Abra espaço para receber ajuda, aprender e reconhecer possibilidades. Você também pode oferecer presença e cuidado a quem encontrar. Pense em uma forma de cultivar essa troca hoje, respeitando seu tempo, seus desejos e seus limites.",
+              "Escolha uma palavra que represente a abundância que deseja cultivar e leve-a como intenção para esta manhã."
+            ],
+            "wordCount": 95,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "commute-intention-abundance-01",
+      "moment": "commute",
+      "theme": "Abundância",
+      "intention": "abundance",
+      "ambienceTheme": "prosperity",
+      "translations": {
+        "pt-BR": {
+          "title": "Generosidade com presença",
+          "body": "Reconheço possibilidades de crescer, recebo apoio com gratidão e compartilho o que posso oferecer.",
+          "widget": "Reconheço possibilidades de crescer, recebo apoio com gratidão e compartilho o que posso oferecer.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "commute-intention-abundance-01",
+            "title": "Generosidade com presença",
+            "paragraphs": [
+              "No caminho para suas atividades, lembre-se das trocas que dão vida ao seu cotidiano. Você aprende com alguém, oferece uma contribuição e recebe diferentes formas de apoio. Há valor tanto em compartilhar quanto em permitir que algo bom chegue até você.",
+              "A generosidade pode aparecer em um gesto simples e compatível com seus limites: escutar, reconhecer ou compartilhar um conhecimento. Observe uma oportunidade de agir assim hoje. Permita também que uma ajuda recebida tenha espaço, sem diminuir o mérito do seu próprio esforço.",
+              "Quando chegar, escolha um gesto de generosidade possível e uma forma de aceitar apoio se precisar."
+            ],
+            "wordCount": 99,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "midday-intention-abundance-01",
+      "moment": "midday",
+      "theme": "Abundância",
+      "intention": "abundance",
+      "ambienceTheme": "prosperity",
+      "translations": {
+        "pt-BR": {
+          "title": "Reconhecer e expandir",
+          "body": "Aprecio a abundância presente e abro espaço para novas conquistas com confiança, presença e generosidade.",
+          "widget": "Aprecio a abundância presente e abro espaço para novas conquistas com confiança, presença e generosidade.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "midday-intention-abundance-01",
+            "title": "Reconhecer e expandir",
+            "paragraphs": [
+              "Olhe para o que já está disponível neste momento. Pode ser uma capacidade, uma relação de apoio ou uma oportunidade de reorganizar o dia. Reconheça como esses recursos podem sustentar uma parte do que deseja construir.",
+              "Permita-se desejar novas conquistas com clareza sobre o que elas representam. Escolha algo que queira ampliar e uma atitude que possa experimentar. Ao mesmo tempo, perceba o que já merece cuidado e o que deseja preservar enquanto cresce.",
+              "Faça uma pausa para reconhecer onde percebe abundância em sua vida. Escolha algo que deseja cultivar mais e uma atitude que expresse essa intenção nas próximas horas."
+            ],
+            "wordCount": 101,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "sleep-intention-abundance-01",
+      "moment": "sleep",
+      "theme": "Abundância",
+      "intention": "abundance",
+      "ambienceTheme": "prosperity",
+      "translations": {
+        "pt-BR": {
+          "title": "Acolher o descanso",
+          "body": "Recebo este descanso com gratidão. Reconheço a abundância do que vivi e acolho o que ainda pode florescer.",
+          "widget": "Recebo este descanso com gratidão. Reconheço a abundância do que vivi e acolho o que ainda pode florescer.",
+          "editorialOrigin": {
+            "kind": "original-aurya",
+            "source": "Escrita original do AURYA para a sequência de intenções. Temas de confiança, prioridades, reconhecimento e cuidado com recursos.",
+            "url": "https://www.instagram.com/mentalidade_milionaria/",
+            "note": "Não é citação da postagem ou de Napoleon Hill; a pesquisa das 150 publicações ainda está em andamento."
+          },
+          "reflection": {
+            "messageId": "sleep-intention-abundance-01",
+            "title": "Acolher o descanso",
+            "paragraphs": [
+              "Antes de repousar, reconheça o que trouxe vida ao seu dia: um encontro, uma descoberta, um cuidado ou uma pequena realização. Dê espaço a uma lembrança que ajude você a encerrar este momento com acolhimento.",
+              "Se há algo que deseja viver de maneira diferente, você pode guardar essa intenção para continuar amanhã. Imagine um caminho com espaço para crescer, receber e compartilhar, respeitando o próprio ritmo. Agora, permita que o descanso também faça parte da vida que você deseja cultivar.",
+              "Escolha algo pelo qual agradecer e ofereça a si mesmo uma palavra de acolhimento antes de dormir."
+            ],
+            "wordCount": 97,
+            "origin": "original-aurya",
+            "narration": {
+              "kind": "device_tts",
+              "locale": "pt-BR",
+              "autoplay": false
+            }
+          }
+        }
+      }
+    }
+  ],
+  "moments": [
+    {
+      "id": "wake",
+      "label": "Ao acordar"
+    },
+    {
+      "id": "commute",
+      "label": "Indo para o trabalho"
+    },
+    {
+      "id": "midday",
+      "label": "Meio do dia"
+    },
+    {
+      "id": "sleep",
+      "label": "Antes de dormir"
+    }
+  ],
+  "editorialNote": "Afirmações originais em primeira pessoa e no presente, inspiradas em princípios de Napoleon Hill. Não são citações atribuídas a Hill, endosso oficial ou promessas financeiras ou clínicas. Eu sou próspero e Eu sou abundante são preferências expressas do usuário.",
+  "contentRevision": "2026-10-26-reflexoes-01",
+  "editorialReferences": [
+    {
+      "url": "https://www.naphill.org/ezine/ezine-530/",
+      "title": "Napoleon Hill Foundation — Ezine 530, 17/03/2017",
+      "topics": [
+        "propósito definido",
+        "fé aplicada/autoconfiança",
+        "iniciativa pessoal",
+        "autodisciplina",
+        "atenção dirigida",
+        "persistência"
+      ]
+    },
+    {
+      "url": "https://www.naphill.org/ezine/ezine-936-dec-13-2024/",
+      "title": "Napoleon Hill Foundation — Ezine 936, 13/12/2024",
+      "topics": [
+        "atenção dirigida",
+        "propósito definido",
+        "planejamento"
+      ]
+    }
+  ],
+  "reflectionConfig": {
+    "access": "undecided",
+    "optional": true,
+    "narrationKind": "device_tts",
+    "originalEditorial": true
+  },
+  "userReferences": [
+    {
+      "url": "https://www.youtube.com/@LeisDoTriunfoBR",
+      "status": "inventoried-139-videos-review-in-progress",
+      "note": "Inventário público verificado; 2 transcrições lidas integralmente no lote inicial. Cobertura detalhada em canal_cobertura.json; não equivale a todos os vídeos analisados."
+    }
+  ]
+}
