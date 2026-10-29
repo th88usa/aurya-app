@@ -52,3 +52,11 @@ codemagic.yaml contém apenas o fluxo inicial de análise e testes Flutter, aind
 As mensagens atuais de intenção são escritas originais do AURYA, identificadas como tal. A pesquisa dos canais de origem está incompleta. A revisão editorial agendada no chat do Codex não é executada por este repositório nem implantada na Vercel.
 
 O proprietário mantém o controle da conta e do repositório. Nenhuma senha, sessão do navegador ou token faz parte desta entrega. Não há licença de software de terceiros concedida para o código do projeto neste momento.
+
+## Idiomas na prévia web
+
+O seletor no cabeçalho oferece português, inglês, espanhol, chinês simplificado, japonês, russo, francês e italiano. Os sete arquivos em assets/locales traduzem as 20 mensagens atuais, seus aprofundamentos, a interface e as práticas da jornada. São versões editoriais localizadas do AURYA; não são citações literais de autores. Revisão por falantes nativos é recomendada antes do lançamento comercial.
+
+Idioma e registros permanecem no navegador; trocar de idioma não apaga o progresso. Conteúdos anteriores acessados por links antigos continuam em português, com aviso. Voz depende de uma opção local compatível instalada no aparelho. O catálogo nativo e a exportação técnica do widget continuam em português; portar idiomas para Flutter/WidgetKit é uma etapa pendente.
+
+Validação desta alteração: 44 testes JavaScript, incluindo integridade dos sete arquivos, troca concorrente de idioma, preservação de notas e seleção de voz compatível. A qualidade percebida da voz ainda depende de teste no dispositivo.
