@@ -1,0 +1,211 @@
+{
+  "version": 2,
+  "locale": "pt-BR",
+  "demo": true,
+  "moments": [
+    {
+      "id": "wake",
+      "label": "Ao acordar",
+      "minute": 420,
+      "messages": [
+        {
+          "id": "wake-prosperidade-01",
+          "text": "Eu acordo com gratidão."
+        },
+        {
+          "id": "wake-abundancia-01",
+          "text": "Eu acordo com fé."
+        },
+        {
+          "id": "wake-capacidade-01",
+          "text": "Você é capaz."
+        },
+        {
+          "id": "wake-proposito-01",
+          "text": "Eu tenho fé."
+        },
+        {
+          "id": "wake-atencao-01",
+          "text": "Eu atraio riqueza com facilidade."
+        },
+        {
+          "id": "wake-dignidade-01",
+          "text": "Eu sou digno de receber."
+        },
+        {
+          "id": "wake-intention-prosperity-01",
+          "text": "Eu desperto para novas possibilidades. Acolho a prosperidade e avanço com confiança."
+        },
+        {
+          "id": "wake-intention-gratitude-01",
+          "text": "Desperto com gratidão pela vida que me sustenta e abertura para toda a riqueza que posso cultivar."
+        },
+        {
+          "id": "wake-intention-visualization-01",
+          "text": "Eu vejo com clareza a vida próspera que desejo e começo hoje a construí-la com confiança."
+        },
+        {
+          "id": "wake-intention-wealth-01",
+          "text": "Reconheço meu valor. Expando minhas capacidades e construo riqueza com coragem, constância e sabedoria."
+        },
+        {
+          "id": "wake-intention-abundance-01",
+          "text": "Desperto com abertura para receber, coragem para crescer e gratidão pela abundância que posso cultivar."
+        }
+      ]
+    },
+    {
+      "id": "commute",
+      "label": "Indo para o trabalho",
+      "minute": 510,
+      "messages": [
+        {
+          "id": "commute-confianca-01",
+          "text": "O dinheiro flui para mim com facilidade."
+        },
+        {
+          "id": "commute-presenca-01",
+          "text": "Você é guiado."
+        },
+        {
+          "id": "commute-intencao-01",
+          "text": "Eu recebo com gratidão."
+        },
+        {
+          "id": "commute-decisao-01",
+          "text": "Eu tenho certeza."
+        },
+        {
+          "id": "commute-plano-01",
+          "text": "Eu administro com sabedoria."
+        },
+        {
+          "id": "commute-riqueza-01",
+          "text": "Eu compartilho com alegria."
+        },
+        {
+          "id": "commute-intention-prosperity-01",
+          "text": "Levo confiança aos meus caminhos e transformo minhas capacidades em oportunidades de prosperar."
+        },
+        {
+          "id": "commute-intention-gratitude-01",
+          "text": "Reconheço o valor do que recebo e ofereço meu melhor. A gratidão acompanha os caminhos da minha prosperidade."
+        },
+        {
+          "id": "commute-intention-visualization-01",
+          "text": "Mantenho viva a visão da minha prosperidade e reconheço os passos que podem aproximar-me dela."
+        },
+        {
+          "id": "commute-intention-wealth-01",
+          "text": "Ofereço meus talentos com confiança e amplio minha capacidade de criar valor e construir riqueza."
+        },
+        {
+          "id": "commute-intention-abundance-01",
+          "text": "Reconheço possibilidades de crescer, recebo apoio com gratidão e compartilho o que posso oferecer."
+        }
+      ]
+    },
+    {
+      "id": "midday",
+      "label": "Meio do dia",
+      "minute": 750,
+      "messages": [
+        {
+          "id": "midday-gratidao-01",
+          "text": "Eu já recebi."
+        },
+        {
+          "id": "midday-abundancia-01",
+          "text": "Você é abençoado."
+        },
+        {
+          "id": "midday-capacidade-01",
+          "text": "Você é sustentado."
+        },
+        {
+          "id": "midday-persistencia-01",
+          "text": "Eu sou herdeiro."
+        },
+        {
+          "id": "midday-foco-01",
+          "text": "Eu vivo em abundância agora."
+        },
+        {
+          "id": "midday-reconhecimento-01",
+          "text": "Você é amado."
+        },
+        {
+          "id": "midday-intention-prosperity-01",
+          "text": "Minha prosperidade cresce com escolhas conscientes. Reconheço os avanços e fortaleço o que quero construir."
+        },
+        {
+          "id": "midday-intention-gratitude-01",
+          "text": "Reconheço a abundância que já existe no meu dia e recebo cada pequena conquista com gratidão."
+        },
+        {
+          "id": "midday-intention-visualization-01",
+          "text": "Minha visão de abundância orienta minhas escolhas. Hoje, transformo uma possibilidade em um passo concreto."
+        },
+        {
+          "id": "midday-intention-wealth-01",
+          "text": "Honro meus recursos e minhas conquistas. Faço escolhas que fortalecem a riqueza que desejo construir."
+        },
+        {
+          "id": "midday-intention-abundance-01",
+          "text": "Aprecio a abundância presente e abro espaço para novas conquistas com confiança, presença e generosidade."
+        }
+      ]
+    },
+    {
+      "id": "sleep",
+      "label": "Antes de dormir",
+      "minute": 1320,
+      "messages": [
+        {
+          "id": "sleep-descanso-01",
+          "text": "Eu confio no processo divino."
+        },
+        {
+          "id": "sleep-acolhimento-01",
+          "text": "Eu recebo a paz."
+        },
+        {
+          "id": "sleep-gratidao-01",
+          "text": "Aqui dentro mora a paz."
+        },
+        {
+          "id": "sleep-aprendizado-01",
+          "text": "Eu acordo com paz."
+        },
+        {
+          "id": "sleep-plano-01",
+          "text": "Eu posso descansar."
+        },
+        {
+          "id": "sleep-abundancia-01",
+          "text": "Eu sou filho."
+        },
+        {
+          "id": "sleep-intention-prosperity-01",
+          "text": "Agradeço o que construí hoje. Descanso com confiança e acolho as possibilidades de amanhã."
+        },
+        {
+          "id": "sleep-intention-gratitude-01",
+          "text": "Encerro o dia reconhecendo suas riquezas: o amor que recebi, o que aprendi e tudo o que pude construir."
+        },
+        {
+          "id": "sleep-intention-visualization-01",
+          "text": "Levo para o descanso uma visão de paz, realização e abundância, acolhendo com confiança o meu caminho."
+        },
+        {
+          "id": "sleep-intention-wealth-01",
+          "text": "Agradeço cada avanço na riqueza que construo e descanso em paz, reconhecendo o valor do meu esforço."
+        },
+        {
+          "id": "sleep-intention-abundance-01",
+          "text": "Recebo este descanso com gratidão. Reconheço a abundância do que vivi e acolho o que ainda pode florescer."
+        }
+      ]
+    }
+  ]
+}
