@@ -1,4 +1,4 @@
-import {mkdirSync,copyFileSync,readdirSync,readFileSync} from 'node:fs';
+import {mkdirSync,copyFileSync,readdirSync,readFileSync,existsSync} from 'node:fs';
 import {fileURLToPath} from 'node:url';
 import path from 'node:path';
 const root=fileURLToPath(new URL('../',import.meta.url)),out=path.join(root,'web-deploy');
@@ -9,3 +9,5 @@ const catalog=JSON.parse(readFileSync(path.join(root,'assets/audio_catalog.json'
 for(const track of catalog.tracks)copy('assets/'+track.asset);
 copy('assets/audio/reflection-piano-original.wav');
 console.log(`Prepared static preview and ${catalog.tracks.length} music tracks.`);
+
+if(existsSync(path.join(root,'assets/locales')))for(const name of readdirSync(path.join(root,'assets/locales')))if(name.endsWith('.json'))copy('assets/locales/'+name);
