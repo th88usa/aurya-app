@@ -3,6 +3,7 @@ import 'package:flutter/widgets.dart';
 import 'package:aurya/domain.dart';
 import 'package:aurya/main.dart';
 import 'package:aurya/content_repository.dart';
+import 'package:aurya/native_state.dart';
 void main(){
  test('quatro momentos, fronteiras e noite atravessando meia-noite',(){
   final s=RitualSchedule(exampleMinutes);expect(s.valid,isTrue);
@@ -19,7 +20,7 @@ void main(){
  testWidgets('cadastro obrigatório de demonstração',(tester) async {
   final repository=await tester.runAsync(ContentRepository.load);
   expect(repository,isNotNull);
-  await tester.pumpWidget(AuryaApp(repository:repository));
+  await tester.pumpWidget(AuryaApp(repository:repository,storage:MemoryStore()));
   await tester.pumpAndSettle();
   expect(find.text('Cadastro de demonstração'),findsOneWidget);
   expect(find.text('Bloqueio'),findsNothing);
