@@ -15,14 +15,14 @@ struct AuryaWidgetConfig: Codable {
     let moments: [AuryaWidgetMoment]
     func validate() throws {
         let ids: Set<String> = ["wake", "commute", "midday", "sleep"]
-        guard version == 2, locale == "pt-BR", demo,
+        guard version == 2, ["pt-BR", "en", "es", "zh-Hans", "ja", "ru", "fr", "it"].contains(locale), demo,
               moments.count == 4, Set(moments.map(\.id)) == ids,
               Set(moments.map(\.minute)).count == 4,
               moments.allSatisfy({ (0..<1440).contains($0.minute)
                 && !$0.label.isEmpty && $0.label.count <= 40
                 && !$0.messages.isEmpty && $0.messages.count <= 200
                 && Set($0.messages.map(\.id)).count == $0.messages.count
-                && $0.messages.allSatisfy({ !$0.id.isEmpty && !$0.text.isEmpty && $0.text.count <= 100 }) })
+                && $0.messages.allSatisfy({ !$0.id.isEmpty && !$0.text.isEmpty && $0.text.count <= 120 }) })
         else { throw AuryaWidgetError.invalidPayload }
     }
 }
