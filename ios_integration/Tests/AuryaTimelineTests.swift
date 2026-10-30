@@ -36,8 +36,22 @@ final class AuryaTimelineTests: XCTestCase {
         let valid = config()
         let real = AuryaWidgetConfig(version: 2, locale: "pt-BR", demo: false, moments: valid.moments)
         XCTAssertThrowsError(try real.validate())
-        let unsupported = AuryaWidgetConfig(version: 2, locale: "ja", demo: true, moments: valid.moments)
+        let unsupported = AuryaWidgetConfig(version: 2, locale: "xx", demo: true, moments: valid.moments)
         XCTAssertThrowsError(try unsupported.validate())
+    }
+    func testSupportedLocalesAndWidgetLength() throws {
+        let valid = config()
+        for locale in ["pt-BR", "en", "es", "zh-Hans", "ja", "ru", "fr", "it"] {
+            XCTAssertNoThrow(try AuryaWidgetConfig(version: 2, locale: locale, demo: true, moments: valid.moments).validate())
+        }
+        func withText(_ count: Int) -> AuryaWidgetConfig {
+            AuryaWidgetConfig(version: 2, locale: "en", demo: true, moments: valid.moments.map { item in
+                AuryaWidgetMoment(id: item.id, label: item.label, minute: item.minute,
+                    messages: [AuryaWidgetMessage(id: item.id + "-new", text: String(repeating: "a", count: count))])
+            })
+        }
+        XCTAssertNoThrow(try withText(120).validate())
+        XCTAssertThrowsError(try withText(121).validate())
     }
     func testDSTSpringAndRepeatedAutumnHour() throws {
         let spring = date(2026,3,8,0)
