@@ -184,7 +184,27 @@
     "A configuração nativa de exemplo continua em português.": "原生示例配置仍为葡萄牙语。",
     "Sessão encerrada.": "音频已结束。",
     "Temporizador concluído. Áudio encerrado.": "计时结束，音频已停止。",
-    "Não foi possível reproduzir. Selecione a amostra novamente e tente iniciar.": "无法播放，请重新选择曲目并重试。"
+    "Não foi possível reproduzir. Selecione a amostra novamente e tente iniciar.": "无法播放，请重新选择曲目并重试。",
+    "Seus registros ficam neste aparelho. Uma pausa não apaga suas conquistas.": "记录保存在此设备上，暂停不会抹去进步。",
+    "Seus registros ficam neste aparelho.": "记录保存在此设备上。",
+    "No seu ritmo.": "按照自己的节奏。",
+    "Apagar dados locais": "删除本地数据",
+    "Apagar dados locais?": "删除本地数据？",
+    "Isso remove as anotações, o progresso e as preferências deste aparelho.": "这会删除设备上的记录、进度和偏好设置。",
+    "Cancelar": "取消",
+    "Apagar": "删除",
+    "Salvar configuração do widget": "保存小组件设置",
+    "Permitir frases no widget de demonstração": "允许在演示小组件显示文字",
+    "A ponte do widget ainda precisa de integração e teste no iPhone.": "小组件桥接仍需集成并在 iPhone 测试。",
+    "Não foi possível salvar. Seus registros estão apenas nesta sessão.": "无法保存，记录仅在当前会话保留。",
+    "Não foi possível recuperar todos os dados locais. Confira seus registros antes de continuar.": "无法恢复所有本地数据，继续前请检查记录。",
+    "Falha ao carregar conteúdo.": "无法加载内容。",
+    "Áudio pausado. Toque em Continuar para retomar.": "音频已暂停。",
+    "Áudio pausado ao sair do aplicativo.": "离开此区域后音频暂停。",
+    "Escolha uma amostra e toque em Reproduzir.": "已就绪，不会自动播放。",
+    "Escolha o tema da sua intenção. O acesso aos planos será decidido depois.": "选择主题，按自己的节奏聆听。免费版和高级版权限将稍后确定。",
+    "Widget real ainda não integrado ou validado neste ambiente.": "小组件桥接仍需集成并在 iPhone 测试。",
+    "Ponte iOS não integrada neste ambiente. Nada enviado a um widget real.": "小组件桥接仍需集成并在 iPhone 测试。"
   },
   "messages": {
     "wake-intention-prosperity-01": {

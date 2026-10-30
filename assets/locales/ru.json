@@ -184,7 +184,27 @@
     "A configuração nativa de exemplo continua em português.": "Пример нативной конфигурации остаётся на португальском.",
     "Sessão encerrada.": "Аудио завершено.",
     "Temporizador concluído. Áudio encerrado.": "Таймер завершён. Аудио остановлено.",
-    "Não foi possível reproduzir. Selecione a amostra novamente e tente iniciar.": "Не удалось воспроизвести. Выберите трек и повторите попытку."
+    "Não foi possível reproduzir. Selecione a amostra novamente e tente iniciar.": "Не удалось воспроизвести. Выберите трек и повторите попытку.",
+    "Seus registros ficam neste aparelho. Uma pausa não apaga suas conquistas.": "Записи остаются на устройстве. Пауза не стирает достижения.",
+    "Seus registros ficam neste aparelho.": "Записи остаются на этом устройстве.",
+    "No seu ritmo.": "В своём ритме.",
+    "Apagar dados locais": "Удалить локальные данные",
+    "Apagar dados locais?": "Удалить локальные данные?",
+    "Isso remove as anotações, o progresso e as preferências deste aparelho.": "Это удалит заметки, прогресс и настройки с устройства.",
+    "Cancelar": "Отмена",
+    "Apagar": "Удалить",
+    "Salvar configuração do widget": "Сохранить настройки виджета",
+    "Permitir frases no widget de demonstração": "Разрешить сообщения в демовиджете",
+    "A ponte do widget ainda precisa de integração e teste no iPhone.": "Мост виджета ещё требует интеграции и проверки на iPhone.",
+    "Não foi possível salvar. Seus registros estão apenas nesta sessão.": "Не удалось сохранить. Записи только в этом сеансе.",
+    "Não foi possível recuperar todos os dados locais. Confira seus registros antes de continuar.": "Не все данные восстановлены. Проверьте записи перед продолжением.",
+    "Falha ao carregar conteúdo.": "Не удалось загрузить содержимое.",
+    "Áudio pausado. Toque em Continuar para retomar.": "Аудио на паузе.",
+    "Áudio pausado ao sair do aplicativo.": "Аудио приостановлено при выходе из раздела.",
+    "Escolha uma amostra e toque em Reproduzir.": "Готово. Без автозапуска.",
+    "Escolha o tema da sua intenção. O acesso aos planos será decidido depois.": "Выберите тему и слушайте в своём ритме. Условия бесплатного и платного доступа определятся позже.",
+    "Widget real ainda não integrado ou validado neste ambiente.": "Мост виджета ещё требует интеграции и проверки на iPhone.",
+    "Ponte iOS não integrada neste ambiente. Nada enviado a um widget real.": "Мост виджета ещё требует интеграции и проверки на iPhone."
   },
   "messages": {
     "wake-intention-prosperity-01": {

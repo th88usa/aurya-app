@@ -184,7 +184,27 @@
     "A configuração nativa de exemplo continua em português.": "The sample native configuration remains in Portuguese.",
     "Sessão encerrada.": "Audio stopped.",
     "Temporizador concluído. Áudio encerrado.": "Timer finished. Audio stopped.",
-    "Não foi possível reproduzir. Selecione a amostra novamente e tente iniciar.": "Playback failed. Select the track again and retry."
+    "Não foi possível reproduzir. Selecione a amostra novamente e tente iniciar.": "Playback failed. Select the track again and retry.",
+    "Seus registros ficam neste aparelho. Uma pausa não apaga suas conquistas.": "Your notes stay on this device. A pause does not erase your progress.",
+    "Seus registros ficam neste aparelho.": "Your notes stay on this device.",
+    "No seu ritmo.": "At your pace.",
+    "Apagar dados locais": "Delete local data",
+    "Apagar dados locais?": "Delete local data?",
+    "Isso remove as anotações, o progresso e as preferências deste aparelho.": "This removes notes, progress and preferences from this device.",
+    "Cancelar": "Cancel",
+    "Apagar": "Delete",
+    "Salvar configuração do widget": "Save widget settings",
+    "Permitir frases no widget de demonstração": "Allow messages in the demo widget",
+    "A ponte do widget ainda precisa de integração e teste no iPhone.": "The widget bridge still needs integration and iPhone testing.",
+    "Não foi possível salvar. Seus registros estão apenas nesta sessão.": "Saving failed. Notes remain in this session only.",
+    "Não foi possível recuperar todos os dados locais. Confira seus registros antes de continuar.": "Some local data could not be restored. Check your notes before continuing.",
+    "Falha ao carregar conteúdo.": "Content could not load.",
+    "Áudio pausado. Toque em Continuar para retomar.": "Audio paused.",
+    "Áudio pausado ao sair do aplicativo.": "Audio paused after leaving this area.",
+    "Escolha uma amostra e toque em Reproduzir.": "Ready. No autoplay.",
+    "Escolha o tema da sua intenção. O acesso aos planos será decidido depois.": "Choose a theme and listen at your pace. Free/Premium access will be decided later.",
+    "Widget real ainda não integrado ou validado neste ambiente.": "The widget bridge still needs integration and iPhone testing.",
+    "Ponte iOS não integrada neste ambiente. Nada enviado a um widget real.": "The widget bridge still needs integration and iPhone testing."
   },
   "messages": {
     "wake-intention-prosperity-01": {

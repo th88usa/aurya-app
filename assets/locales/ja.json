@@ -184,7 +184,27 @@
     "A configuração nativa de exemplo continua em português.": "ネイティブ設定のサンプルはポルトガル語のままです。",
     "Sessão encerrada.": "音声を終了しました。",
     "Temporizador concluído. Áudio encerrado.": "タイマーが終了し、音声を停止しました。",
-    "Não foi possível reproduzir. Selecione a amostra novamente e tente iniciar.": "再生できませんでした。曲を選び直して再試行してください。"
+    "Não foi possível reproduzir. Selecione a amostra novamente e tente iniciar.": "再生できませんでした。曲を選び直して再試行してください。",
+    "Seus registros ficam neste aparelho. Uma pausa não apaga suas conquistas.": "記録はこの端末に保存されます。休んでも歩みは消えません。",
+    "Seus registros ficam neste aparelho.": "記録はこの端末に保存されます。",
+    "No seu ritmo.": "あなたのペースで。",
+    "Apagar dados locais": "端末内のデータを削除",
+    "Apagar dados locais?": "端末内のデータを削除しますか？",
+    "Isso remove as anotações, o progresso e as preferências deste aparelho.": "この端末のメモ、進捗、設定を削除します。",
+    "Cancelar": "キャンセル",
+    "Apagar": "削除",
+    "Salvar configuração do widget": "ウィジェット設定を保存",
+    "Permitir frases no widget de demonstração": "デモウィジェットへの表示を許可",
+    "A ponte do widget ainda precisa de integração e teste no iPhone.": "ウィジェット接続は統合とiPhoneでのテストが必要です。",
+    "Não foi possível salvar. Seus registros estão apenas nesta sessão.": "保存できませんでした。記録はこのセッション内のみです。",
+    "Não foi possível recuperar todos os dados locais. Confira seus registros antes de continuar.": "一部のデータを復元できませんでした。続ける前に記録を確認してください。",
+    "Falha ao carregar conteúdo.": "コンテンツを読み込めませんでした。",
+    "Áudio pausado. Toque em Continuar para retomar.": "音声を一時停止しました。",
+    "Áudio pausado ao sair do aplicativo.": "この画面を離れたため一時停止しました。",
+    "Escolha uma amostra e toque em Reproduzir.": "準備できました。自動再生はしません。",
+    "Escolha o tema da sua intenção. O acesso aos planos será decidido depois.": "テーマを選び、自分のペースで聴いてください。無料版と有料版の範囲は今後決まります。",
+    "Widget real ainda não integrado ou validado neste ambiente.": "ウィジェット接続は統合とiPhoneでのテストが必要です。",
+    "Ponte iOS não integrada neste ambiente. Nada enviado a um widget real.": "ウィジェット接続は統合とiPhoneでのテストが必要です。"
   },
   "messages": {
     "wake-intention-prosperity-01": {

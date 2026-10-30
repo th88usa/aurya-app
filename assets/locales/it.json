@@ -184,7 +184,27 @@
     "A configuração nativa de exemplo continua em português.": "La configurazione nativa di esempio resta in portoghese.",
     "Sessão encerrada.": "Audio terminato.",
     "Temporizador concluído. Áudio encerrado.": "Timer terminato. Audio interrotto.",
-    "Não foi possível reproduzir. Selecione a amostra novamente e tente iniciar.": "Riproduzione non riuscita. Seleziona di nuovo il brano e riprova."
+    "Não foi possível reproduzir. Selecione a amostra novamente e tente iniciar.": "Riproduzione non riuscita. Seleziona di nuovo il brano e riprova.",
+    "Seus registros ficam neste aparelho. Uma pausa não apaga suas conquistas.": "Le note restano sul dispositivo. Una pausa non cancella i progressi.",
+    "Seus registros ficam neste aparelho.": "Le note restano su questo dispositivo.",
+    "No seu ritmo.": "Al tuo ritmo.",
+    "Apagar dados locais": "Elimina dati locali",
+    "Apagar dados locais?": "Eliminare i dati locali?",
+    "Isso remove as anotações, o progresso e as preferências deste aparelho.": "Elimina note, progressi e preferenze dal dispositivo.",
+    "Cancelar": "Annulla",
+    "Apagar": "Elimina",
+    "Salvar configuração do widget": "Salva impostazioni widget",
+    "Permitir frases no widget de demonstração": "Consenti messaggi nel widget demo",
+    "A ponte do widget ainda precisa de integração e teste no iPhone.": "Il collegamento del widget richiede integrazione e test su iPhone.",
+    "Não foi possível salvar. Seus registros estão apenas nesta sessão.": "Salvataggio non riuscito. Note conservate solo in questa sessione.",
+    "Não foi possível recuperar todos os dados locais. Confira seus registros antes de continuar.": "Alcuni dati locali non sono stati ripristinati. Controlla le note prima di continuare.",
+    "Falha ao carregar conteúdo.": "Impossibile caricare il contenuto.",
+    "Áudio pausado. Toque em Continuar para retomar.": "Audio in pausa.",
+    "Áudio pausado ao sair do aplicativo.": "Audio in pausa all’uscita dalla sezione.",
+    "Escolha uma amostra e toque em Reproduzir.": "Pronto. Nessuna riproduzione automatica.",
+    "Escolha o tema da sua intenção. O acesso aos planos será decidido depois.": "Scegli un tema e ascolta al tuo ritmo. Gli accessi Gratis e Premium verranno definiti in seguito.",
+    "Widget real ainda não integrado ou validado neste ambiente.": "Il collegamento del widget richiede integrazione e test su iPhone.",
+    "Ponte iOS não integrada neste ambiente. Nada enviado a um widget real.": "Il collegamento del widget richiede integrazione e test su iPhone."
   },
   "messages": {
     "wake-intention-prosperity-01": {
