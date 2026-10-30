@@ -19,3 +19,5 @@ web-deploy/
 Thumbs.db
 
 .codemagic-ios/
+
+.codemagic-widget-tests/

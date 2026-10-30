@@ -1,3 +1,15 @@
+# Integração do widget — atualização de 30/10/2026
+
+A base Flutter 0.5 compilou no simulador e passou em 17 testes. O novo script `tools/integrate-ios-widget.rb` adiciona a extensão WidgetKit, embute-a no Runner, registra a ponte no callback do engine implícito e configura links de reflexão no projeto descartável de CI. Esta nova integração ainda precisa passar pela compilação e execução.
+
+O grupo `group.app.aurya.simulator` serve apenas à preparação de simulador: não foi registrado na Apple. Antes de distribuir, substituir pelos identificadores e App Group da equipe do proprietário e assinar ambos os targets. Nenhuma assinatura ou inscrição Apple foi feita.
+
+O widget recebe quatro mensagens da intenção e idioma escolhidos, sem anotações ou dados pessoais. O aparelho precisa validar legibilidade, atualização, privacidade e abertura do aprofundamento. Não confundir compilação com teste visual ou instalação no iPhone.
+
+O procedimento manual abaixo é a referência anterior e requer adaptação aos scripts atuais.
+
+---
+
 # Preparação do widget de bloqueio do iPhone
 
 ## Estado real
