@@ -19,6 +19,7 @@ FileUtils.cp(File.join(source, 'Runner', 'AppDelegate.swift'), File.join(ios, 'R
 # AppDelegate already belongs to Runner; never add a second @main source.
 FileUtils.rm(File.join(ios, 'AuryaNative', 'Runner', 'AppDelegate.swift'))
 widget = project.new_target(:app_extension, 'AuryaLockScreen', :ios, '16.0')
+widget.product_reference.path = 'AuryaLockScreen.appex'
 group = project.main_group.new_group('AuryaNative', 'AuryaNative')
 shared = group.new_group('Shared', 'Shared')
 store = shared.new_file('AuryaWidgetStore.swift')
@@ -71,6 +72,8 @@ end
 widget.build_configurations.each do |config|
   config.build_settings.merge!({
     'PRODUCT_BUNDLE_IDENTIFIER' => 'app.aurya.aurya.AuryaLockScreen',
+    'PRODUCT_NAME' => 'AuryaLockScreen',
+    'PRODUCT_MODULE_NAME' => 'AuryaLockScreen',
     'INFOPLIST_FILE' => 'AuryaNative/Widget/Info.plist',
     'GENERATE_INFOPLIST_FILE' => 'NO', 'SKIP_INSTALL' => 'YES',
     'APPLICATION_EXTENSION_API_ONLY' => 'YES',
