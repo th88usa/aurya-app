@@ -18,5 +18,8 @@ elif analysis.exists():
     analysis.unlink()
 for folder in ('lib', 'test', 'assets'):
     shutil.copytree(root / folder, project / folder, dirs_exist_ok=True)
+for folder in ('integration_test', 'test_driver'):
+    if (root / folder).is_dir():
+        shutil.copytree(root / folder, project / folder, dirs_exist_ok=True)
 shutil.copy2(root / 'pubspec.yaml', project / 'pubspec.yaml')
-print('Copied AURYA sources into the isolated CI project. Widget integration remains pending.')
+print('Copied AURYA sources and simulator tests into the isolated CI project.')
